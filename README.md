@@ -4,13 +4,9 @@ DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
 Project Team Members: 
 - Kevin Elkin, kelkin@ucsd.edu
-
 - Liam McCarthy, lamccart@ucsd.edu
-
 - Umang Saraf, usaraf@ucsd.edu
-
 - Charul Sharma, c4sharma@ucsd.edu
-
 - Karan Sunil, ksunil@ucsd.edu
 
 ## Abstract
