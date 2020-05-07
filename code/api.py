@@ -52,13 +52,15 @@ def top_songs(artist):
     results = sp.artist_top_tracks(artist['id'])
     return results['tracks']
 
-def download_track(track, directory):
+def download_track(track, directory, artist_name):
     if track['preview_url'] != None:
         url = track['preview_url']
         if not os.path.isdir(directory):
             os.mkdir(directory)
-        
-        name = directory + '/' + track['name'] + '.mp4'
+        artist_path = directory + '/' + artist_name
+        if not os.path.isdir(artist_path):
+            os.mkdir(artist_path)
+        name = directory + '/' + artist_name + '/' + track['name'] + '.mp4'
         urllib.request.urlretrieve(url, name)
     else:
         name =  track['name']
