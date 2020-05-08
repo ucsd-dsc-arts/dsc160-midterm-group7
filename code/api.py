@@ -2,6 +2,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import os
 import urllib.request
+from os import path
+
 
 
 
@@ -52,16 +54,24 @@ def top_songs(artist):
     results = sp.artist_top_tracks(artist['id'])
     return results['tracks']
 
-def download_track(track, directory, artist_name):
+def download_track(track, directory,  category, artist_name):
+    track['name'] = track['name'].replace('/', '')
+    
     if track['preview_url'] != None:
         url = track['preview_url']
         if not os.path.isdir(directory):
             os.mkdir(directory)
-        artist_path = directory + '/' + artist_name
+        cat_path = directory + '/' + category
+        if not os.path.isdir(cat_path):
+            os.mkdir(cat_path)
+        artist_path = cat_path + '/' + artist_name
         if not os.path.isdir(artist_path):
             os.mkdir(artist_path)
-        name = directory + '/' + artist_name + '/' + track['name'] + '.mp4'
-        urllib.request.urlretrieve(url, name)
+        name = artist_path + '/' + track['name'] + '.mp4'
+        if path.exists(name):
+            print('already downlaoded')
+        else:
+            urllib.request.urlretrieve(url, name)
     else:
         name =  track['name']
         print('No Preview URL found for track - %s'%name) 
