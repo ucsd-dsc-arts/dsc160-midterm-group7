@@ -1,0 +1,952 @@
+,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,name,speechiness,tempo,time_signature,track_name,type,uri,valence
+0,0.356,0.708,339471,0.583,0.0,1,0.101,-7.847,0,Caleborate,0.406,82.105,4,4 Willem,bay_area,spotify:track:4nWPmn1tqegITYKdZOJpKv,0.676
+1,0.823,0.535,214368,0.216,0.00395,9,0.11,-12.932,1,Caleborate,0.217,171.609,4,Caught Up,bay_area,spotify:track:4jvQ3EvoTkgeXiqTjLlhPv,0.246
+2,0.497,0.765,159046,0.514,0.0,5,0.0929,-10.924,0,Caleborate,0.449,97.423,4,Clicquot Shower - A COLORS SHOW,bay_area,spotify:track:3iBBYvj3I5DNSuUgFjushj,0.571
+3,0.684,0.656,271214,0.54,0.0,8,0.118,-7.78,1,Caleborate,0.487,82.715,4,El Portal,bay_area,spotify:track:7fWMxQKbY4FxofuYz1ZMDx,0.542
+4,0.161,0.749,244753,0.631,0.0,7,0.153,-7.082,0,Caleborate,0.186,95.012,4,Pull Up,bay_area,spotify:track:7jNKltvrrClDaaG81flM1w,0.429
+5,0.711,0.596,167866,0.517,5.67e-06,11,0.172,-10.962,0,Caleborate,0.367,74.291,4,Untitled (Hit Record),bay_area,spotify:track:3mM3yqzLY8k5kpVawTqSsz,0.53
+6,0.642,0.702,219179,0.316,0.0,5,0.123,-14.255,1,Caleborate,0.439,134.175,4,These Days,bay_area,spotify:track:1c0IND0G0SlApPtxfbhlEZ,0.307
+7,0.736,0.818,242240,0.389,0.0,3,0.249,-8.406,0,Caleborate,0.112,126.767,4,home,bay_area,spotify:track:7kaIJuX8fxDgTFumxFmCWi,0.602
+8,0.791,0.715,254399,0.453,0.0,9,0.0698,-9.738,1,Caleborate,0.339,75.003,4,Away From,bay_area,spotify:track:3SVeFVQS1H0XRLjkEccPKC,0.465
+9,0.0384,0.445,237013,0.579,0.0,5,0.163,-8.586,1,Caleborate,0.313,85.265,4,Bankrobber,bay_area,spotify:track:3SqVtIMesHETZDm3UU2Pb4,0.548
+10,0.694,0.601,161043,0.596,0.00579,11,0.107,-7.373,1,WHY?,0.0251,108.0,4,Siren 042,bay_area,spotify:track:75nN4kH1uzSsUdMrdUVfrq,0.457
+11,0.419,0.524,229803,0.918,0.000655,4,0.455,-5.463,0,WHY?,0.0529,147.966,4,Good Friday,bay_area,spotify:track:65Z4dxKlWtNhrPghqWtevw,0.738
+12,0.555,0.452,246109,0.779,3.05e-05,0,0.235,-5.208,0,WHY?,0.0397,123.992,4,"The Vowels, Pt. 2",bay_area,spotify:track:46wDtZkcoQdSelJ12emUIp,0.13
+13,0.805,0.34,371147,0.938,0.479,2,0.319,-10.099,1,WHY?,0.376,74.035,4,Good Friday - Boards of Canada Remix,bay_area,spotify:track:2WnTLTRahk484WKBAR1sG2,0.364
+14,0.212,0.441,184438,0.548,9e-05,5,0.111,-8.184,0,WHY?,0.0551,129.915,4,These Few Presidents,bay_area,spotify:track:3je5cct1llhBSOE9Vkimbi,0.459
+15,0.0625,0.407,233422,0.902,3.66e-06,2,0.364,-4.7,1,WHY?,0.0545,125.414,4,Fatalist Palmistry,bay_area,spotify:track:5CbdBwARzbPNNldURYLssd,0.624
+16,0.0818,0.547,234603,0.712,8.08e-05,2,0.112,-5.407,0,WHY?,0.0294,124.786,4,The Hollows,bay_area,spotify:track:4EvhRodgAKtFK7Qo5KelrR,0.361
+17,0.176,0.645,327520,0.798,0.000289,3,0.101,-4.077,1,WHY?,0.0264,109.133,3,Gemini (Birthday Song),bay_area,spotify:track:4CgW0OIhoLIalJCYocld0u,0.311
+18,0.0278,0.584,198217,0.707,0.0,5,0.29,-7.123,1,WHY?,0.0543,75.473,4,Strawberries,bay_area,spotify:track:4Tu8ZM8d3p7wMDeQMyNg6f,0.439
+19,0.811,0.577,250000,0.51,3.35e-05,2,0.125,-9.717,1,WHY?,0.0454,105.0,4,"Bloom Wither Bloom (for Mom) (feat. Christian Lee Hutson, Gabby’s World)",bay_area,spotify:track:56VNfkae9r8sQIUFZCfo0F,0.413
+20,0.622,0.599,245640,0.835,0.0,2,0.28,-6.027,1,Woodie,0.147,188.042,4,The Streets Are Callin' Me,bay_area,spotify:track:3qNoGIfSNWH0i88hPl1vek,0.603
+21,0.101,0.903,211840,0.611,0.0,1,0.104,-8.283,0,Woodie,0.0768,102.043,4,Norte Sidin',bay_area,spotify:track:5P2nl9SVr9joiwos6Y1FXd,0.343
+22,0.483,0.689,327373,0.836,0.0,2,0.266,-5.734,1,Woodie,0.267,164.123,4,The Way You Feel (Feat. Shadow & Lil Los),bay_area,spotify:track:1z3ZeJcueOM0aKr3ucQb0k,0.699
+23,0.136,0.821,191133,0.608,4.83e-05,11,0.144,-7.296,1,Woodie,0.0461,97.981,4,The Clock Is Tickin',bay_area,spotify:track:5OEwhQSpXN3t1kI1Xx7fdF,0.418
+24,0.253,0.793,346347,0.629,0.0,1,0.214,-5.865,1,Woodie,0.298,93.918,4,"Blackbird (Feat. Lil Los, Shadow & Lou E Lou)",bay_area,spotify:track:4iXSdj83QtXs6rk4wEKvdz,0.785
+25,0.00341,0.785,224600,0.67,0.0032,7,0.133,-6.924,1,Woodie,0.0389,91.027,4,Callin' Your Bluff,bay_area,spotify:track:3yg6i7DNsIJL6YiBgZF0Y4,0.196
+26,0.109,0.665,296133,0.897,0.0,0,0.623,-2.566,1,Woodie,0.0471,92.017,4,Loyalty (Feat. Lil Los),bay_area,spotify:track:43edNkQa0G0EeeWZP32G8G,0.809
+27,0.00464,0.663,279987,0.753,0.0,2,0.182,-5.227,1,Woodie,0.206,168.129,4,Mind Games (Blackbird Speaks) - Bonus Track,bay_area,spotify:track:57nJX6Mx4EzGEzk16SOJbE,0.646
+28,0.444,0.72,258373,0.808,0.0,7,0.246,-4.717,1,Woodie,0.259,83.876,4,-n- The Bay,bay_area,spotify:track:64BiH9GJzi0PiWUM6PTGWc,0.547
+29,0.0568,0.545,205714,0.598,0.000324,1,0.0846,-9.093,0,Woodie,0.301,167.936,4,Karma Is a Mutha,bay_area,spotify:track:76vV9Ciq02r7EL4L85IM0n,0.529
+30,0.153,0.787,230107,0.698,0.0,2,0.0848,-6.159,1,Krypto,0.147,92.997,4,Who Is That? (feat. Husalah),bay_area,spotify:track:2ZDV0Q430XUsky62X3C6cy,0.153
+31,0.198,0.908,309881,0.814,0.0,10,0.0416,-6.08,0,Krypto,0.274,104.732,4,Peace In The Streets,bay_area,spotify:track:3xOLjfVtIQtQWltdmcTsKb,0.862
+32,4.1e-05,0.742,543673,0.989,0.797,11,0.0812,-5.067,0,Krypto,0.064,150.002,4,Comedian Party - Original Mix,bay_area,spotify:track:2kxlM9cg77AmY90PJ3zQZJ,0.395
+33,0.00741,0.408,347345,0.743,0.0,1,0.352,-6.625,0,Krypto,0.263,81.073,4,"I Won't Tell (feat. Jay Rock, Nipsey Hussle & T-Nutty)",bay_area,spotify:track:05VJ70EmUJBW68ROqPru8m,0.39
+34,0.000664,0.683,239989,0.869,0.0,1,0.118,-6.068,1,Krypto,0.0469,102.047,4,Zapped (feat. Andre Nickatina),bay_area,spotify:track:3bsNRXJ5HCiZGtiPmsVHLv,0.495
+35,0.0148,0.573,194187,0.897,0.0,9,0.113,-4.663,0,Krypto,0.307,91.25,4,Gyangsta (feat. Los Rakas & The Jacka),bay_area,spotify:track:3uQQwq6SfpJr3gBdwh3E2t,0.592
+36,0.0554,0.484,265160,0.626,0.0,7,0.914,-13.715,1,Krypto,0.675,73.22,4,Im Ill,bay_area,spotify:track:27L3V9VztsndbR1nF0QuY9,0.668
+37,0.000316,0.548,343354,0.943,0.05,7,0.308,-5.846,1,Krypto,0.263,136.083,4,"Empire Of The Gun (feat. Husalah, Krondon & Phil Da Agony)",bay_area,spotify:track:5WrHOat6nMuLmy0fpwbq6J,0.521
+38,0.267,0.814,231824,0.617,0.0,9,0.117,-14.086,0,Krypto,0.0973,110.004,4,Utopia (figli del caos) [feat. Devir Vinz Shepard],bay_area,spotify:track:0LlI5WwzsCLen3JftpWwXr,0.834
+39,0.108,0.604,277111,0.751,0.0,8,0.0982,-7.37,1,Krypto,0.342,160.027,4,Dope Dick (feat. Rydah J. Klyde),bay_area,spotify:track:0LIpCsEVaEwqx2kFQDC6gs,0.419
+40,0.402,0.724,240062,0.448,2.04e-06,6,0.0823,-9.604,0,Cozmo,0.0574,119.94,4,What Dreams Are Made Of,bay_area,spotify:track:23mpccd0l6MUl9k3fSazIp,0.387
+41,0.0273,0.511,166626,0.676,5.7e-06,6,0.0768,-1.217,1,Cozmo,0.375,80.134,4,Exhale,bay_area,spotify:track:0ZYxOplINOBeveenQzmQMe,0.416
+42,0.606,0.531,242604,0.877,0.0,9,0.0994,-5.359,1,Cozmo,0.429,78.247,4,100 Miles,bay_area,spotify:track:5kndjG3Uq7olokeKsRrz4D,0.458
+43,0.0393,0.617,271579,0.869,0.0,7,0.388,-2.103,1,Cozmo,0.431,152.527,4,No Tomorrow,bay_area,spotify:track:5TR6EecfDD8QDt1jkQSPHZ,0.346
+44,0.0325,0.489,337400,0.904,0.0,1,0.908,-3.599,1,Cozmo,0.381,82.977,4,Rubber Band Stacks,bay_area,spotify:track:3l97wvR7VJyvNRxNpUTwwx,0.551
+45,0.00794,0.725,232986,0.889,0.0,6,0.114,-3.71,0,Cozmo,0.311,82.487,4,Carry On,bay_area,spotify:track:4QypaqJmAzXhHeZiX4YNig,0.616
+46,0.443,0.534,173333,0.834,0.0,6,0.142,-2.488,0,Cozmo,0.345,144.665,4,Seen It All B4 (The Intro),bay_area,spotify:track:0azz8sfFHCVKKFX7jyYu2b,0.6
+47,0.309,0.606,259613,0.796,0.0,7,0.0883,-3.658,1,Cozmo,0.299,77.532,4,So Cold,bay_area,spotify:track:40oXoarNH5zbruU2YLOkX4,0.538
+48,0.0119,0.447,176571,0.6,0.0,7,0.536,-8.507,1,Cozmo,0.303,67.636,4,A Real One,bay_area,spotify:track:2oQ0FmZZ3Wb3wY91VxTExr,0.537
+49,0.0206,0.481,268571,0.771,0.0,10,0.336,-3.106,0,Cozmo,0.0579,83.622,4,Me This Blunt & A Beat,bay_area,spotify:track:1wuRqbWNiC6gjcFQO6gQTY,0.269
+50,0.083,0.805,459616,0.63,0.0,4,0.207,-7.13,0,Dubee,0.248,92.979,4,My Thang,bay_area,spotify:track:4JgElOu4c6FgWQ3N9IGEmv,0.582
+51,0.132,0.57,252545,0.802,0.0,1,0.685,-4.503,1,Dubee,0.449,170.473,4,Crest Shit Or No Shit,bay_area,spotify:track:4CD189mWSSa0VPorMji0Bd,0.754
+52,0.597,0.807,315699,0.636,0.0,7,0.722,-8.218,1,Dubee,0.505,87.013,4,Mac Dre (Game I'm Spittin),bay_area,spotify:track:6EHEnuihQuYm3FQw5r1h3s,0.691
+53,0.218,0.797,375142,0.549,0.0,11,0.31,-5.52,0,Dubee,0.28,84.019,4,That's What We Do,bay_area,spotify:track:3kMy4ATwXHNDEmibIBap7Z,0.515
+54,0.14,0.854,423532,0.667,0.0,7,0.542,-7.452,1,Dubee,0.331,95.527,4,Y.B.B. Bomb,bay_area,spotify:track:1VAZvnYkF76JznUgeCkl39,0.64
+55,0.0464,0.838,219005,0.817,0.0,11,0.273,-5.608,0,Dubee,0.0901,104.984,3,Dumb,bay_area,spotify:track:7icZLLURHLPgZjnnOMtILh,0.686
+56,0.046,0.808,266667,0.822,0.0,7,0.232,-6.414,1,Dubee,0.138,89.98,4,I Like Dat,bay_area,spotify:track:4hRHkDSb2NDRG1ZlADeN6v,0.78
+57,0.0561,0.934,319507,0.576,1.92e-06,2,0.461,-6.437,1,Dubee,0.296,99.82,4,Pit Bull Vicious,bay_area,spotify:track:5bsq1uNeGzdxRxMvkq28gP,0.535
+58,0.0556,0.927,220497,0.707,0.0,7,0.641,-7.828,1,Dubee,0.354,94.454,4,Game U Feenin 4,bay_area,spotify:track:4C7r0WvPROSPbxJAMhfk1N,0.666
+59,0.0515,0.815,231364,0.619,0.0,11,0.297,-5.234,0,Dubee,0.406,176.068,4,Mackin Is My Duty,bay_area,spotify:track:0y43XaA75j9oL919OVpNiL,0.447
+60,0.0116,0.657,235000,0.881,0.0,1,0.231,-3.483,1,Shady Nate,0.181,132.451,4,Head Will Roll (feat. Fe the Don),bay_area,spotify:track:1TjSl2jgjbNmMY1HpAwU4Z,0.554
+61,0.000649,0.522,206973,0.518,1.01e-06,6,0.13,-10.652,1,Shady Nate,0.296,89.633,4,Strapped Wit Macs,bay_area,spotify:track:27yOZ9nTabV4Ise52FnE0p,0.437
+62,0.0253,0.715,205013,0.696,0.0,10,0.0779,-4.098,0,Shady Nate,0.253,96.04,4,1 Mo Lick,bay_area,spotify:track:0dXEiPrll1WSEdLPts2ZUd,0.783
+63,0.211,0.589,234799,0.733,0.0,4,0.248,-4.026,0,Shady Nate,0.362,90.692,4,"Pound Cake Remix (feat. Lil Aj, Stef Stax & Hd)",bay_area,spotify:track:44B4Mvvrx8MCCLCht8zM0b,0.602
+64,0.0157,0.666,241920,0.74,0.0,6,0.0751,-6.47,0,Shady Nate,0.361,89.762,4,Ridin' Dirty,bay_area,spotify:track:64LGA06WeF6jvfDXFYoVh3,0.706
+65,0.136,0.743,193401,0.641,0.0,6,0.148,-9.704,0,Shady Nate,0.239,89.918,4,Stay Humble,bay_area,spotify:track:6ERMimJYBk7WRZcVdATSsE,0.776
+66,0.00507,0.78,353684,0.507,0.0,11,0.0936,-10.456,1,Shady Nate,0.305,95.038,4,Mobb Meetin,bay_area,spotify:track:7a9EpzQltbjHicTWfn2yeR,0.238
+67,0.0329,0.821,268926,0.375,0.0,8,0.112,-15.136,1,Shady Nate,0.272,90.028,4,Had It Hard,bay_area,spotify:track:4rJsTqUuJtL9pZOjRr65VL,0.411
+68,0.0122,0.714,215721,0.698,0.0,1,0.121,-6.265,0,Shady Nate,0.277,93.477,4,Champs,bay_area,spotify:track:6p096kLnDz4eHJHGBhOyVh,0.562
+69,0.199,0.756,221155,0.58,1.92e-06,10,0.133,-10.054,0,Shady Nate,0.2,95.516,4,Need 2 Know,bay_area,spotify:track:61WqlYSShODX00jWMQtTRv,0.0699
+70,0.106,0.724,300240,0.594,0.0,3,0.338,-4.757,0,Beeda Weeda,0.259,82.976,4,"Mack'n & Mobb'n (feat. Messy Marv, B-Legit & J. Stalin)",bay_area,spotify:track:6L5fiS4BG7iCDHDuemr0Ny,0.797
+71,0.297,0.472,410440,0.645,0.0,11,0.567,-7.125,1,Beeda Weeda,0.306,80.775,4,"West Up (feat. Jay Rock, Glasses Malone, Messy Marv, J. Stalin, 211, K Boy, Scoot Dogg, Cousin Fik, Mitchy Slick, T-Nutty & Laroo)",bay_area,spotify:track:3Zkr4JWDhXY0Pv2V7Uzb7Y,0.518
+72,0.12,0.783,186593,0.466,8.45e-06,2,0.086,-10.293,1,Beeda Weeda,0.224,184.028,4,Baby Mama,bay_area,spotify:track:7ol22PCsKdwBUpBElYZPkE,0.36
+73,0.039,0.92,283867,0.656,0.0,4,0.123,-7.113,0,Beeda Weeda,0.431,99.991,4,Nohoe - Remix,bay_area,spotify:track:75EenE1d0HbTNxBSljQayx,0.368
+74,0.077,0.654,231147,0.669,0.0,11,0.457,-5.582,0,Beeda Weeda,0.34,82.945,4,Wet (feat. 4rAx),bay_area,spotify:track:0MITBtvJkj7NrXPMtjlJba,0.612
+75,0.0193,0.855,237513,0.305,0.0,1,0.321,-6.246,1,Beeda Weeda,0.0681,160.055,4,You Know,bay_area,spotify:track:7MoAx1ueSaZBI1l93aD0iC,0.22
+76,0.0262,0.892,228538,0.615,0.0,1,0.134,-8.594,1,Beeda Weeda,0.22,92.166,4,Aint Mobbin,bay_area,spotify:track:5T0qgycftwNKaW0GNlWKJ8,0.482
+77,0.00159,0.624,258523,0.747,0.0,8,0.0751,-8.332,0,Beeda Weeda,0.421,110.619,5,2nd Chance,bay_area,spotify:track:5tUKKi0fDG9JHa0fM52ym1,0.763
+78,0.0197,0.681,226404,0.542,0.0,1,0.163,-8.689,0,Beeda Weeda,0.14,91.525,4,Lyin,bay_area,spotify:track:7fBZ6wUCeQNAfOjr3GaNxF,0.159
+79,0.0052,0.876,239470,0.656,0.0,11,0.0731,-8.534,0,Beeda Weeda,0.347,90.967,4,Drug Dealers,bay_area,spotify:track:5UxMLKJ2XZktNnCpfbmwsF,0.376
+80,0.112,0.687,270890,0.795,2.91e-05,10,0.226,-3.647,0,Lil Raider,0.0931,164.007,4,Still (feat. A-Wax & Shadow),bay_area,spotify:track:0BSG3cx04kaLEO4yvCSYYm,0.296
+81,0.0668,0.845,175603,0.756,4.81e-05,5,0.292,-6.437,1,Lil Raider,0.338,87.031,4,We Gone Ride,bay_area,spotify:track:22y9aSWbWRHDdTWFBcOX2H,0.802
+82,0.155,0.781,234973,0.669,0.0,9,0.271,-5.346,0,Lil Raider,0.195,92.053,4,All Falls Down,bay_area,spotify:track:7akq99WPhr5F0sNLttQLVC,0.529
+83,0.328,0.759,233940,0.822,0.0,7,0.294,-4.879,1,Lil Raider,0.238,81.022,4,Tired of the Struggle,bay_area,spotify:track:0z1FHyFBu3vh0Zc12opou6,0.788
+84,0.0693,0.683,185771,0.693,0.0,9,0.0948,-7.007,0,Lil Raider,0.0812,98.024,4,Keep It Playa,bay_area,spotify:track:4nHPSFuxFcOLM2IuYgO1m1,0.251
+85,0.00365,0.718,306205,0.608,0.0,6,0.25,-5.32,0,Lil Raider,0.19,150.034,4,How Deep is Your Mobb,bay_area,spotify:track:1pUy5SRObNxja4qEDuSoXN,0.622
+86,0.137,0.7,237121,0.684,0.0,11,0.068,-6.187,0,Lil Raider,0.132,83.048,4,Kick It with You,bay_area,spotify:track:1AJ8xCvn1uUGzGfFZ8461t,0.76
+87,0.107,0.482,295385,0.718,0.0,7,0.354,-8.39,1,Lil Raider,0.178,130.003,4,Reminiscin,bay_area,spotify:track:1A7h25x0XrIYPSRDplgaWC,0.737
+88,0.0169,0.812,196396,0.507,0.0,0,0.0863,-7.395,1,Lil Raider,0.229,82.009,4,Ready for the Funk’N (feat. Lil Toro),bay_area,spotify:track:5efpI123gBXUnFL6lqLYDF,0.652
+89,0.345,0.927,162978,0.643,0.0,4,0.204,-6.86,0,Lil Raider,0.348,94.98,4,Doin' My Thang,bay_area,spotify:track:3tvNeseuGlqekMpN6m7dgT,0.638
+90,0.173,0.841,225847,0.653,0.0,1,0.0448,-7.157,1,Dee Cisneros,0.342,94.95,4,Young OG (feat. Big Tone),bay_area,spotify:track:6gtznQJ5mZxUhuViY5hvhX,0.447
+91,0.0442,0.768,231934,0.626,0.0,5,0.17,-5.246,0,Dee Cisneros,0.12,87.012,4,Misunderstood,bay_area,spotify:track:4gYjSbiFWoKIZBNcLFKjCG,0.385
+92,0.145,0.719,218673,0.708,0.0,11,0.154,-5.34,1,Dee Cisneros,0.276,84.995,4,Loyalty Above All,bay_area,spotify:track:60sEn2a8aqqnJnFSrf0M2e,0.616
+93,0.00963,0.69,229146,0.795,0.0,6,0.134,-8.908,0,Dee Cisneros,0.241,88.042,4,Strive,bay_area,spotify:track:2rTJJh41LlbyHRPvisHaKe,0.53
+94,0.0216,0.766,242187,0.74,0.0,1,0.107,-4.171,1,Dee Cisneros,0.0837,87.985,4,Sav It Out Mobb,bay_area,spotify:track:71CbCgUWOlvxR5q5veuDeB,0.615
+95,0.466,0.759,227444,0.733,0.0,3,0.288,-5.961,0,Dee Cisneros,0.203,95.007,4,Pressure,bay_area,spotify:track:2xg9GGzkXZlhT5CQv9JJ9c,0.587
+96,0.035,0.827,220185,0.51,0.0,6,0.065,-9.414,0,Dee Cisneros,0.4,89.984,4,I'm a Real One,bay_area,spotify:track:1h7dSLe3dbt7nMq0JtEXnE,0.311
+97,0.0505,0.713,272829,0.673,0.0,4,0.0763,-6.705,0,Dee Cisneros,0.317,169.976,4,"Northern Cali Connected (feat. Big Tone, Thre4t, Tone Gunz & Sneaks)",bay_area,spotify:track:14jnWSBEsQ6FeriVWZJkvO,0.492
+98,0.482,0.443,193043,0.603,0.0,10,0.0965,-8.567,0,Dee Cisneros,0.311,127.203,4,Family Sake,bay_area,spotify:track:2RK92BO2DlFqIsk8k2gKVW,0.544
+99,0.209,0.821,211358,0.663,0.0,9,0.221,-5.079,1,Dee Cisneros,0.258,92.008,4,Real Out Here,bay_area,spotify:track:5AbeORqFTn9BZl8Mu1apfR,0.593
+100,0.483,0.689,327373,0.836,0.0,2,0.266,-5.734,1,Lil Los,0.267,164.123,4,The Way You Feel (Feat. Shadow & Lil Los),bay_area,spotify:track:1z3ZeJcueOM0aKr3ucQb0k,0.699
+101,0.253,0.793,346347,0.629,0.0,1,0.214,-5.865,1,Lil Los,0.298,93.918,4,"Blackbird (Feat. Lil Los, Shadow & Lou E Lou)",bay_area,spotify:track:4iXSdj83QtXs6rk4wEKvdz,0.785
+102,0.821,0.609,207517,0.653,1.57e-05,5,0.0609,-8.767,0,Lil Los,0.316,79.83,4,Made Like This,bay_area,spotify:track:0cDtH9bkZc50qqDDzn6gZr,0.776
+103,0.109,0.665,296133,0.897,0.0,0,0.623,-2.566,1,Lil Los,0.0471,92.017,4,Loyalty (Feat. Lil Los),bay_area,spotify:track:43edNkQa0G0EeeWZP32G8G,0.809
+104,0.00797,0.72,236200,0.669,1e-05,2,0.0895,-8.112,1,Lil Los,0.224,171.928,4,Yoc Influenced (Feat. Lil Los),bay_area,spotify:track:7hJ1su4TcICRnlpDfr3YGk,0.774
+105,0.128,0.838,149240,0.771,0.0,8,0.187,-6.212,0,Lil Los,0.112,92.043,4,Shits Gone Strange (Feat. Lil Los),bay_area,spotify:track:2ufVaI9jd5gKMxHG9fKNHx,0.484
+106,0.0645,0.775,334827,0.749,0.00164,1,0.101,-6.216,0,Lil Los,0.152,93.039,4,Dirty Deeds (Feat. Lil Los & Shadow),bay_area,spotify:track:6K0MKMu3IvMPEgdH6ges2N,0.496
+107,0.148,0.78,293307,0.777,1.48e-06,9,0.104,-5.63,0,Lil Los,0.124,94.029,4,What You Know About Me (feat. Lil los & Lou e Lou),bay_area,spotify:track:6u3F1ZVJLB9xvu6cXAs1Kx,0.743
+108,0.128,0.636,254213,0.756,0.0,7,0.798,-5.243,1,Lil Los,0.203,83.892,4,-N- The Bay (Feat. Lil Los),bay_area,spotify:track:6uHnddovWLXWbLYVWaZh9J,0.461
+109,0.00261,0.728,311827,0.625,0.0,6,0.111,-5.623,0,Lil Los,0.303,167.966,4,"Fuck How You Feelin (Feat. X.O., Lil Los, B-Dawg, Shadow & Woodie)",bay_area,spotify:track:6jv0cEMyl87DJED7AGzN0Y,0.723
+110,0.187,0.734,276872,0.764,0.0,11,0.0872,-5.616,0,Casper Locs,0.242,79.978,3,Devils Knocking at the Door,bay_area,spotify:track:7gQtr4croqnuO9QrPL9qmR,0.717
+111,0.00274,0.861,184500,0.799,0.0,6,0.354,-7.885,0,Casper Locs,0.131,103.913,4,Springfield,bay_area,spotify:track:4EWctyH3UoglHbKt8lzQs8,0.536
+112,0.0664,0.944,158250,0.662,1.52e-06,10,0.0963,-6.193,0,Casper Locs,0.228,110.017,4,Let It Play,bay_area,spotify:track:0BUec07mA6y1fcNvALmaKY,0.194
+113,0.155,0.722,339383,0.83,0.0,4,0.244,-6.346,0,Casper Locs,0.377,160.059,4,All I Know,bay_area,spotify:track:3jBiLcYmjtztMujthqWDuZ,0.693
+114,0.236,0.73,257750,0.651,0.0,4,0.38,-5.341,0,Casper Locs,0.273,164.058,4,God 4gives Gangsters Don't,bay_area,spotify:track:23DdW4cmbNZO3Ivtmd7l4j,0.535
+115,0.511,0.584,289750,0.684,0.0,6,0.302,-8.795,1,Casper Locs,0.46,94.002,4,Streets Raised Me,bay_area,spotify:track:47I3WlSWv2Nx4eAvO5W0n6,0.331
+116,0.258,0.926,250087,0.553,0.0,9,0.0644,-9.001,0,Casper Locs,0.334,100.001,4,Baby I'm Polo,bay_area,spotify:track:2AoSMR6OWZ0lPlyZBlFR8R,0.306
+117,0.134,0.728,304000,0.616,0.0,0,0.146,-8.84,0,Casper Locs,0.411,180.097,4,Go Gettas Only,bay_area,spotify:track:0it6yqzQY8F8dxvxIGOr4F,0.598
+118,0.0824,0.84,150928,0.569,0.0,10,0.207,-9.275,0,Casper Locs,0.259,97.017,4,One Twenty Two (feat. Sandman Polo),bay_area,spotify:track:3FxmRg3Ls6IOKeQpQdfojK,0.455
+119,0.139,0.796,260500,0.737,0.0,6,0.18,-7.121,0,Casper Locs,0.22,84.999,4,Black N Whites,bay_area,spotify:track:3G13oo74PEyX89djxrBa72,0.377
+120,0.0188,0.701,322409,0.854,0.0,8,0.0714,-6.286,1,Big Rome,0.151,104.263,4,Cruel Summer,bay_area,spotify:track:7wEPOePTLdTALf4d4lA7MP,0.761
+121,0.0895,0.79,220843,0.72,0.0,7,0.152,-6.882,1,Big Rome,0.078,101.021,4,Norte Raised Me,bay_area,spotify:track:7cuaXmqe5sRTr2YR4Xqodb,0.584
+122,0.00963,0.69,229146,0.795,0.0,6,0.134,-8.908,0,Big Rome,0.241,88.042,4,Strive,bay_area,spotify:track:2rTJJh41LlbyHRPvisHaKe,0.53
+123,0.0421,0.726,237292,0.647,1.05e-06,9,0.143,-6.523,0,Big Rome,0.108,178.057,4,Real Hitters,bay_area,spotify:track:4W4cBdvt3TNbBERKsXwg1r,0.341
+124,0.0779,0.825,175935,0.636,0.0,2,0.102,-5.903,1,Big Rome,0.236,77.993,4,Undercover Playa,bay_area,spotify:track:0DzKR1YLgpM3h7980KYvUg,0.733
+125,0.662,0.746,237270,0.378,7.74e-05,8,0.106,-13.384,0,Big Rome,0.291,90.025,4,Ain't Gota Ask Twice,bay_area,spotify:track:1APTP9mWSSQWESNxuO0kEf,0.673
+126,0.0913,0.553,201125,0.459,0.0,11,0.104,-7.792,1,Big Rome,0.841,201.127,4,Livin My Corrido,bay_area,spotify:track:56krFwWPi2RSC1y723QteU,0.56
+127,0.00247,0.9,223548,0.424,0.0,11,0.245,-8.793,0,Big Rome,0.381,100.066,4,We Active N We Function,bay_area,spotify:track:4e0uw2BMg5LCiKa8p3YakL,0.367
+128,0.368,0.639,193248,0.601,0.00192,1,0.0856,-10.869,1,Big Rome,0.302,180.036,4,Player Haterz,bay_area,spotify:track:6CVBvPUJfZQUrXcIhvUWc4,0.198
+129,0.317,0.604,217184,0.912,0.0,1,0.689,-8.628,1,Big Rome,0.395,168.174,4,Mas Chingon (feat. Benny Tarantino),bay_area,spotify:track:12bvAcYDTDYKsfhg9tUXLt,0.533
+130,0.04,0.491,152013,0.53,0.0,11,0.356,-13.134,0,Lil Rue,0.365,84.363,4,Snitch Food,bay_area,spotify:track:6EieGg2xceTaPxLozKgslS,0.342
+131,0.115,0.634,248736,0.603,0.0,11,0.0805,-9.128,0,Lil Rue,0.353,93.097,4,All Night,bay_area,spotify:track:1JEHmI1tee9WyGDF5EdNPU,0.597
+132,0.0157,0.666,241920,0.74,0.0,6,0.0751,-6.47,0,Lil Rue,0.361,89.762,4,Ridin' Dirty,bay_area,spotify:track:64LGA06WeF6jvfDXFYoVh3,0.706
+133,0.00881,0.528,222213,0.47,0.0,1,0.104,-13.247,1,Lil Rue,0.425,179.068,4,Neva Leave the House With Out My Hammer (feat. HD),bay_area,spotify:track:5fswcLcDhqIh5VLcGk9hMc,0.236
+134,0.0123,0.743,214367,0.482,0.0,6,0.0969,-12.658,1,Lil Rue,0.307,98.001,4,Wassup,bay_area,spotify:track:6KW5z29ZFJJQtdcm5F9AYD,0.522
+135,0.154,0.603,182067,0.738,0.0,7,0.1,-6.858,1,Lil Rue,0.497,114.283,5,Lurkin,bay_area,spotify:track:52eoejbHDJYP5S7XIW3mjf,0.72
+136,0.000704,0.73,260813,0.487,0.0,11,0.115,-9.938,0,Lil Rue,0.273,96.547,4,I'm Strapped (feat. Philthy Rich & Lil Hyfe),bay_area,spotify:track:312hIRZisFRkY8z2m1ipEh,0.31
+137,0.0128,0.616,173308,0.668,0.0,0,0.117,-8.165,1,Lil Rue,0.361,88.904,4,Goon,bay_area,spotify:track:3zzpxgEODiSi4OOxZzwuyM,0.253
+138,0.0104,0.802,245160,0.473,0.0,8,0.323,-11.821,1,Lil Rue,0.222,103.972,4,Red Light,bay_area,spotify:track:27H1257hmNCEKwKwIvQ9X4,0.151
+139,0.0427,0.793,154320,0.439,0.0,10,0.155,-13.154,0,Lil Rue,0.227,97.973,4,Touch Down Dance,bay_area,spotify:track:2Fuud3Sw02TGbGgDPBAWQA,0.557
+140,0.0113,0.556,285187,0.684,0.0,4,0.336,-6.498,0,G-Stack,0.318,118.853,5,"The Realest Niggas In It (feat. Mistah F.A.B., Qoolceo, Cursinado, & Deev Da Greed)",bay_area,spotify:track:3kSpINmBuF8aOaQaGxabng,0.546
+141,0.000784,0.768,240013,0.83,0.0,8,0.382,-7.352,0,G-Stack,0.232,100.051,4,East Oakland,bay_area,spotify:track:5Ctd1PsjQrx5cbNfIIAB42,0.299
+142,0.0162,0.868,283613,0.423,1.36e-05,11,0.0657,-8.413,0,G-Stack,0.206,90.016,4,F.U. Bih,bay_area,spotify:track:4m3T1gnybzd9tUPgctVFVY,0.338
+143,0.0236,0.799,184704,0.48,0.0,1,0.0866,-6.678,1,G-Stack,0.294,85.939,4,Menage,bay_area,spotify:track:0lDnAYQ78HVHJwxtsMZxVl,0.574
+144,0.0176,0.724,285933,0.791,0.0,1,0.125,-3.155,1,G-Stack,0.175,175.968,4,Smokin' Em Like Joint (Feat. Whoride),bay_area,spotify:track:2idW8bNYoxehu3s5iMvyVH,0.69
+145,0.0234,0.838,224000,0.977,0.0,11,0.106,-4.017,0,G-Stack,0.217,90.025,4,Go Girl (feat. Deev Da Greed & Father Dom),bay_area,spotify:track:5CeUAcB8SpTSREEb8Clwfq,0.565
+146,0.0203,0.645,220027,0.647,0.0,7,0.161,-5.46,0,G-Stack,0.301,88.785,4,Dr. Purp Thumb (feat. Mike Frost),bay_area,spotify:track:3s0CjCob3WvuvC04RijOR3,0.737
+147,0.0541,0.706,191894,0.613,4.68e-06,5,0.139,-6.365,0,G-Stack,0.0801,89.021,4,All U Need,bay_area,spotify:track:0jArn3aWGxg7FEgzyh9oen,0.759
+148,0.554,0.586,256916,0.59,0.0,5,0.312,-9.167,0,G-Stack,0.439,96.576,4,Jody,bay_area,spotify:track:2unBEG5mH0MbfbMMRQCn0O,0.506
+149,0.165,0.836,282041,0.577,0.0,1,0.192,-7.782,1,G-Stack,0.285,99.974,4,No Days Off,bay_area,spotify:track:2gGxqT8fOLwH8OSEtVFTg6,0.296
+150,0.0492,0.802,189630,0.739,0.0,6,0.0984,-6.963,0,Conspiracy,0.265,81.006,4,Cold World,bay_area,spotify:track:5tISIyjTT0vYeHeRhdH8Un,0.813
+151,0.0866,0.759,230707,0.489,0.0,2,0.303,-9.14,0,Conspiracy,0.272,168.037,4,Every Saint,bay_area,spotify:track:74TgJGYyH60IGgt2F85vTO,0.48
+152,0.016,0.805,246167,0.621,0.0,6,0.0816,-6.11,0,Conspiracy,0.144,89.988,4,Loyalty (feat. Dee Cisneros),bay_area,spotify:track:2dZXvVPayHuOmJvFFpWzgT,0.654
+153,0.113,0.879,208344,0.504,0.0,4,0.111,-8.453,0,Conspiracy,0.303,95.018,4,Banga on Me,bay_area,spotify:track:17m5X6IR2VOrTNvf7bAZ5G,0.561
+154,0.155,0.747,250832,0.62,0.0,1,0.119,-7.082,1,Conspiracy,0.215,83.005,4,Clock Is Tickin',bay_area,spotify:track:4uEBcebGRrXX3YXb8SnMFh,0.291
+155,0.0277,0.469,297930,0.729,8.78e-06,4,0.465,-5.614,0,Conspiracy,0.25,80.25,4,Incarcerated,bay_area,spotify:track:6CLS8HAfmVX7ogy4e3k68u,0.257
+156,0.131,0.801,250066,0.624,0.0,1,0.11,-7.043,0,Conspiracy,0.301,84.978,4,Still Sippin Mickies (feat. Happy),bay_area,spotify:track:33YVAMGDL8ZnElqXeKGnN5,0.654
+157,0.0193,0.766,264345,0.684,2e-06,6,0.11,-5.339,0,Conspiracy,0.122,79.999,4,Mirror (feat. Yung Puppz),bay_area,spotify:track:6x0CDihmhLovdpE5Hjm7Fk,0.715
+158,0.0861,0.598,279185,0.678,0.0,7,0.0809,-5.365,1,Conspiracy,0.342,180.111,3,N'z on the Block,bay_area,spotify:track:2v9fIRG9sry1vrzf1T9CVA,0.591
+159,0.0869,0.651,260481,0.676,0.000128,11,0.136,-6.244,0,Conspiracy,0.248,187.948,4,I Don't Give a Fuck,bay_area,spotify:track:2rGHnYyJzKxMjiNLrkQKnu,0.397
+160,0.0208,0.836,258693,0.633,0.0,7,0.0994,-7.191,1,NORTHERN EXPOZURE,0.2,90.004,4,Skandocious,bay_area,spotify:track:1a7LwHsoqdOkdxdA1pHTvU,0.502
+161,0.00746,0.559,308293,0.718,0.0,6,0.157,-6.763,1,NORTHERN EXPOZURE,0.105,175.941,4,Summer Breeze,bay_area,spotify:track:12xZXe2Wfeqv3yjG7nAPD9,0.432
+162,0.121,0.736,262467,0.667,0.0,4,0.337,-6.924,0,NORTHERN EXPOZURE,0.273,177.991,4,Time to Go to War,bay_area,spotify:track:7hrU5BTRjuUyOtzGqyVxeT,0.294
+163,0.0823,0.668,324040,0.625,0.0,7,0.662,-6.828,1,NORTHERN EXPOZURE,0.321,172.079,4,Mob Livin,bay_area,spotify:track:4hxRowUOWw9V0F5elfXi2g,0.477
+164,0.501,0.701,352587,0.806,0.0,2,0.272,-5.812,1,NORTHERN EXPOZURE,0.238,164.19,4,The Way You Feel,bay_area,spotify:track:2blmA9IJEiba7pKfvXFk0O,0.689
+165,0.283,0.746,269613,0.737,0.0,6,0.387,-6.439,0,NORTHERN EXPOZURE,0.22,90.011,4,Gats and Rivals,bay_area,spotify:track:5nZx6PXjVCn64ohUZ72FRu,0.551
+166,0.0617,0.758,256480,0.737,0.0,4,0.149,-5.441,0,NORTHERN EXPOZURE,0.153,80.012,4,Where I'm From,bay_area,spotify:track:1RUh1B4rOpCvUrYdosCtmO,0.569
+167,0.0172,0.656,241920,0.852,4.33e-06,7,0.128,-4.736,1,NORTHERN EXPOZURE,0.302,176.096,4,How We Ride,bay_area,spotify:track:1HwLKN1A6BrX0PlctshLo1,0.371
+168,0.016,0.67,320867,0.763,9.79e-05,1,0.111,-5.923,0,NORTHERN EXPOZURE,0.266,168.119,4,If I Wasn't,bay_area,spotify:track:6ek2ljdS7hC45r8J0xgvSg,0.572
+169,0.0791,0.596,288973,0.715,0.0,7,0.0572,-7.245,1,NORTHERN EXPOZURE,0.266,174.022,4,A Day in the Life,bay_area,spotify:track:4JPoQp302CczLRzm2nfVHo,0.503
+170,0.0674,0.622,218173,0.79,9.71e-06,4,0.115,-5.634,0,Fed-X,0.308,97.933,4,The Same Thing Everyday,bay_area,spotify:track:4lBZlWOSCKCyxZaVYBdDqK,0.33
+171,0.0143,0.589,130080,0.764,0.0,2,0.421,-4.568,1,Fed-X,0.254,90.493,4,She Wanna Go With Me (feat. Fed-X),bay_area,spotify:track:2V7FDAY8zuOQsyJH5fTc6s,0.732
+172,0.0572,0.844,198733,0.54,0.0,9,0.115,-7.906,1,Fed-X,0.125,116.029,4,Life of Crime,bay_area,spotify:track:6IkhIyaPIXhDyWBKB6q2CY,0.153
+173,0.0448,0.518,342107,0.882,0.0,9,0.153,-4.181,1,Fed-X,0.269,89.902,4,All Over Me Bay Remix,bay_area,spotify:track:07zQ8y7roGzqQJQL3OCsU7,0.549
+174,0.171,0.434,163200,0.909,0.000793,9,0.313,-2.512,0,Fed-X,0.376,116.808,5,Visionz,bay_area,spotify:track:489bnNMzlY0sD9HQTSsy6X,0.423
+175,0.266,0.541,233560,0.695,0.0,1,0.508,-10.5,0,Fed-X,0.433,84.983,4,Shooters,bay_area,spotify:track:4Wa1Hg24yuq4tZj3n6YpcD,0.823
+176,0.0156,0.486,216600,0.92,0.0,7,0.188,-6.72,1,Fed-X,0.286,89.56,4,Reign God,bay_area,spotify:track:7gHtZNyCaZoh3iHuPGkgCP,0.296
+177,0.138,0.82,267520,0.553,0.0,10,0.114,-5.645,0,Fed-X,0.318,95.965,4,Got to Make Her Mine,bay_area,spotify:track:2a69289j24kj6WCahmjga3,0.427
+178,0.156,0.779,235587,0.702,0.0,1,0.143,-6.881,1,Fed-X,0.0609,97.789,4,Love 4 the Streets (My Testimony),bay_area,spotify:track:6lpC3AvWoVLTvoQ1B9oSKC,0.472
+179,0.0368,0.628,225000,0.57,0.0,10,0.0986,-6.194,0,Fed-X,0.316,91.634,4,Cocaine Cowboys,bay_area,spotify:track:66p21Qnld7czVrWY9347uq,0.222
+180,0.315,0.738,375627,0.802,0.0,7,0.115,-2.706,1,B-Dawg,0.0692,87.036,4,Dreamin' A Life (Feat. B-Dawg & Shadow),bay_area,spotify:track:0EEHtjxxCFApONUOuMd5xX,0.649
+181,0.00261,0.728,311827,0.625,0.0,6,0.111,-5.623,0,B-Dawg,0.303,167.966,4,"Fuck How You Feelin (Feat. X.O., Lil Los, B-Dawg, Shadow & Woodie)",bay_area,spotify:track:6jv0cEMyl87DJED7AGzN0Y,0.723
+182,0.199,0.605,260187,0.73,0.0,1,0.101,-3.809,1,B-Dawg,0.26,172.082,4,The Un4given,bay_area,spotify:track:5enSzlB6jxD3fnYsEUYscN,0.723
+183,0.207,0.797,312280,0.683,0.0,0,0.353,-4.36,1,B-Dawg,0.163,92.014,4,Northern California (Feat. B-Dawg & Lil Los),bay_area,spotify:track:4V0NoxuR4M7zRkcEq4FvB0,0.555
+184,0.669,0.731,225427,0.756,0.0,4,0.0734,-6.302,0,B-Dawg,0.272,93.957,4,Sharkz -n-the Water,bay_area,spotify:track:6zmSEui15hY010fXJoxeJB,0.546
+185,0.0332,0.818,291067,0.747,0.0,4,0.106,-4.929,0,B-Dawg,0.165,90.024,4,The Young & Reckless (Feat. B-Dawg & Shadow),bay_area,spotify:track:5aeZurSbGxTf91GOJY957d,0.46
+186,0.0289,0.753,222409,0.734,0.0,11,0.0562,-3.919,0,B-Dawg,0.146,86.996,4,Pain on the Block,bay_area,spotify:track:7hdUc9bpBV1e6iCbWu3Jfp,0.463
+187,0.803,0.774,201627,0.748,1.13e-05,4,0.118,-6.222,0,B-Dawg,0.345,183.848,4,Legit Slangz (Feat. B-Dawg & Lil Los),bay_area,spotify:track:6R9esr5mxn03Tk4cw3I5e5,0.572
+188,0.00221,0.841,230588,0.687,0.0,4,0.102,-7.36,0,B-Dawg,0.06,101.997,4,Why You Frontin' (feat. Conspiracy),bay_area,spotify:track:2m4wJqHUtk6COx76OvyPvJ,0.36
+189,0.387,0.641,261960,0.667,2.49e-06,9,0.115,-6.569,0,B-Dawg,0.219,152.036,4,Never Be the Same,bay_area,spotify:track:5za0ZWhcS8M0OmkcJoI7yW,0.714
+190,0.026,0.718,229053,0.631,0.0,0,0.111,-6.46,1,Tito B,0.152,107.152,4,"The Ones Who Know (feat. Tito B, Brenton Wood) - Bonus Track",bay_area,spotify:track:3nvXKu3EkJ2pKVXYeOsxw2,0.811
+191,0.0338,0.839,235533,0.415,0.0,9,0.097,-11.517,0,Tito B,0.257,94.995,4,"Northern Cali Mobbin' (feat. Big Tone, Ace of Spits & Davina)",bay_area,spotify:track:3Gu1AgomajGmudgdsdzNA7,0.573
+192,0.0571,0.683,244002,0.745,0.000272,5,0.127,-5.183,0,Tito B,0.32,177.923,4,Norte Stomp,bay_area,spotify:track:50HFdUOFn1n3qXfIiAYy3T,0.528
+193,0.00945,0.661,202733,0.524,0.0,9,0.0717,-5.666,1,Tito B,0.333,94.689,4,"Pimpin, Hustlin, Gangsta Mob Shit (Feat. Spice 1 & Speedy Loc)",bay_area,spotify:track:0C1aRYaiS0Yg67LrpNeKKO,0.404
+194,0.328,0.759,233940,0.822,0.0,7,0.294,-4.879,1,Tito B,0.238,81.022,4,Tired of the Struggle,bay_area,spotify:track:0z1FHyFBu3vh0Zc12opou6,0.788
+195,0.168,0.768,367400,0.547,0.0,9,0.065,-10.656,0,Tito B,0.0695,89.003,4,True Devotion,bay_area,spotify:track:4y0HG13FuGGyi4ziGcYhIH,0.326
+196,0.00445,0.911,242707,0.507,0.0,2,0.0712,-7.047,1,Tito B,0.312,90.565,4,Decoto Duz It (feat. Tito B & Bugsy),bay_area,spotify:track:7cKO1PlizjR9bXo5aFoKAh,0.514
+197,0.00361,0.821,336440,0.617,0.0,1,0.0958,-6.536,1,Tito B,0.156,147.97,4,Bout It Bout It (feat. Pancholynie & Chente Corleone),bay_area,spotify:track:57qqwu6yn3Cj7GmpfEqP9F,0.198
+198,0.00606,0.768,231853,0.389,2.06e-06,8,0.209,-11.214,1,Tito B,0.292,85.0,4,Enemies,bay_area,spotify:track:3V6P4Zg2S1nimywNXEBnhe,0.619
+199,0.00221,0.845,223333,0.549,2.85e-05,5,0.198,-5.203,0,Tito B,0.236,92.265,4,"Red Is What I'm Made of (feat. Kriminal, Keek Dogg, & Tito B.)",bay_area,spotify:track:5xFoosGeIuWambXNSmbDXh,0.334
+200,0.026,0.718,229053,0.631,0.0,0,0.111,-6.46,1,Lil Coner,0.152,107.152,4,"The Ones Who Know (feat. Tito B, Brenton Wood) - Bonus Track",bay_area,spotify:track:3nvXKu3EkJ2pKVXYeOsxw2,0.811
+201,0.00345,0.68,222587,0.645,0.0,2,0.12,-5.889,0,Lil Coner,0.182,150.96,4,Smokin Ridin,bay_area,spotify:track:6A5Dk0OKMbAGiEXPrVZXvk,0.574
+202,0.0599,0.674,214853,0.537,1.3e-05,9,0.0721,-10.23,0,Lil Coner,0.118,180.122,4,F*ck This Life (feat. Davina),bay_area,spotify:track:7E4cqfUAyqPpzuxS7jDLLo,0.737
+203,0.188,0.777,258987,0.666,0.0,5,0.2,-5.933,0,Lil Coner,0.27,134.912,4,Misunderstood (feat. Woodie & C Locs),bay_area,spotify:track:3OE16RkH0B1V4Tbfwdv0SR,0.654
+204,0.00639,0.735,268587,0.562,0.0,4,0.118,-8.38,0,Lil Coner,0.13,76.995,4,Outlaw,bay_area,spotify:track:5PZYS6n9xSmu7TosIBiHjA,0.56
+205,0.00445,0.911,242707,0.507,0.0,2,0.0712,-7.047,1,Lil Coner,0.312,90.565,4,Decoto Duz It (feat. Tito B & Bugsy),bay_area,spotify:track:7cKO1PlizjR9bXo5aFoKAh,0.514
+206,0.104,0.78,159880,0.579,0.0982,0,0.111,-10.366,0,Lil Coner,0.371,204.151,4,Beautiful,bay_area,spotify:track:0kjR9toElmt16biVOZ83Zr,0.739
+207,0.00221,0.845,223333,0.549,2.85e-05,5,0.198,-5.203,0,Lil Coner,0.236,92.265,4,"Red Is What I'm Made of (feat. Kriminal, Keek Dogg, & Tito B.)",bay_area,spotify:track:5xFoosGeIuWambXNSmbDXh,0.334
+208,0.0814,0.775,206520,0.669,0.0,10,0.332,-5.137,1,Lil Coner,0.0684,102.368,4,I'll Be Your Puppet (feat. Tweety),bay_area,spotify:track:5XPf32FXtEuLGYU2wwTk09,0.598
+209,0.022,0.764,171893,0.459,0.0,7,0.0588,-5.76,1,Lil Coner,0.0348,88.025,4,Smile Now Cry Later,bay_area,spotify:track:5mS6dgTFpDX7LClVwGrG2W,0.43
+210,0.253,0.923,213600,0.666,0.0,1,0.331,-7.123,0,Happy,0.389,100.07,4,Time Is Money,bay_area,spotify:track:0GZd9sItaB4duCHVo1CvDw,0.77
+211,0.256,0.737,216000,0.7,0.0,1,0.433,-7.158,0,Happy,0.236,89.979,4,I Pray to God,bay_area,spotify:track:7wunb1zYJP4dT4B7Fx7G5q,0.611
+212,0.189,0.787,181008,0.663,1.61e-05,3,0.0955,-7.118,0,Happy,0.134,97.989,4,F.T.O.S,bay_area,spotify:track:23bJeQowYvt6MAiN9UIjLj,0.41
+213,0.167,0.948,212016,0.739,2.9e-05,7,0.0637,-5.97,1,Happy,0.326,103.976,4,Mobbin',bay_area,spotify:track:2tOsZk1xC95LPO4ERZmdQb,0.696
+214,0.0269,0.862,210893,0.819,0.0,9,0.0885,-7.162,0,Happy,0.198,100.269,4,I'm Yo Sancho,bay_area,spotify:track:3nTLPCK3TYTPfDQwSFwsVX,0.606
+215,0.293,0.869,107216,0.621,5.96e-06,7,0.112,-7.139,0,Happy,0.302,100.934,4,Fuck Bitch Mandime,bay_area,spotify:track:0PbAkREN0Vdzwv8KMmos1b,0.665
+216,0.14,0.856,241584,0.418,2.87e-05,2,0.0867,-8.701,1,Happy,0.237,90.004,4,Watch'n',bay_area,spotify:track:1AdygX9Bz3pEo5mHDC5eao,0.507
+217,0.727,0.73,175386,0.517,0.0,1,0.363,-7.122,1,Happy,0.066,87.576,4,Driftin',bay_area,spotify:track:1IywGOUW4RNgzhks2cGNzT,0.508
+218,0.0691,0.783,176592,0.449,0.000256,9,0.104,-8.414,1,Happy,0.354,180.089,4,Things That I Do,bay_area,spotify:track:5M4oXPkhlcOJwVHlOQX4kA,0.347
+219,0.44,0.769,208000,0.608,0.0,7,0.0591,-6.659,1,Happy,0.434,180.097,4,Seen Better Days,bay_area,spotify:track:5EQ4Emyi8569zUQ5VC1PI4,0.58
+220,0.317,0.656,260480,0.716,0.0,9,0.0773,-7.105,1,Jay Tee,0.355,90.424,4,Slow Jam,bay_area,spotify:track:3zSfFIDirChG4qVhmm1SXk,0.644
+221,0.00106,0.76,256827,0.706,0.0,11,0.0596,-6.34,0,Jay Tee,0.191,170.017,4,Baby Girl - Feat. Gemini & Magic,bay_area,spotify:track:5bFmOfIPp676W93Z5Vy6kd,0.581
+222,0.149,0.89,224800,0.683,0.0,11,0.106,-3.901,0,Jay Tee,0.318,94.999,4,Trippin,bay_area,spotify:track:3wRpd2beHiEKCzopgR1KAp,0.723
+223,0.169,0.946,217480,0.858,0.0,11,0.671,-4.16,0,Jay Tee,0.27,102.529,4,Chop That Hoe,bay_area,spotify:track:47mTQIdLVPrMCAAcoT2XkX,0.702
+224,0.338,0.792,219693,0.57,0.0,8,0.141,-5.967,0,Jay Tee,0.212,92.025,4,Pimpin' N Peelin',bay_area,spotify:track:6lwmP4h8YOvdGOQ5bQrpPr,0.496
+225,0.0114,0.913,236427,0.543,8.6e-05,10,0.0662,-8.68,0,Jay Tee,0.241,88.96,4,Just A Touch of Game,bay_area,spotify:track:5METMHagfC7OOdhSyCe55F,0.628
+226,0.00036,0.901,213160,0.709,0.0,1,0.23,-5.952,1,Jay Tee,0.199,102.548,4,Chop That Hoe (feat. Mac Dre & Baby Bash),bay_area,spotify:track:0EKnpiCnUaMVgniWwd0v3T,0.52
+227,0.51,0.835,254307,0.732,0.0,10,0.0647,-6.152,0,Jay Tee,0.188,84.008,4,Vamanos - Remix,bay_area,spotify:track:4lBcaEOUJWThcpiS6t6i43,0.807
+228,0.361,0.697,231160,0.689,0.0,10,0.142,-5.745,1,Jay Tee,0.0962,167.936,4,Vamanos,bay_area,spotify:track:6PUKJgE1huYxskKAS1PTiW,0.362
+229,0.0147,0.707,283333,0.619,0.0409,7,0.0921,-7.361,1,Jay Tee,0.0333,136.014,4,She's My Homie,bay_area,spotify:track:0fIQN73Cx5DDPM4SOGhhsj,0.803
+230,0.0014,0.83,189360,0.63,6.6e-06,0,0.119,-7.083,1,Cougnut,0.232,92.06,4,Faces Of Death,bay_area,spotify:track:0lakfh95wlIi24sPe5NtGr,0.379
+231,0.00219,0.83,261627,0.677,0.0,6,0.0857,-10.499,0,Cougnut,0.312,98.016,4,I Smell Jealousy,bay_area,spotify:track:5sobh2KLzHtzBiVyqxqMKn,0.596
+232,0.201,0.691,266907,0.611,0.0,7,0.0746,-5.652,1,Cougnut,0.335,170.021,4,"Bay Luv (feat. Lex A.D., Drizo & Yolanda)",bay_area,spotify:track:5vMfMhOeNwwdm10jdTkfmr,0.665
+233,0.0178,0.676,312533,0.804,0.0,7,0.573,-5.733,1,Cougnut,0.278,88.845,4,Power N the Pain,bay_area,spotify:track:1VOv0R22OOzP1Ubu6QPb8q,0.475
+234,0.00331,0.602,172213,0.736,0.0,0,0.345,-6.137,1,Cougnut,0.298,90.823,4,"Murda, Kill, Murda (Feat. Jaz, Assassin & Speedy Loc)",bay_area,spotify:track:3kQCSCcMbllxbnpww3R5it,0.42
+235,0.000454,0.852,191787,0.584,1.1e-06,7,0.138,-6.803,1,Cougnut,0.265,91.028,4,Tell Me Something Good,bay_area,spotify:track:61M8c5AgG3OXa6ggjoDEYW,0.395
+236,0.0443,0.687,249800,0.778,0.0,10,0.193,-6.686,0,Cougnut,0.351,86.397,4,California Love,bay_area,spotify:track:6Wzs9lKenLGEbpnH2t2Jsu,0.537
+237,0.0102,0.779,248827,0.541,0.0,7,0.482,-9.12,1,Cougnut,0.187,97.864,4,Sky Blue Jungle,bay_area,spotify:track:4AgFFYwhhcp5QnvLL7haHa,0.27
+238,0.123,0.831,245867,0.666,0.0,10,0.123,-6.741,0,Cougnut,0.305,90.017,4,Shadows Of Death,bay_area,spotify:track:46b7sD3uhm9Gucs2kjM48w,0.76
+239,0.263,0.602,206518,0.617,0.0,5,0.326,-5.676,1,Cougnut,0.366,178.703,4,Taken Chances,bay_area,spotify:track:39RbQ415med7pMpn7cU6hJ,0.655
+240,0.253,0.793,346347,0.629,0.0,1,0.214,-5.865,1,Lou E Lou,0.298,93.918,4,"Blackbird (Feat. Lil Los, Shadow & Lou E Lou)",bay_area,spotify:track:4iXSdj83QtXs6rk4wEKvdz,0.785
+241,0.148,0.78,293307,0.777,1.48e-06,9,0.104,-5.63,0,Lou E Lou,0.124,94.029,4,What You Know About Me (feat. Lil los & Lou e Lou),bay_area,spotify:track:6u3F1ZVJLB9xvu6cXAs1Kx,0.743
+242,0.00261,0.728,311827,0.625,0.0,6,0.111,-5.623,0,Lou E Lou,0.303,167.966,4,"Fuck How You Feelin (Feat. X.O., Lil Los, B-Dawg, Shadow & Woodie)",bay_area,spotify:track:6jv0cEMyl87DJED7AGzN0Y,0.723
+243,0.19,0.679,339187,0.893,0.0,10,0.736,-2.562,0,Lou E Lou,0.0639,87.994,4,Pray 4 Me (Feat. Lou E Lou),bay_area,spotify:track:5t6XdYOetm8ggpdJtHKj4g,0.372
+244,0.0933,0.813,224227,0.671,0.0,0,0.281,-6.385,1,Lou E Lou,0.359,81.999,4,Dying Species,bay_area,spotify:track:2j19NatD6BzdzxeC0yQYhE,0.654
+245,0.48,0.576,272067,0.835,0.0,1,0.0888,-4.283,1,Lou E Lou,0.198,88.964,4,I'm Wit That,bay_area,spotify:track:4L6OIE6RAmYzO8pBqIwmt8,0.549
+246,0.0672,0.743,284227,0.73,0.0,0,0.054,-5.311,1,Lou E Lou,0.198,178.011,3,"Slugz 4 A Sucka, Ene Dick 4 A Bitch (Feat. Woodie)",bay_area,spotify:track:1uv2FljaWroduGo3JfqetN,0.833
+247,0.0309,0.767,283400,0.756,0.0,0,0.0803,-5.641,1,Lou E Lou,0.187,156.13,4,Yay Filthy,bay_area,spotify:track:3aK8XsJ9cZXf4KfL17YSDw,0.732
+248,0.0458,0.561,262721,0.851,6.76e-06,7,0.12,-5.598,0,Lou E Lou,0.252,172.062,4,Mingle with Deamonz,bay_area,spotify:track:10xSVl3sL4INb2a7CQuAAL,0.547
+249,0.0876,0.357,290773,0.789,6.96e-05,0,0.356,-3.91,1,Lou E Lou,0.0601,179.889,4,Late Nite Smobbin' (Feat. Megan),bay_area,spotify:track:3Yd94vqeL8yIsLYMXUvOZf,0.486
+250,0.0996,0.777,285013,0.501,0.0,0,0.0766,-5.342,0,Smigg Dirtee,0.0616,75.006,4,Shawty Is a 10 (103.5 Bomb Remix Mix),bay_area,spotify:track:6C9y4hcURzCDjivDvouLIY,0.357
+251,0.754,0.519,388879,0.282,0.000227,9,0.112,-14.513,0,Smigg Dirtee,0.089,109.01,5,Silas' Room,bay_area,spotify:track:0vpMuLOHEeZUCWsNS891Xh,0.334
+252,0.00555,0.676,289080,0.694,0.0,2,0.63,-7.804,1,Smigg Dirtee,0.251,82.951,4,Blow Money,bay_area,spotify:track:57IC2tf9brJgaH7pdxcLtt,0.494
+253,0.0367,0.515,333936,0.774,0.0,1,0.184,-7.538,1,Smigg Dirtee,0.361,153.323,4,Jacramento (South Sac Crip-Mix),bay_area,spotify:track:3w2Z27O3xJWICqYYhK5K7D,0.303
+254,0.217,0.602,176867,0.699,4.15e-06,10,0.359,-6.758,0,Smigg Dirtee,0.283,92.811,4,U Know How We Do It (Day 5),bay_area,spotify:track:6pgFhrtMJdo50EDusuIlcW,0.438
+255,0.55,0.484,160824,0.762,0.0,8,0.203,-3.048,0,Smigg Dirtee,0.224,83.467,4,Motivation,bay_area,spotify:track:4JIYbZOYeDzmIJHhwYdzTK,0.646
+256,0.273,0.763,222250,0.692,0.0,11,0.204,-8.956,0,Smigg Dirtee,0.406,95.091,4,Bloc Move,bay_area,spotify:track:3Li8GcJKhO5KPQO0S3RWqv,0.633
+257,0.0393,0.639,216973,0.802,0.0,8,0.19,-4.088,0,Smigg Dirtee,0.379,85.005,4,Drug Runner Shit,bay_area,spotify:track:1bnPEXxcg24EQdUqJ3nV1O,0.835
+258,0.224,0.653,214040,0.746,0.0,8,0.168,-4.564,1,Smigg Dirtee,0.149,78.007,4,Rockin That Sh*t (Teamwork Remix Mix),bay_area,spotify:track:4wMeiYonO95cQe7QFjEhZf,0.637
+259,0.0149,0.569,208440,0.888,0.0,1,0.351,-2.723,1,Smigg Dirtee,0.175,85.915,4,Gang Up,bay_area,spotify:track:3ZgPaQKYtu0dFAH1VdFaJX,0.717
+260,0.269,0.726,277760,0.516,0.0,6,0.33,-9.419,1,Mr. Kee,0.137,95.077,4,Underdog,bay_area,spotify:track:6PiBprIPgQMuAwoaaAZGTF,0.826
+261,0.00365,0.718,306205,0.608,0.0,6,0.25,-5.32,0,Mr. Kee,0.19,150.034,4,How Deep is Your Mobb,bay_area,spotify:track:1pUy5SRObNxja4qEDuSoXN,0.622
+262,0.151,0.64,259880,0.789,0.0,10,0.141,-4.374,0,Mr. Kee,0.219,179.942,4,Waist Deep,bay_area,spotify:track:0UNr3Bt7WZkwwMnhEHDFSN,0.64
+263,0.00259,0.648,277573,0.838,5.89e-06,2,0.0873,-6.999,1,Mr. Kee,0.324,83.042,4,Smiling Faces,bay_area,spotify:track:3QMzPwAjp1u6nibc89rtMF,0.678
+264,0.0954,0.73,276840,0.727,0.0,10,0.192,-7.832,0,Mr. Kee,0.36,143.935,4,18 Wit A Bullet,bay_area,spotify:track:1BVdZ5U7afdg6FzvVZqGeP,0.753
+265,0.00536,0.857,195413,0.67,0.0,1,0.0589,-4.862,1,Mr. Kee,0.265,90.895,4,Real Drama,bay_area,spotify:track:28QRfAcbftZOp3CYxOFexy,0.415
+266,0.222,0.818,229041,0.611,0.0,7,0.167,-12.491,1,Mr. Kee,0.303,82.009,4,Money In My Pocket (feat. Snow White The Product),bay_area,spotify:track:2YPjOrN4TqCZwXtAGVG61k,0.864
+267,0.0892,0.857,268400,0.691,0.0,8,0.0735,-7.174,1,Mr. Kee,0.272,79.842,4,Game Untold,bay_area,spotify:track:432xH5svXL95BJ2am8KcZW,0.67
+268,0.0387,0.539,253693,0.696,0.0,0,0.303,-5.712,1,Mr. Kee,0.289,178.193,4,Pains of the Game,bay_area,spotify:track:67Zh4jKBmL5V5xygDMMKOo,0.544
+269,0.0196,0.877,254147,0.843,0.0,4,0.307,-5.441,0,Mr. Kee,0.26,78.004,4,Fuck That (Remix),bay_area,spotify:track:7u1OwJWvtkkeShsJImZ7aj,0.594
+270,0.0536,0.827,209613,0.61,0.0,2,0.0805,-8.135,1,Konu,0.0571,135.021,4,This Life I Lead,bay_area,spotify:track:0c4m0EA7mAkJCz1bk9Ycmg,0.906
+271,0.00656,0.732,218360,0.877,0.00182,7,0.092,-6.59,1,Konu,0.0543,142.022,4,Them Kind of Girls,bay_area,spotify:track:31CipqTpoiq33AigJfYX6t,0.873
+272,0.047,0.751,182840,0.876,0.0,5,0.179,-6.574,1,Konu,0.156,152.037,4,Words to Look After,bay_area,spotify:track:3t1GyYS25V4H7tIPx5qBEE,0.97
+273,0.0889,0.786,221093,0.876,0.0013,1,0.0524,-5.781,1,Konu,0.041,139.968,4,Now She Knows,bay_area,spotify:track:3VW3ZJZJhh7UIHB8Fpclr4,0.963
+274,0.00635,0.722,174533,0.874,0.0,11,0.385,-8.441,1,Konu,0.144,144.056,4,Hey Lady,bay_area,spotify:track:7pZwmsDuW9wUYH5S2Oo4Mo,0.837
+275,0.0277,0.729,221000,0.866,0.0,9,0.205,-6.73,1,Konu,0.0961,140.053,4,We in the Bay,bay_area,spotify:track:7hmYDF54nnPsOELrRwpMPL,0.919
+276,0.00707,0.856,208973,0.803,0.0,1,0.293,-6.131,1,Konu,0.0382,130.031,4,Lot to Learn,bay_area,spotify:track:2jy5DCmcfNPpL7xdiwk1wP,0.965
+277,0.00837,0.771,188973,0.626,0.0,0,0.124,-7.506,1,Konu,0.285,85.976,4,My Town,bay_area,spotify:track:5BU5k88pkFz5QqYlmiwBYK,0.899
+278,0.0166,0.661,241920,0.845,4.45e-06,7,0.112,-4.763,1,Konu,0.294,176.097,4,How We Ride,bay_area,spotify:track:6qoyzujnesvtCnCIY8XRyk,0.375
+279,0.00138,0.92,177476,0.574,0.0,7,0.108,-9.992,1,Konu,0.329,148.031,4,Caress You Down Slow (Bonus Oldies),bay_area,spotify:track:0dsQYlgcZxSbpSKVaULydi,0.924
+280,0.00247,0.9,223548,0.424,0.0,11,0.245,-8.793,0,Yantz,0.381,100.066,4,We Active N We Function,bay_area,spotify:track:4e0uw2BMg5LCiKa8p3YakL,0.367
+281,0.309,0.813,520747,0.651,0.0,4,0.0927,-8.927,0,Yantz,0.318,97.915,4,Krime Watch 4,bay_area,spotify:track:66DK6uJULo5EkkoSkLYIBn,0.503
+282,0.000307,0.749,278728,0.755,0.0,0,0.0781,-7.113,1,Yantz,0.183,95.006,4,From the Start,bay_area,spotify:track:3PteowkwNjqFq9bv2It5DV,0.299
+283,0.234,0.884,215973,0.797,0.0,0,0.0969,-7.522,1,Yantz,0.407,91.857,4,Im a Chicano,bay_area,spotify:track:6IEeKMEJaKHQlgTAFeB63i,0.454
+284,0.629,0.809,163265,0.441,0.0,8,0.0706,-8.61,1,Yantz,0.264,91.99,4,Hey Mama,bay_area,spotify:track:46dHuYeNDICFYKfJEBpmJS,0.664
+285,0.197,0.787,246204,0.597,0.0,8,0.125,-10.46,0,Yantz,0.197,96.008,4,No Regrets,bay_area,spotify:track:3CGZs8r1MLuMD7TNusrV85,0.289
+286,0.158,0.772,177413,0.732,5.24e-05,5,0.35,-8.76,1,Yantz,0.298,99.002,4,Don't Ask Me Why,bay_area,spotify:track:03NSixurDaeU4xBU4vSp7L,0.404
+287,0.0846,0.816,221947,0.613,0.0,9,0.107,-6.927,1,Yantz,0.173,93.575,4,In the Varrio,bay_area,spotify:track:5Eojqa6ikcGSgUdT9YJrMf,0.249
+288,0.00276,0.823,289120,0.485,0.0,7,0.144,-9.535,1,Yantz,0.278,90.005,4,93905 (Remix),bay_area,spotify:track:0nHIol7Y349FKN7g6bQ7yr,0.403
+289,0.479,0.894,219324,0.428,0.0,2,0.111,-9.934,1,Yantz,0.318,97.021,4,Livin' In Sin,bay_area,spotify:track:37vhhfw0VwN307PIkp1Q4L,0.0745
+290,0.00193,0.733,226133,0.385,0.000669,7,0.155,-12.952,1,DarkRoom Familia,0.391,191.121,4,I'm a Gunner,bay_area,spotify:track:1FTu6MSo3qwANcBOWvVydv,0.268
+291,0.00125,0.859,263573,0.669,0.0,2,0.102,-8.819,1,DarkRoom Familia,0.26,91.092,4,Marijuana Dreams,bay_area,spotify:track:6NiJXaGkBZXHS5Okob2zdJ,0.527
+292,0.15,0.706,246827,0.716,0.0178,0,0.12,-5.641,1,DarkRoom Familia,0.213,180.016,4,Nortenos (San Jo 2 Tracy),bay_area,spotify:track:5upm4kWOwZ6ioy2zkzktui,0.514
+293,0.00491,0.734,242120,0.669,1.48e-05,11,0.078,-8.786,0,DarkRoom Familia,0.101,182.566,4,In the Fog,bay_area,spotify:track:3xU6bIic3FeaPLMqpgaICf,0.395
+294,0.106,0.88,210413,0.691,0.0,11,0.0881,-5.55,0,DarkRoom Familia,0.227,95.007,4,U.N.,bay_area,spotify:track:5cV2zpF5BeVEBStNyWS1q8,0.201
+295,0.00186,0.715,185760,0.509,1.76e-06,5,0.33,-13.119,0,DarkRoom Familia,0.336,82.437,4,Northern Killa Cali,bay_area,spotify:track:0wMk7BzGPn26MuR44vqGAd,0.375
+296,0.0964,0.806,232827,0.477,0.0,2,0.34,-11.369,1,DarkRoom Familia,0.148,94.015,4,Retaliation,bay_area,spotify:track:4SYmAtvVUPlRtMHcxmi4PU,0.182
+297,0.0141,0.768,241053,0.546,0.0,5,0.244,-7.966,0,DarkRoom Familia,0.0516,103.612,4,In the Darkroom,bay_area,spotify:track:2aoPN9BgXjoX1mzSmsJjNG,0.777
+298,0.107,0.645,244080,0.682,0.0,11,0.363,-8.876,1,DarkRoom Familia,0.365,172.28,4,Valley 2 Tha Bay,bay_area,spotify:track:1fVi9SAbLtZkfCUizB13ON,0.622
+299,0.026,0.904,330733,0.592,5.57e-06,3,0.362,-12.684,0,DarkRoom Familia,0.472,91.105,4,Handful,bay_area,spotify:track:7MfTcd2eZ84rpF4CU67Fal,0.777
+300,0.15,0.706,246827,0.716,0.0178,0,0.12,-5.641,1,Sir Dyno,0.213,180.016,4,Nortenos (San Jo 2 Tracy),bay_area,spotify:track:5upm4kWOwZ6ioy2zkzktui,0.514
+301,0.202,0.81,284187,0.643,1.47e-05,9,0.0714,-6.438,0,Sir Dyno,0.163,95.11,4,Have You Ever Sold Dope,bay_area,spotify:track:2IEkuz9QcWA7wIQTMlQUF9,0.599
+302,0.428,0.804,255507,0.629,0.0,9,0.134,-9.205,0,Sir Dyno,0.304,92.005,4,My Camarada,bay_area,spotify:track:3jyFqyZZewNXCqjAMzSX7m,0.41
+303,0.163,0.742,280960,0.576,0.00175,7,0.169,-7.919,1,Sir Dyno,0.157,96.349,4,Forced to Get Paid,bay_area,spotify:track:1Gx2tFHKjnWCkh5zS4Df4x,0.485
+304,0.311,0.719,236453,0.729,0.0,7,0.413,-4.531,1,Sir Dyno,0.308,180.116,4,I Killed Your Homeboy,bay_area,spotify:track:76EqoGgROV4dtXmtOfzhL3,0.463
+305,1.07e-05,0.647,219107,0.835,0.232,0,0.146,-6.374,1,Sir Dyno,0.109,96.84,4,Brown Chicana,bay_area,spotify:track:35bIQ3RqT3uOQdVB0QeTho,0.519
+306,0.226,0.719,315507,0.603,0.000586,4,0.0751,-7.534,0,Sir Dyno,0.0387,94.8,4,Brown Persuasion,bay_area,spotify:track:1WWDJLhFEyGR2q0YMWBXgy,0.447
+307,0.19,0.866,245707,0.674,0.0251,7,0.11,-5.518,1,Sir Dyno,0.0366,91.987,4,I Can't See Through the Rain,bay_area,spotify:track:2sKFDP9j7Doi0vyZ2sOFJl,0.132
+308,0.526,0.866,260800,0.542,0.245,9,0.0798,-5.995,0,Sir Dyno,0.132,75.001,1,La Mas Hermosa,bay_area,spotify:track:4lUgAuSKp0BdDC2mAd5cik,0.948
+309,0.801,0.761,289920,0.453,0.0,9,0.103,-9.758,0,Sir Dyno,0.0783,85.998,4,Daddy's Home 2003,bay_area,spotify:track:6BpeblEKhwBy1t25D6WGea,0.427
+310,0.155,0.722,339383,0.83,0.0,4,0.244,-6.346,0,Tito Loc,0.377,160.059,4,All I Know,bay_area,spotify:track:3jBiLcYmjtztMujthqWDuZ,0.693
+311,0.0988,0.809,224026,0.667,0.0,1,0.0956,-7.626,1,Tito Loc,0.209,93.957,4,Push Pull Strive,bay_area,spotify:track:5yMVeWbt637tY7q2002cSq,0.38
+312,0.0372,0.857,213333,0.876,0.0,8,0.109,-5.251,0,Tito Loc,0.202,99.05,4,Beat the Odds,bay_area,spotify:track:6B7AMt2OrOErj1Okjhbp6h,0.363
+313,0.25,0.891,296101,0.323,0.0,1,0.37,-7.821,1,Tito Loc,0.432,94.044,4,How Real Can You Keep It,bay_area,spotify:track:1gIawsbV3HpnAuwQ5KbJaR,0.0483
+314,0.153,0.636,220682,0.624,0.0,10,0.233,-7.268,0,Tito Loc,0.35,180.031,4,Down 2 Ride,bay_area,spotify:track:0Pkdqie8YPe2sfIsaOkedT,0.479
+315,0.393,0.706,237401,0.507,0.0,2,0.0792,-9.558,1,Tito Loc,0.403,184.21,4,Nobody,bay_area,spotify:track:27qLbPn3U5ciA0a2svofhS,0.537
+316,0.351,0.822,317649,0.599,0.0,2,0.112,-7.809,1,Tito Loc,0.33,84.991,4,Bang'n on Um,bay_area,spotify:track:0cElcWEse3EAO4ZsMAogGB,0.752
+317,0.191,0.525,288670,0.689,0.0,0,0.188,-6.293,0,Tito Loc,0.322,94.68,3,Fast Lane,bay_area,spotify:track:4FKxKMvw3rO91TdcockFgI,0.176
+318,0.0022,0.713,196162,0.489,0.0,0,0.124,-11.007,1,Tito Loc,0.39,179.88,4,Pull Out,bay_area,spotify:track:0qLDHzwH9dnjlkwQNb1NB8,0.633
+319,0.473,0.823,250404,0.58,0.0,5,0.135,-8.362,1,Tito Loc,0.261,89.996,4,M.O.E.,bay_area,spotify:track:2CspfqOc7ZD2sERkRmsj46,0.8
+320,0.0567,0.805,310040,0.688,7.01e-05,1,0.0844,-10.49,1,I.M.P,0.252,109.109,4,Frisco,bay_area,spotify:track:3QLtMoSkbZNyh2eWjelS9Y,0.365
+321,0.051,0.839,200333,0.601,0.000223,9,0.0817,-7.608,1,I.M.P,0.25,101.995,4,Wild Ass West,bay_area,spotify:track:6UGht8GPlOk1tIdxBvQLY0,0.479
+322,0.000202,0.894,264573,0.589,0.0,1,0.183,-7.434,1,I.M.P,0.181,95.211,4,Shine Star,bay_area,spotify:track:4HUrGLCmwtk04bRVWUxO2N,0.304
+323,0.00488,0.881,257040,0.71,0.0,11,0.0924,-8.213,0,I.M.P,0.277,97.991,4,Jealousy,bay_area,spotify:track:2V2EHvUtm3pzz51ImNm0gr,0.543
+324,0.000677,0.915,237893,0.618,7.05e-06,11,0.0836,-12.862,0,I.M.P,0.37,100.309,4,Scandlous,bay_area,spotify:track:53CyymsmtJ1wFAUqdM26Hd,0.603
+325,0.0244,0.782,236000,0.762,0.0,4,0.109,-6.336,0,I.M.P,0.296,94.19,4,Boots Laced Tight,bay_area,spotify:track:6ZVsyP35abU5XUrrd4wUut,0.728
+326,0.00333,0.938,219333,0.701,0.0,0,0.268,-9.888,1,I.M.P,0.276,96.452,4,Don't Try to Play Me,bay_area,spotify:track:4eHuhMdyDYAXoHjhifLyXx,0.686
+327,0.000322,0.752,295400,0.687,0.00813,10,0.532,-7.697,0,I.M.P,0.0507,85.138,4,Don't Get It Twisted,bay_area,spotify:track:2XmJA8I6YRWjOkkRcHpBuk,0.482
+328,0.00313,0.736,286133,0.669,3.53e-05,10,0.352,-6.28,0,I.M.P,0.0416,89.004,4,Bay Nigga,bay_area,spotify:track:7cBDy0XLKqrN4WSLp7uUGq,0.465
+329,0.00398,0.775,343533,0.825,0.0,4,0.155,-7.843,0,I.M.P,0.249,81.182,4,The Last Breath,bay_area,spotify:track:5vlc5V43URhraJt7dEnwCA,0.801
+330,0.0877,0.675,281000,0.825,0.0,3,0.161,-5.137,0,Big Oso Loc,0.175,97.051,4,My Flag,bay_area,spotify:track:3s38aiziJwvdU1uqBn7DsC,0.62
+331,0.0171,0.814,269853,0.67,0.0,9,0.0767,-7.501,1,Big Oso Loc,0.353,156.087,4,Im a Mon-sta,bay_area,spotify:track:0cbO1mBQg6Dqe23PqpdTFs,0.675
+332,0.00372,0.851,312853,0.622,0.0,1,0.0751,-6.249,1,Big Oso Loc,0.152,149.923,4,How I Ride,bay_area,spotify:track:4pUZJEH9ibe7PJ8jksdJzR,0.774
+333,0.0136,0.741,312600,0.857,0.0,6,0.199,-5.363,1,Big Oso Loc,0.425,74.917,4,I Stays On the Block (feat. Big Oso Locs & Ace of Spits),bay_area,spotify:track:2Uwb7FaD8AgYjxr8KdmRO0,0.793
+334,0.00453,0.691,247246,0.443,4.26e-06,0,0.0891,-11.163,1,Big Oso Loc,0.145,89.946,4,Boots on the Yard,bay_area,spotify:track:5O4wUprc1uE3hEtANMUt9j,0.208
+335,0.0052,0.625,249840,0.854,1.03e-05,1,0.277,-5.932,0,Big Oso Loc,0.17,171.959,4,The Red Zone,bay_area,spotify:track:00DUAdjOx5WDdgBMmaGmzG,0.465
+336,0.248,0.733,283267,0.832,0.0,9,0.0887,-6.084,0,Big Oso Loc,0.126,94.042,4,What You Know About Me (feat. Big Oso Loc & Keek Dogg) - Remix,bay_area,spotify:track:3TG1aLY3eFlQONFBQPpSMW,0.764
+337,0.065,0.577,256440,0.818,1.25e-05,5,0.667,-6.441,0,Big Oso Loc,0.0828,75.01,4,Gangsta's Don't Talk (feat. Big Rhino),bay_area,spotify:track:5mjav7qilrQwrVrNKHuL2b,0.381
+338,0.0115,0.608,232943,0.706,0.0,11,0.0885,-7.093,0,Big Oso Loc,0.197,89.926,4,Dont Go There (feat. Big Rome & Big Loco),bay_area,spotify:track:48Y9zLH4aMIRPGLlvfZXjN,0.296
+339,0.346,0.754,207080,0.81,0.0,4,0.0678,-6.116,0,Big Oso Loc,0.0856,99.075,4,Throw Up The 4 (feat. Pistol Cee & Redrum),bay_area,spotify:track:5X6pWCzFtnAbtSnmPrvdzG,0.562
+340,0.0072,0.884,299773,0.558,0.0,7,0.0874,-6.7,1,Goldtoes,0.207,94.995,4,Nothside Soldier,bay_area,spotify:track:0AcWxbqE5mHmmeA0OT3L3H,0.72
+341,0.0571,0.683,244002,0.745,0.000272,5,0.127,-5.183,0,Goldtoes,0.32,177.923,4,Norte Stomp,bay_area,spotify:track:50HFdUOFn1n3qXfIiAYy3T,0.528
+342,0.0175,0.817,219840,0.778,0.0,4,0.374,-4.297,0,Goldtoes,0.238,96.643,4,Fallen Soldiers,bay_area,spotify:track:265bmH4H9adsKkmND4O5r2,0.552
+343,0.00579,0.716,244187,0.679,0.0,1,0.318,-5.105,1,Goldtoes,0.382,84.47,4,Romped Out Norteno - Thizzed OUT Remix,bay_area,spotify:track:3rcOPW1yT8L4PLwxTgXfI0,0.799
+344,0.0102,0.803,187680,0.585,0.0,7,0.399,-7.472,1,Goldtoes,0.304,117.94,4,San Francisco,bay_area,spotify:track:3vZUbcBUYbJfBltdwcGdRd,0.675
+345,0.028,0.769,267000,0.792,1.41e-05,7,0.267,-4.108,1,Goldtoes,0.121,160.038,4,"Walk On Toes (feat. SPM, Lil Ro, & Lucky Luciano)",bay_area,spotify:track:0Kxj1c7mRp3o8eXHskEm9P,0.719
+346,0.516,0.635,190053,0.616,7.64e-05,9,0.123,-7.458,0,Goldtoes,0.0455,119.95,4,Waiting On You,bay_area,spotify:track:4Mw0DAimq5OzCJwZ9ENjqb,0.435
+347,0.0682,0.784,241987,0.842,0.0,7,0.161,-5.138,1,Goldtoes,0.286,97.045,4,I Don't Lean Like A Cholo,bay_area,spotify:track:11JmzyMfGM0BV0HJDsfhqL,0.601
+348,0.0892,0.857,268400,0.691,0.0,8,0.0735,-7.174,1,Goldtoes,0.272,79.842,4,Game Untold,bay_area,spotify:track:432xH5svXL95BJ2am8KcZW,0.67
+349,0.265,0.751,222333,0.72,0.0,5,0.166,-6.918,0,Goldtoes,0.223,95.006,4,Across The Water,bay_area,spotify:track:0ywc12I1vG5cjMuZRUkwt2,0.64
+350,0.295,0.855,198766,0.788,0.0,6,0.0924,-6.755,1,A Wax,0.203,107.045,4,Always Something,bay_area,spotify:track:76FXdjhBjxADRZHQFoTHL7,0.202
+351,0.21,0.692,268005,0.72,0.0,10,0.153,-7.341,0,A Wax,0.172,79.014,4,Lay-Em Low (feat. B-Dawg),bay_area,spotify:track:45c18J49AbUgRTaKudT2cL,0.414
+352,0.295,0.608,210141,0.842,0.0604,5,0.0731,-6.072,0,A Wax,0.265,184.132,4,On The Edge,bay_area,spotify:track:5ehCq5p4y9k79tHA7fqoGK,0.588
+353,0.143,0.504,207540,0.874,0.00382,7,0.117,-5.186,1,A Wax,0.241,167.897,4,The Yoc And The Burg,bay_area,spotify:track:6H2jutahGkztcScM3I3Kai,0.536
+354,0.117,0.644,223701,0.598,0.28,9,0.138,-7.602,0,A Wax,0.16,171.926,4,A Rebel's Prayer (feat. B-Dawg),bay_area,spotify:track:1EB3obmIIolG4Y3oEaJLkX,0.541
+355,0.00475,0.789,266170,0.745,0.0,1,0.0806,-6.466,1,A Wax,0.307,87.868,4,Patriot Acts (feat. Lou-E-Lou),bay_area,spotify:track:11kmp5Qph70wydXlGS0V7C,0.44
+356,0.299,0.463,205404,0.947,0.0,1,0.188,-5.294,1,A Wax,0.286,86.254,4,"Bayrider Gang (feat. Dutch, Smigg Dirtee)",bay_area,spotify:track:7qSjmAh9vrUvfFlDOHsDtm,0.792
+357,0.135,0.921,182857,0.633,0.0,1,0.125,-7.954,1,A Wax,0.284,95.943,4,Fast Way,bay_area,spotify:track:7xJ5qtdy3EScMT5IxZQoJb,0.799
+358,0.0181,0.773,212927,0.734,0.0,2,0.067,-7.5,1,A Wax,0.342,163.968,4,Safe Here,bay_area,spotify:track:3k5PxdkyNJ9CJO9sO3SIRT,0.666
+359,0.398,0.4,202083,0.955,0.0,1,0.0862,-5.135,0,A Wax,0.333,81.717,4,Love Is Hope,bay_area,spotify:track:40tIc7Vf0NtnNNLxHuczzB,0.666
+360,0.0421,0.726,237292,0.647,1.05e-06,9,0.143,-6.523,0,Lil Toro,0.108,178.057,4,Real Hitters,bay_area,spotify:track:4W4cBdvt3TNbBERKsXwg1r,0.341
+361,0.234,0.701,246173,0.687,0.0,7,0.199,-4.896,1,Lil Toro,0.18,89.982,4,Ain't No Gun Wavin,bay_area,spotify:track:1TDpLmiI7fk4CuBevS66r0,0.329
+362,0.122,0.756,254267,0.735,0.0,11,0.127,-4.666,1,Lil Toro,0.0814,80.013,4,Mouth Piece,bay_area,spotify:track:6EZq6bFAdwDuheEuTWhDLX,0.588
+363,0.0368,0.875,225012,0.704,0.0,2,0.541,-5.178,1,Lil Toro,0.112,95.002,4,"All Funk, No Love",bay_area,spotify:track:17ZsHNaLN5NtD2sTTxuzRR,0.488
+364,0.492,0.606,285667,0.914,0.0,7,0.173,-4.408,1,Lil Toro,0.199,167.94,4,Push Comes to Shove,bay_area,spotify:track:1oVymdFtEZDeMAo2WqDJ9P,0.888
+365,0.359,0.736,234685,0.316,0.0,0,0.114,-14.801,1,Lil Toro,0.0834,89.996,4,Sorry Mama,bay_area,spotify:track:35FrI4dtu27fFnWxpYq0u9,0.582
+366,0.0336,0.771,237680,0.599,0.0,8,0.102,-5.297,0,Lil Toro,0.0822,95.007,4,Take a Ride,bay_area,spotify:track:4vcw6i8NBpk9OliTxyHPuJ,0.345
+367,0.0565,0.752,255982,0.58,0.0,7,0.0797,-8.21,1,Lil Toro,0.416,91.02,4,Overdose,bay_area,spotify:track:4j4dkwu9fMDY6qSkRU5jV1,0.59
+368,0.0389,0.757,181560,0.935,0.0,10,0.0935,-3.772,0,Lil Toro,0.0959,113.17,4,Rok Your Body,bay_area,spotify:track:7hI0kCI4p40OYseCCC6pzg,0.665
+369,0.0575,0.71,297401,0.583,0.0,5,0.334,-10.099,1,Lil Toro,0.241,92.041,4,Tramp Droppin',bay_area,spotify:track:1AudPkzlueO9IkauzpHzng,0.208
+370,0.00945,0.661,202733,0.524,0.0,9,0.0717,-5.666,1,Speedy Loc,0.333,94.689,4,"Pimpin, Hustlin, Gangsta Mob Shit (Feat. Spice 1 & Speedy Loc)",bay_area,spotify:track:0C1aRYaiS0Yg67LrpNeKKO,0.404
+371,0.256,0.737,272747,0.706,0.0,2,0.137,-6.957,1,Speedy Loc,0.406,185.919,4,"East Bay Riderz (feat. C Rite, Tito B, Ed Dosia, Drawz, Lenyo, Keek Dogg & Bandit)",bay_area,spotify:track:3W5xXyY77OX5Zn4NAdRMGV,0.849
+372,0.281,0.698,322960,0.554,0.0,2,0.228,-7.016,1,Speedy Loc,0.285,84.925,4,"Ghetto Ballin' (feat. Daz, JT the Bigga Figga, Low & Konvict)",bay_area,spotify:track:5IyORGbQmbn69WJyNucPTu,0.377
+373,0.187,0.553,455427,0.732,0.0,9,0.161,-3.173,0,Speedy Loc,0.254,179.909,4,"Tirbute To Speedy Loc (feat. Speedy's Mom & Kids, Mousie, Lil Coner, Tito-B, Ed Dosia, Big Oso Loc, Keek Dogg & Speedy's Homies)",bay_area,spotify:track:0KBFBclSKOOO1rK3fQvAT4,0.183
+374,0.307,0.585,223307,0.614,0.0,2,0.218,-6.497,1,Speedy Loc,0.142,189.887,4,Look N 2 My Eyez,bay_area,spotify:track:2HhFvO5nCv967lRjMsnxsZ,0.103
+375,0.00606,0.768,231853,0.389,2.06e-06,8,0.209,-11.214,1,Speedy Loc,0.292,85.0,4,Enemies,bay_area,spotify:track:3V6P4Zg2S1nimywNXEBnhe,0.619
+376,0.00331,0.602,172213,0.736,0.0,0,0.345,-6.137,1,Speedy Loc,0.298,90.823,4,"Murda, Kill, Murda (Feat. Jaz, Assassin & Speedy Loc)",bay_area,spotify:track:3kQCSCcMbllxbnpww3R5it,0.42
+377,0.0353,0.973,200867,0.549,0.000184,7,0.0813,-5.69,1,Speedy Loc,0.254,117.954,4,"Parking Lot Pimpin' (feat. Ed Dosia, Mousie & Davina)",bay_area,spotify:track:5aiXQ0G76EDlOiNcT7QlKS,0.386
+378,0.0254,0.974,322293,0.711,0.0,4,0.118,-7.389,0,Speedy Loc,0.328,109.858,4,"Another One (feat. Lil Coner, Ed Dosia, Keek Dogg, Lil Wyno, Hurrikaine J, Low, Young Myth & Never)",bay_area,spotify:track:64uwIH2B5WcyqBBS7jqhwj,0.688
+379,0.0176,0.724,190533,0.556,0.0,9,0.0983,-5.191,1,Speedy Loc,0.464,186.034,4,Back In Tha Dayz (feat. Cuts By Bugsy),bay_area,spotify:track:0EWkx11ynSg0AQhHXFnbve,0.193
+380,0.254,0.735,276585,0.551,0.0,0,0.12,-10.162,1,Doc 9,0.141,92.008,4,The Way I Live (feat. Lil JGO),bay_area,spotify:track:4i9GJbIOCntL10v30ClzOW,0.622
+381,0.0623,0.79,239630,0.68,0.0,1,0.0903,-9.675,1,Doc 9,0.299,89.989,4,"14 Banga (feat. Boo, Conspiracy)",bay_area,spotify:track:4cfs5cZ8aRrDyHK75lupnZ,0.492
+382,0.387,0.641,261960,0.667,2.49e-06,9,0.115,-6.569,0,Doc 9,0.219,152.036,4,Never Be the Same,bay_area,spotify:track:5za0ZWhcS8M0OmkcJoI7yW,0.714
+383,0.154,0.748,259878,0.598,0.0,0,0.104,-8.564,1,Doc 9,0.246,94.992,4,"Streets Keep Calling (feat. Tony B, B-Dawg)",bay_area,spotify:track:4XmwrykYjvpN7GvNBMXn0l,0.437
+384,0.108,0.754,237080,0.642,0.0,7,0.359,-5.972,0,Doc 9,0.0836,91.012,4,Streetz Be Watchin,bay_area,spotify:track:1THNtV7DHi8DtTea97LxGg,0.563
+385,0.0287,0.733,304827,0.811,0.0,7,0.0659,-4.344,1,Doc 9,0.263,164.901,4,"Out Your Mouth (feat. Chubbz, Cleezy, Pokie, Mac Moss, Travieso & Moe)",bay_area,spotify:track:5V0PDEY4m0REZAwRBIC60K,0.59
+386,0.0473,0.825,240001,0.56,0.0,2,0.0863,-9.128,1,Doc 9,0.269,96.031,4,Funk Don't Stop (feat. Travieso G),bay_area,spotify:track:0YK4yvnk2BVgcAnDAAEfDw,0.253
+387,0.177,0.699,258694,0.786,0.0,7,0.106,-7.193,1,Doc 9,0.271,163.98,4,"From the Start (feat. Shadow, XO Creep)",bay_area,spotify:track:4fL13NtljUEBkv0eJ3fHpj,0.545
+388,0.000738,0.635,255512,0.827,0.0,6,0.0596,-8.551,0,Doc 9,0.152,150.043,4,Can't Change the Past (feat. Tibit),bay_area,spotify:track:2xVl9vCd3zinb0PhLWo7sd,0.633
+389,0.123,0.738,249173,0.843,3.01e-05,2,0.266,-4.958,0,Doc 9,0.285,89.433,4,If You Feel Me,bay_area,spotify:track:1pjSlBy0M7RzeluVJQwbKs,0.574
+390,0.0947,0.799,250787,0.601,0.0,10,0.1,-7.413,0,Lil Dee,0.281,183.95,4,My Life On the Line,bay_area,spotify:track:5FOaVmXpG3vmKFBLdc4gdS,0.442
+391,0.115,0.584,399267,0.559,4.54e-06,11,0.107,-10.245,0,Lil Dee,0.341,167.971,4,Can't Hold Me Down (feat. Lil Dee),bay_area,spotify:track:36yycSFGDj4DMepl4kqdH1,0.34
+392,0.0503,0.578,259640,0.664,0.0,0,0.21,-7.667,0,Lil Dee,0.0416,147.839,4,Memories (feat. Nichol & Big Oso Loc),bay_area,spotify:track:2YuSK7pIMuIqgtpNENBlBg,0.312
+393,0.00257,0.761,206813,0.51,0.0,6,0.131,-7.536,1,Lil Dee,0.233,103.013,4,In My Hood,bay_area,spotify:track:4TLFKkCF0nOv1sjbHNSCJI,0.553
+394,0.0324,0.579,207993,0.64,0.0,7,0.213,-8.683,0,Lil Dee,0.206,155.842,4,Struggle (feat. Nichol),bay_area,spotify:track:6r3jXXn0gnV6zqopbkhX2R,0.519
+395,0.163,0.763,211825,0.633,2.63e-05,7,0.131,-8.109,1,Lil Dee,0.257,85.021,4,Get The Money,bay_area,spotify:track:1xlYc0cHzqBEyDp6QO59tu,0.625
+396,0.142,0.738,248587,0.758,0.0,10,0.1,-5.096,0,Lil Dee,0.0855,89.966,4,Through My Eyez,bay_area,spotify:track:2ffn4wlBDkSooTW3FqZfAO,0.433
+397,0.0239,0.927,157547,0.419,0.00298,6,0.084,-7.107,1,Lil Dee,0.215,92.991,4,Nobodys' (Feat. Woodie),bay_area,spotify:track:4IwulibZrwtitZRrjm5PaZ,0.43
+398,0.0108,0.565,291892,0.554,1.02e-06,5,0.141,-10.785,0,Lil Dee,0.0419,148.01,4,Memories,bay_area,spotify:track:5fxMewWBYqHPbRMOIURl53,0.291
+399,0.264,0.783,183893,0.593,0.0,10,0.118,-5.773,1,Lil Dee,0.332,85.988,4,Back In The Day (feat. A-Wax),bay_area,spotify:track:6SsGpPzmZtsa7LPvmgXBFb,0.34
+400,0.458,0.473,216607,0.573,0.0,1,0.111,-7.505,1,Mousie,0.0832,107.862,3,Forever In My Mind,bay_area,spotify:track:1Bd5wWbOyhGbTlHqMdof05,0.0383
+401,0.00612,0.886,299693,0.557,0.0,7,0.0884,-6.589,1,Mousie,0.182,94.996,4,Northside Soldier,bay_area,spotify:track:2o6YRtFEH4YXUWvmxcBV7Z,0.708
+402,0.0114,0.963,213640,0.532,0.0,7,0.107,-7.932,1,Mousie,0.283,111.977,4,Big Bad Norte,bay_area,spotify:track:0hQPbySmIJhoK75t7j4aTl,0.495
+403,0.00579,0.716,244187,0.679,0.0,1,0.318,-5.105,1,Mousie,0.382,84.47,4,Romped Out Norteno - Thizzed OUT Remix,bay_area,spotify:track:3rcOPW1yT8L4PLwxTgXfI0,0.799
+404,0.0557,0.801,260093,0.66,0.0,2,0.103,-6.527,1,Mousie,0.279,95.0,4,Northside Soldier Pt 2,bay_area,spotify:track:48SSsZN3ByufybiLkTXPZ7,0.569
+405,0.0197,0.863,214880,0.643,0.0,7,0.126,-9.134,1,Mousie,0.309,97.943,4,Gettin' Paid,bay_area,spotify:track:1HCibwQTbbOrPJl5HFAmMR,0.526
+406,0.0338,0.807,237120,0.445,0.0,1,0.334,-11.19,0,Mousie,0.288,189.975,4,No Regrets,bay_area,spotify:track:4navM5YIA4enJwNWkm3y5b,0.0662
+407,0.177,0.798,279293,0.604,0.0,2,0.141,-8.497,1,Mousie,0.357,97.114,4,Streetlife,bay_area,spotify:track:7u0gx6mZU39bSH0DzXKdb3,0.609
+408,0.0415,0.449,187904,0.791,0.0,8,0.0978,-6.181,0,Mousie,0.296,81.542,4,Moving Vicious,bay_area,spotify:track:4V4INoV8wPDXb868HtU2tT,0.695
+409,0.201,0.731,192704,0.746,0.0,10,0.0705,-6.051,1,Mousie,0.342,141.818,4,I Never,bay_area,spotify:track:1vtdIBISMNofd4Vhfn2MQa,0.731
+410,0.0485,0.833,225141,0.609,0.0,10,0.0487,-7.223,0,Laced,0.211,93.03,4,Pocos Pero Locos,bay_area,spotify:track:5OsPZKNA1AKdOvAQHLxeEu,0.519
+411,0.0343,0.654,264027,0.86,2.09e-06,4,0.356,-6.604,0,Laced,0.0879,160.023,4,Poppin Em,bay_area,spotify:track:1RtJEEZoPv1bbszvWWKs4i,0.676
+412,0.0458,0.561,262721,0.851,6.76e-06,7,0.12,-5.598,0,Laced,0.252,172.062,4,Mingle with Deamonz,bay_area,spotify:track:10xSVl3sL4INb2a7CQuAAL,0.547
+413,0.0953,0.794,183861,0.707,0.0,6,0.0579,-5.177,0,Laced,0.205,97.992,4,Really Mobbin,bay_area,spotify:track:4fckzmDhsbY4pd1Eqdcyz3,0.786
+414,0.0279,0.768,229304,0.7,0.0,8,0.134,-6.359,0,Laced,0.223,93.025,4,Pocos Peros Locos (feat. Conspiracy),bay_area,spotify:track:3JtotFyNOThCdSlbBC9vbS,0.526
+415,0.145,0.769,215107,0.774,0.0,9,0.392,-5.622,1,Laced,0.359,182.162,4,Everyday Thang,bay_area,spotify:track:2m7fcZ5CAZbDqfuI534vJQ,0.613
+416,0.0125,0.764,220748,0.627,1.58e-05,4,0.0906,-6.251,0,Laced,0.168,93.008,4,Reppin,bay_area,spotify:track:0WgmZvOpZl8zL2C7oAQ2n4,0.547
+417,0.0219,0.759,266733,0.676,0.0,11,0.248,-4.598,0,Laced,0.0708,161.93,4,Said Biatch,bay_area,spotify:track:0d0ik06D3QPS6yQKhpV5ZZ,0.352
+418,0.145,0.826,209960,0.823,0.0,6,0.148,-5.418,0,Laced,0.0902,92.006,4,Get that Doe,bay_area,spotify:track:2yArEGSKb7vB12F9cqgY0Y,0.552
+419,0.0572,0.559,179070,0.726,0.0,9,0.181,-8.155,0,Laced,0.219,172.016,4,Things Change (feat. Big Tone),bay_area,spotify:track:5V6solT2e2Z8qRQbCVBGUY,0.502
+420,0.346,0.799,351617,0.755,0.0,7,0.182,-6.003,0,Nsanity,0.199,85.066,4,Keep It Gangsta (feat. J-Diggs & Aaron King),bay_area,spotify:track:3evQECXdfYEqk0sgEc31jK,0.454
+421,0.281,0.624,331333,0.722,0.0,1,0.0826,-7.943,1,Nsanity,0.27,179.889,4,Legends Never Die (feat. The Jacka),bay_area,spotify:track:4msxIZCpw0iBI0G1Wsqp1e,0.362
+422,0.0536,0.797,271647,0.495,0.0,7,0.0684,-8.737,0,Nsanity,0.149,88.067,4,That Summer Weather,bay_area,spotify:track:0dMrFbar3WlYvURb53aUFr,0.85
+423,0.492,0.606,285667,0.914,0.0,7,0.173,-4.408,1,Nsanity,0.199,167.94,4,Push Comes to Shove,bay_area,spotify:track:1oVymdFtEZDeMAo2WqDJ9P,0.888
+424,0.381,0.746,334772,0.697,0.0,5,0.246,-5.44,0,Nsanity,0.0467,91.018,4,The Way I Live My Life,bay_area,spotify:track:4cpkU4th2S7l3uAx0YsgTf,0.69
+425,0.0404,0.745,283870,0.684,0.0,6,0.112,-7.427,0,Nsanity,0.255,124.016,5,I Don't Care,bay_area,spotify:track:6fIUvnHknaeeFvROgwAFZ3,0.255
+426,0.0746,0.752,327917,0.623,6.76e-05,9,0.137,-8.02,0,Nsanity,0.0775,143.9,4,San Jose,bay_area,spotify:track:5mxlVmjSrUEeNTFmJ7EqgY,0.433
+427,0.0895,0.71,200427,0.578,0.0,6,0.362,-6.984,0,Nsanity,0.158,114.932,4,Smoke Out (Vapin & Dabbin),bay_area,spotify:track:32jtHdAKH5yhbmuQxo0IY0,0.495
+428,0.16,0.827,303721,0.685,0.0,10,0.0828,-6.742,0,Nsanity,0.218,94.002,4,All Day & All Night (feat. 4rax & Gonzo),bay_area,spotify:track:419RpSgb9dmHtB24ZhQq1x,0.479
+429,0.228,0.773,264560,0.675,0.0,2,0.107,-7.875,1,Nsanity,0.233,99.993,4,Wordz to the Wize (feat. Big Tone),bay_area,spotify:track:2dHPn3BnBj321iATEVrmfN,0.377
+430,0.026,0.718,229053,0.631,0.0,0,0.111,-6.46,1,C-Locs,0.152,107.152,4,"The Ones Who Know (feat. Tito B, Brenton Wood) - Bonus Track",bay_area,spotify:track:3nvXKu3EkJ2pKVXYeOsxw2,0.811
+431,0.022,0.764,171893,0.459,0.0,7,0.0588,-5.76,1,C-Locs,0.0348,88.025,4,Smile Now Cry Later,bay_area,spotify:track:5mS6dgTFpDX7LClVwGrG2W,0.43
+432,0.00263,0.77,319987,0.468,0.0,8,0.106,-7.522,1,C-Locs,0.0849,80.964,4,Gangsta 2 Gangsta,bay_area,spotify:track:42DaShPolMcOPoSnIIWWTr,0.819
+433,0.0272,0.891,203133,0.832,0.0,11,0.0967,-5.04,0,C-Locs,0.158,131.958,4,Northern Gang,bay_area,spotify:track:2QXiFdU4mRejnNH77JQKsv,0.846
+434,0.00343,0.915,139293,0.407,0.11,7,0.11,-7.411,1,C-Locs,0.301,90.011,4,"Thats What We Came 4 (feat. Mike Dogg, C-Locs, Lil Wyno)",bay_area,spotify:track:55LaRzZkpHfTl2Rlc73G8j,0.388
+435,0.0331,0.721,271507,0.663,0.000149,4,0.169,-8.007,0,C-Locs,0.16,164.091,3,"If I Only Knew Then (feat. Big Tone, Docta Evil & Davina)",bay_area,spotify:track:1dOwHqfBv1umwdUNz70uGZ,0.768
+436,0.0011,0.688,256280,0.763,0.0,0,0.166,-5.229,0,C-Locs,0.0462,172.07,4,Gang Related (feat. Big Tone),bay_area,spotify:track:4OnFla3aXZfGj742eR2ebK,0.488
+437,0.0495,0.744,242323,0.701,0.0,1,0.0788,-5.792,1,C-Locs,0.177,159.948,4,Stay On Top,bay_area,spotify:track:7rhlotgiU5B8Qhu2qrwaei,0.402
+438,0.0642,0.849,192480,0.534,0.0,6,0.193,-7.646,0,C-Locs,0.208,76.001,4,Pistolcroz (feat. Young Capone),bay_area,spotify:track:48IUcY7sJpwz734S7qIlnA,0.664
+439,0.018,0.828,303160,0.657,0.0,8,0.0716,-6.614,1,C-Locs,0.182,78.008,4,"These Are the Talez (feat. Big Oso Loc, Keak Dogg)",bay_area,spotify:track:3bjCH2i5JptvAcgvD58H6T,0.812
+440,0.205,0.75,156578,0.538,2.58e-05,9,0.235,-8.264,1,Troublez,0.0499,137.982,4,Till The End,bay_area,spotify:track:11kVNzSS57EaqtLXY8Pwql,0.75
+441,0.221,0.522,274730,0.523,0.0,1,0.0967,-7.581,0,Troublez,0.239,131.15,4,Smoke to this,bay_area,spotify:track:4sDmBUjx7grjxLggm9sHgI,0.36
+442,0.0317,0.759,193556,0.813,0.0,11,0.113,-8.766,0,Troublez,0.254,93.043,4,Checks,bay_area,spotify:track:1lfggViGEvOQPD2ya01pIZ,0.269
+443,0.00427,0.841,155505,0.396,0.00165,1,0.106,-8.867,0,Troublez,0.0497,99.995,4,California's Finest,bay_area,spotify:track:33hmUZI9S3X2TwN9YkINmv,0.319
+444,0.205,0.523,242778,0.785,0.0,10,0.201,-8.742,0,Troublez,0.393,121.018,5,Blakka,bay_area,spotify:track:04mbXkUcCvhhC0euGW1tBO,0.328
+445,0.528,0.732,214862,0.757,0.0,6,0.15,-8.45,0,Troublez,0.298,90.014,4,Real Personal,bay_area,spotify:track:76rgDv6eYkpaH31z5uP5Fb,0.408
+446,0.0483,0.533,251296,0.609,0.0,6,0.173,-6.702,0,Troublez,0.264,85.027,4,Closer,bay_area,spotify:track:5ihg6cWwDWSWSRF5omCiIq,0.743
+447,0.0803,0.688,251900,0.56,0.0,1,0.102,-7.974,1,Troublez,0.515,170.173,4,Pray,bay_area,spotify:track:1vyew6ioE70I5vRLq4xXX5,0.265
+448,0.0537,0.68,185225,0.615,0.00312,7,0.236,-8.697,1,Troublez,0.154,88.01,4,Come Back,bay_area,spotify:track:1hV8rbBLyb9m1Td09Px0bL,0.163
+449,0.0877,0.838,246498,0.704,0.0,7,0.624,-7.452,1,Troublez,0.291,86.969,4,Get Money,bay_area,spotify:track:4fGhlObUAidDIRWzlLEZzu,0.578
+450,0.0051,0.816,222533,0.651,0.0,11,0.14,-5.585,0,Jimmy Roses,0.106,105.908,4,Who Rock The Party,bay_area,spotify:track:2U5iZerDaI6ZkkvcGYnIMa,0.288
+451,0.0855,0.721,234120,0.561,5.66e-06,11,0.185,-7.479,0,Jimmy Roses,0.232,100.035,4,Hunger Pains,bay_area,spotify:track:6Gfez0WaQJEcsMGvS0Vcw5,0.702
+452,0.464,0.67,230452,0.549,0.0,2,0.227,-8.973,1,Jimmy Roses,0.287,74.948,4,Nothin 2 Lose,bay_area,spotify:track:3eMGJUtsOEkHj9ZnG7ltmV,0.543
+453,0.0103,0.667,197093,0.601,5.58e-06,10,0.205,-9.195,1,Jimmy Roses,0.0525,95.003,4,If I Can Be With You Tonight,bay_area,spotify:track:3X5FywXR9jwxRuxr8FCDit,0.395
+454,0.0866,0.923,186867,0.688,0.0,4,0.143,-4.31,0,Jimmy Roses,0.044,114.521,4,Fallen To The Top,bay_area,spotify:track:4oERrc51kDh6cuQE25DGcW,0.359
+455,0.058,0.478,904573,0.858,0.0,6,0.319,-3.688,0,Jimmy Roses,0.218,139.779,3,Thizz Iz A Nation,bay_area,spotify:track:4ixsMRouQaq0E6LWd7QJwI,0.51
+456,0.131,0.789,171440,0.68,0.0,7,0.114,-5.964,1,Jimmy Roses,0.264,114.974,4,No Seat Belts,bay_area,spotify:track:3yiRd3M3svN6piLA7vFrP7,0.855
+457,0.473,0.713,223427,0.693,0.0,7,0.0817,-4.911,0,Jimmy Roses,0.227,91.012,4,Go Motion,bay_area,spotify:track:34ghRxzsdklZKnyBl0nvJv,0.788
+458,0.21,0.901,190600,0.58,0.0,11,0.295,-5.972,1,Jimmy Roses,0.397,96.985,4,Just Another Day,bay_area,spotify:track:4mRuNxItWyAM6MJtijSt2T,0.614
+459,0.0223,0.709,251517,0.752,0.0,8,0.149,-5.896,0,Jimmy Roses,0.0422,92.007,4,Locked N Loaded,bay_area,spotify:track:2XzrpzftMjjxjwWpIIzODq,0.335
+460,0.0992,0.844,253037,0.596,1.9e-05,2,0.0877,-8.504,0,Big Mister,0.164,94.717,4,Feel It Coming,bay_area,spotify:track:5lJDbxYMfcu5JmFIiUurck,0.289
+461,0.0333,0.661,274012,0.73,1.9e-05,2,0.22,-6.729,1,Big Mister,0.196,172.041,4,Northern Cali Ambitions,bay_area,spotify:track:6kxZntw2GbpRIy9rQklnnT,0.396
+462,0.153,0.719,248507,0.467,0.0,10,0.342,-10.354,0,Big Mister,0.147,177.99,3,Holding Back the Tears,bay_area,spotify:track:5RcrtZor8tMRLES9fE2GBl,0.906
+463,0.013,0.9,206068,0.616,0.0,1,0.123,-8.838,1,Big Mister,0.322,102.997,4,Same Oh G,bay_area,spotify:track:5XrG4JaQCacQxlOa9NcIA2,0.544
+464,0.187,0.769,274615,0.539,0.0,8,0.348,-9.604,1,Big Mister,0.286,181.981,4,Ain't Easy Being Me,bay_area,spotify:track:4IWViDWYtsVCYFrk1JicN7,0.858
+465,0.0115,0.802,265109,0.681,0.0,11,0.171,-8.834,0,Big Mister,0.253,92.006,4,Real Shit,bay_area,spotify:track:7LbQOvlQFDecTkiPuBRrDM,0.348
+466,0.402,0.734,262041,0.585,0.0,7,0.126,-10.503,1,Big Mister,0.238,97.96,4,Life Lessons,bay_area,spotify:track:27paKjNbA36dDC9enF1PB4,0.427
+467,0.00633,0.668,221650,0.79,0.0,4,0.197,-6.012,0,Big Mister,0.0449,102.979,4,I Remember,bay_area,spotify:track:13sM5ctjGFDQCP52ngh69D,0.584
+468,0.62,0.918,231733,0.398,0.0,11,0.193,-11.526,0,Big Mister,0.352,94.968,4,Ghetto Thang,bay_area,spotify:track:2Ilq7pImAteKvbleGIhqeM,0.682
+469,0.0884,0.914,256300,0.547,5.96e-06,4,0.337,-13.045,1,Big Mister,0.19,99.998,4,The Ghetto,bay_area,spotify:track:4JfpfTg6VmE3SvfFXnzECt,0.458
+470,0.0298,0.853,160013,0.933,0.0,7,0.307,-4.735,1,Ono Loco,0.193,117.795,4,Take a Chance,bay_area,spotify:track:4hJRhW2xEXrZQW13e64Ga2,0.691
+471,0.0183,0.757,244867,0.666,0.0,9,0.124,-5.533,0,Ono Loco,0.102,98.048,4,Forever Gona Hold It Down,bay_area,spotify:track:5eBY48yQpqzdwTlUtSKHjU,0.148
+472,7.37e-05,0.804,224160,0.68,0.0,9,0.341,-6.7,1,Ono Loco,0.11,94.024,4,Huelga Birdz N Old Schoolz,bay_area,spotify:track:1R3gmi37YNBiKFJilH4f2H,0.417
+473,0.0216,0.917,224026,0.877,0.0,8,0.0852,-4.712,0,Ono Loco,0.228,103.009,4,We The Plug,bay_area,spotify:track:464z3GUgoSZ6XPvpkUY1JL,0.698
+474,0.0161,0.733,240280,0.641,0.0,9,0.137,-6.474,0,Ono Loco,0.124,91.004,4,Only The Strong Survive,bay_area,spotify:track:5OgvbVNbYeEjJdgKWBDJS1,0.346
+475,0.0667,0.679,211213,0.809,0.0,9,0.101,-5.177,0,Ono Loco,0.268,100.024,4,Cali4nia North,bay_area,spotify:track:7Monx7yClFiz3o46pq8wAy,0.45
+476,0.00169,0.775,229160,0.805,0.0,2,0.183,-5.716,1,Ono Loco,0.248,88.012,4,"Darkest Placez (feat. Ono Loco, Young Loc, Weech & Lil Toro)",bay_area,spotify:track:6pQv6whf3kjdPU0VYMp4kt,0.334
+477,0.0589,0.808,225640,0.797,0.0,11,0.157,-4.629,0,Ono Loco,0.262,91.99,4,My Town,bay_area,spotify:track:6BHBj8Co4Cr1lDS4h1yz0I,0.354
+478,0.00294,0.609,241907,0.661,0.0,7,0.0931,-7.196,1,Ono Loco,0.28,191.876,4,The Life We Chose,bay_area,spotify:track:6b6jsefPbR3cDyV0oNDRz2,0.307
+479,0.0301,0.881,229970,0.868,0.0,4,0.117,-3.554,0,Ono Loco,0.305,92.049,4,Can't Be Like Us,bay_area,spotify:track:0MTo9agS0STCHWaoT6bmLf,0.461
+480,0.00221,0.845,223333,0.549,2.85e-05,5,0.198,-5.203,0,Keek Dogg,0.236,92.265,4,"Red Is What I'm Made of (feat. Kriminal, Keek Dogg, & Tito B.)",bay_area,spotify:track:5xFoosGeIuWambXNSmbDXh,0.334
+481,0.0814,0.775,206520,0.669,0.0,10,0.332,-5.137,1,Keek Dogg,0.0684,102.368,4,I'll Be Your Puppet (feat. Tweety),bay_area,spotify:track:5XPf32FXtEuLGYU2wwTk09,0.598
+482,0.248,0.733,283267,0.832,0.0,9,0.0887,-6.084,0,Keek Dogg,0.126,94.042,4,What You Know About Me (feat. Big Oso Loc & Keek Dogg) - Remix,bay_area,spotify:track:3TG1aLY3eFlQONFBQPpSMW,0.764
+483,0.0998,0.841,258667,0.709,0.0,6,0.326,-7.817,0,Keek Dogg,0.326,156.083,4,Show Time (feat. Plot & Fat Steve),bay_area,spotify:track:1OWSTvvN955LisCqaXjuVg,0.773
+484,0.37,0.568,281280,0.494,2.87e-06,4,0.142,-10.627,0,Keek Dogg,0.505,78.026,1,This Life (feat. Davina),bay_area,spotify:track:0iatpgYONgnt4qDzSVjqZW,0.689
+485,0.0208,0.202,198173,0.767,0.0,7,0.446,-7.387,1,Keek Dogg,0.191,167.743,4,Let's Get Away,bay_area,spotify:track:2h22cImn4xf6gh6voJT0Xp,0.519
+486,0.0413,0.753,271120,0.551,0.0,4,0.111,-6.169,0,Keek Dogg,0.176,78.194,4,If My Lonely Heart Could Speak,bay_area,spotify:track:4gEBBpuFkHQoHL7iKnhyUf,0.823
+487,0.724,0.741,216373,0.569,0.0,5,0.0829,-5.332,1,Keek Dogg,0.212,79.976,4,Don't Cry For Me (feat. Kuuleilani),bay_area,spotify:track:421ndDH27MZBf7JmHaol7K,0.359
+488,0.216,0.671,238147,0.649,0.0,7,0.352,-8.246,1,Keek Dogg,0.222,96.987,4,In the Rain (feat. Weech Lok),bay_area,spotify:track:3evoJHbxB04Iait0LAdPxH,0.695
+489,0.0484,0.769,265600,0.547,0.0,7,0.136,-5.787,1,Keek Dogg,0.423,183.765,4,"Flame Up (Feat. Big Oso Loc, Ed Dosia, Lil Corner, Konvict, ,Tone Capone, Ill Fons C Note, Lenyo & Keek Dogg)",bay_area,spotify:track:0DMDx1e0cO3QvjmNA3Ts0N,0.326
+490,0.436,0.856,246693,0.73,0.0,6,0.108,-6.323,0,Chente Corleone,0.3,89.49,4,Mob Shit,bay_area,spotify:track:1h40izLPGnNVayu4SwiQ9d,0.358
+491,0.277,0.463,275827,0.88,0.0,9,0.279,-3.414,0,Chente Corleone,0.155,188.05,4,Where I Went Wrong,bay_area,spotify:track:6xn4QjBOrcDjJEVOU0xFON,0.715
+492,0.0204,0.702,240040,0.676,0.0,2,0.107,-9.285,1,Chente Corleone,0.288,183.936,4,Dirty Deedz,bay_area,spotify:track:00p7KqBiZNoQM87l7moLPI,0.315
+493,0.0251,0.815,218653,0.539,0.0,4,0.142,-8.292,0,Chente Corleone,0.313,83.967,4,Still Hustlin (feat. Tito B & Whiskey Loc),bay_area,spotify:track:2rNTUHuFjwdDzH3Gxfb1Tl,0.324
+494,0.0908,0.904,229080,0.681,0.0,11,0.0984,-6.357,0,Chente Corleone,0.304,88.007,4,G File (feat. Big Oso Loc),bay_area,spotify:track:4O9afJqaxNY3nj42bMsdz6,0.658
+495,0.021,0.866,266667,0.599,0.0,1,0.0528,-8.567,1,Chente Corleone,0.133,144.026,4,"Bay 2 the Valley (feat. Lil Coner, Whiskey Loc, Pancho Lynie, Tito B & Lil Trueno)",bay_area,spotify:track:1klPWOHk5dxOuUC1jsrnjc,0.715
+496,0.0211,0.923,214100,0.449,0.0,6,0.189,-7.914,0,Chente Corleone,0.312,94.703,4,Homeboy,bay_area,spotify:track:4C5Td9xKJ49yOBBSStYjDT,0.388
+497,0.119,0.799,265150,0.698,0.000718,7,0.0929,-7.018,1,Chente Corleone,0.12,100.039,4,Area XIV,bay_area,spotify:track:5MSf4qLQcHnu0sPoSKfcJ1,0.343
+498,0.085,0.91,222793,0.645,0.0,8,0.0449,-6.714,1,Chente Corleone,0.161,95.974,4,Summer Time,bay_area,spotify:track:2qO5h02XtYDMKzDYnJqkFx,0.732
+499,0.646,0.842,249493,0.677,0.0,7,0.0948,-7.197,1,Chente Corleone,0.43,77.491,4,Sittin Sideways (feat. Whiskey Loc & Tha Affiliation),bay_area,spotify:track:6BnJBYkMV20q3ICTKVnKEH,0.799
+500,0.359,0.409,280842,0.678,4.76e-06,9,0.167,-7.731,1,Higher Brothers,0.0878,89.968,4,Midsummer Madness,chinese,spotify:track:6TodWdTSDfzwgYynTZSvJn,0.168
+501,0.0313,0.8,243332,0.545,5.07e-05,0,0.0929,-6.74,1,Higher Brothers,0.0765,99.981,4,Tequila Sunrise (feat. AUGUST 08 & GoldLink),chinese,spotify:track:121bJml1xjrfnZuk2yPsLG,0.458
+502,0.349,0.734,233033,0.699,0.0,11,0.261,-6.689,1,Higher Brothers,0.0614,109.979,4,Lover Boy 88,chinese,spotify:track:2vRDFgdJiILUdDOLL8hLH3,0.5
+503,0.00646,0.763,233846,0.545,5.16e-05,11,0.0456,-8.188,0,Higher Brothers,0.126,78.019,4,R&B All Night,chinese,spotify:track:6MrVXeEMf0MULWdclDk4sI,0.804
+504,0.00397,0.79,171733,0.779,0.000155,1,0.159,-2.642,1,Higher Brothers,0.0416,150.115,4,Made In China,chinese,spotify:track:1qowUCis8gYY9KOMuy8fCi,0.228
+505,0.0501,0.84,244800,0.536,0.000248,4,0.73,-7.652,0,Higher Brothers,0.158,75.013,4,Nomadic (feat. Joji),chinese,spotify:track:4fq9ldVbZ57iYFGrKpDLj0,0.56
+506,0.168,0.649,151532,0.684,1.18e-05,10,0.141,-7.601,0,Higher Brothers,0.0814,171.994,4,2 The Face,chinese,spotify:track:01ibNvCrbTdwOcqIcroORv,0.342
+507,0.0855,0.906,200652,0.726,0.0,1,0.127,-4.965,1,Higher Brothers,0.255,132.004,4,One Punch Man (feat. Ski Mask The Slump God & Denzel Curry),chinese,spotify:track:5XHcYoIcFY7GgV6OHUB00Q,0.354
+508,0.392,0.891,159184,0.746,0.00112,2,0.0946,-6.333,1,Higher Brothers,0.0927,97.996,4,Mr. Bentley,chinese,spotify:track:603FrR2LgWS3X4osiN12XO,0.493
+509,0.00547,0.807,224000,0.733,0.0,8,0.144,-6.889,1,Higher Brothers,0.222,110.13,4,"Talk Less and Feel More (feat. AUGUST 08, Barney Bones & Psy.P)",chinese,spotify:track:4Fok6DNEzaVdinO94EuU8n,0.36
+510,0.0198,0.677,182837,0.697,0.0,5,0.144,-5.63,0,Kris Wu,0.0321,134.0,4,Deserve (feat. Travis Scott),chinese,spotify:track:0UJUZy6F5M4RxVEZCJrS6t,0.61
+511,0.183,0.632,254508,0.629,0.0,2,0.344,-5.935,1,Kris Wu,0.258,179.882,4,18,chinese,spotify:track:3wrPaT9MQxCG1LQmNvNRed,0.207
+512,0.00783,0.739,193600,0.5,0.0,8,0.146,-7.046,1,Kris Wu,0.132,149.988,4,November Rain,chinese,spotify:track:58ZdT5NQIAkeSWUxNneBg8,0.285
+513,0.0447,0.769,194684,0.595,0.0,10,0.107,-5.926,1,Kris Wu,0.0416,95.014,4,咖啡 (LH x KW),chinese,spotify:track:5UefWQvIsjrpIMlycVwqoN,0.326
+514,0.0155,0.609,242000,0.817,3.94e-06,10,0.118,-7.231,0,Kris Wu,0.0465,134.009,4,Deserve (feat. Travis Scott) - Lido Remix,chinese,spotify:track:4RzmEeKCDqFZrYhsaNd5kJ,0.196
+515,0.0379,0.61,186981,0.58,1.15e-05,0,0.257,-9.947,1,Kris Wu,0.0582,159.962,4,July,chinese,spotify:track:2cu5wDkTV1gWfsXjUbmd89,0.469
+516,0.359,0.761,221496,0.613,0.0,0,0.714,-5.286,1,Kris Wu,0.0354,99.964,4,大碗寬麵,chinese,spotify:track:2ZW1uxX9M104rwFNcECfuS,0.547
+517,0.32,0.532,320619,0.811,0.0,11,0.0795,-3.467,0,Kris Wu,0.0627,153.917,4,貳參,chinese,spotify:track:6WGXlvkylStnVeDF430AO4,0.342
+518,0.142,0.749,264000,0.39,0.0,4,0.101,-7.8,0,Kris Wu,0.0388,100.027,4,Freedom (feat. Jhené Aiko),chinese,spotify:track:1WL6Q6zaMDVE8yyGYwu3zG,0.154
+519,0.266,0.625,216106,0.446,0.0,4,0.103,-10.837,0,Kris Wu,0.0443,128.063,4,天地,chinese,spotify:track:4KGR7sqpECiRueUFHdHSLZ,0.209
+520,0.00646,0.763,233846,0.545,5.16e-05,11,0.0456,-8.188,0,KnowKnow,0.126,78.019,4,R&B All Night,chinese,spotify:track:6MrVXeEMf0MULWdclDk4sI,0.804
+521,0.392,0.891,159184,0.746,0.00112,2,0.0946,-6.333,1,KnowKnow,0.0927,97.996,4,Mr. Bentley,chinese,spotify:track:603FrR2LgWS3X4osiN12XO,0.493
+522,0.305,0.793,178983,0.737,0.0,1,0.0945,-5.872,1,KnowKnow,0.237,88.492,4,Face Power (feat. Jackson Wang),chinese,spotify:track:1Q9TJqc5c3MJxU6UG57h9C,0.172
+523,0.859,0.461,210667,0.482,0.0,8,0.333,-7.766,0,KnowKnow,0.105,180.205,4,I Love You 3000 III,chinese,spotify:track:6ePZQOeHLZoNCeiM9VMnmx,0.351
+524,0.0879,0.808,168000,0.645,0.017,7,0.103,-5.211,1,KnowKnow,0.239,160.092,4,Love Song 4 Me,chinese,spotify:track:5QoZRygiNozzOGDb03SiOF,0.644
+525,0.0965,0.744,180923,0.522,0.0,1,0.119,-6.037,1,KnowKnow,0.28,129.982,4,Mafia Cashier,chinese,spotify:track:38ZbNnmyGbqHlYPiElQjom,0.375
+526,0.0255,0.811,229787,0.62,0.0,2,0.111,-6.068,0,KnowKnow,0.159,93.999,4,Ik Hou Van Jou (feat. Masiwei),chinese,spotify:track:5ac73HeKkvoYbRA2rFTLbn,0.323
+527,0.331,0.804,203591,0.596,0.0,6,0.182,-5.639,0,KnowKnow,0.144,107.225,5,Secret Door,chinese,spotify:track:4BatmDIhgf6IE9dfw4exg6,0.41
+528,0.0196,0.705,195692,0.727,0.0,2,0.0929,-4.345,1,KnowKnow,0.056,130.059,4,Bossy,chinese,spotify:track:67yR0ZFJ31JOMULWEtcQPc,0.333
+529,0.149,0.778,196441,0.803,0.0,8,0.0994,-4.232,1,KnowKnow,0.341,168.609,4,Role Playing Game,chinese,spotify:track:6An8mXh5HiaWc7qcn10bDs,0.454
+530,0.658,0.844,213231,0.505,1.64e-06,5,0.182,-7.949,0,Jony J,0.133,129.919,4,不用去猜,chinese,spotify:track:2G9RfvqkR9SMsUdWzuKuTP,0.637
+531,0.494,0.852,205298,0.576,1.27e-05,8,0.0971,-8.518,0,Jony J,0.0419,113.965,4,My Man,chinese,spotify:track:2wGR3wl2eSWtTggYuKNrMQ,0.265
+532,0.49,0.779,262958,0.541,0.0,10,0.0744,-7.22,0,Jony J,0.17,140.05,4,喜新戀舊,chinese,spotify:track:07ynC4PH0bQVHWqiWiNyMo,0.529
+533,0.06,0.95,187751,0.833,0.0,11,0.0485,-5.494,0,Jony J,0.218,135.011,4,套路,chinese,spotify:track:18DHpDAwU3fIKN80xqMUq0,0.737
+534,0.272,0.801,200359,0.665,0.0,10,0.0703,-6.279,1,Jony J,0.0706,95.016,4,想把你留在这里,chinese,spotify:track:7M8IGiUn2M7l5INSN4Bo9O,0.609
+535,0.107,0.819,260599,0.432,0.00013,1,0.116,-10.905,1,Jony J,0.146,116.058,4,防火線,chinese,spotify:track:48mDxdW2INY1B0QQcIooSR,0.252
+536,0.526,0.757,191001,0.808,0.0,9,0.103,-6.196,0,Jony J,0.24,90.004,4,奴隸,chinese,spotify:track:7gEAhzsajzqhghcIezjCPj,0.542
+537,0.0959,0.728,191308,0.722,0.0038,8,0.528,-7.978,0,Jony J,0.038,129.993,4,玩家,chinese,spotify:track:4JsAKjDe2dN0M0Wx1ITe1l,0.565
+538,0.346,0.608,265352,0.617,0.000275,2,0.142,-8.369,1,Jony J,0.113,86.037,4,信仰,chinese,spotify:track:3Md0c9rnqiyizVj0hWtXuW,0.186
+539,0.134,0.72,220347,0.661,0.0,8,0.214,-5.165,1,Jony J,0.235,84.915,4,連鎖反應,chinese,spotify:track:6QvYQ1tqrJrzomNjtr2pcV,0.557
+540,0.0752,0.586,244695,0.814,4e-05,6,0.169,-6.737,0,VaVa,0.204,179.904,4,我的新衣 (feat. Ty. & 王倩倩),chinese,spotify:track:2D2pqz9UjxOsLbucKFAHTV,0.645
+541,0.0233,0.66,162030,0.772,0.0,6,0.104,-4.293,0,VaVa,0.0813,163.101,4,New World,chinese,spotify:track:6VuVNvS6HjNRFLSX8yP3YX,0.555
+542,0.292,0.753,286957,0.45,0.0,9,0.0969,-11.55,0,VaVa,0.325,91.962,4,Life Is Beautiful,chinese,spotify:track:35iWn3rxX8TvP3HzP5MOOD,0.0984
+543,0.252,0.512,230565,0.664,0.0,8,0.276,-9.815,1,VaVa,0.0788,93.567,4,Life's a struggle,chinese,spotify:track:5k0rH5wWg40mlDHBkhhJPv,0.731
+544,0.0592,0.78,213570,0.727,0.0,1,0.151,-6.408,0,VaVa,0.0717,138.016,4,讓 (feat. Evis Wy),chinese,spotify:track:6sTQOA5tDjQdnNcFxTF07z,0.738
+545,0.0174,0.727,238759,0.705,1.18e-05,7,0.183,-8.539,1,VaVa,0.275,147.954,4,Rap Star,chinese,spotify:track:2kRpuX8yzk7GvIVA8RSWlC,0.167
+546,0.0626,0.702,196208,0.633,0.0,4,0.249,-8.35,0,VaVa,0.214,142.006,4,Ego (feat. Blow Fever & Lexie),chinese,spotify:track:0HQi4RiFMkW7V5DyFK3V8B,0.312
+547,0.164,0.782,187887,0.922,0.0,0,0.415,-5.429,1,VaVa,0.124,138.05,4,One,chinese,spotify:track:4skHapzHIFeElOvcLs2obu,0.809
+548,0.0147,0.564,183325,0.62,0.0,1,0.349,-7.058,1,VaVa,0.0869,160.026,4,別認慫,chinese,spotify:track:5hhEG6vbycMu6geoUqOrqY,0.311
+549,0.0355,0.782,228179,0.543,0.0,7,0.148,-7.861,1,VaVa,0.0595,105.011,4,夢中情人 (feat. 滿舒克),chinese,spotify:track:2Wod0L2okNpxB8CbYWwgtv,0.403
+550,0.137,0.889,208235,0.84,0.000487,10,0.128,-4.67,0,Masiwei,0.0528,144.533,4,Prince Charming,chinese,spotify:track:7Hp29LdH3DaCi9dr6nV2SY,0.922
+551,0.642,0.832,229064,0.662,0.0,1,0.107,-5.052,1,Masiwei,0.0736,96.029,4,Crush On You (feat. step.jad),chinese,spotify:track:7Et5YO6MFDDC5XEcwr0nmF,0.687
+552,0.244,0.803,187059,0.672,0.0,10,0.107,-4.175,1,Masiwei,0.0472,136.043,4,Amsterdam (feat. KnowKnow),chinese,spotify:track:0dcu0aHSFqG0AZqXBOoS3A,0.673
+553,0.326,0.724,244000,0.753,0.0,7,0.138,-2.471,0,Masiwei,0.171,135.027,4,The World Is Yours,chinese,spotify:track:582nnUpNytLdAheLz1Uj8v,0.643
+554,0.191,0.747,180229,0.679,0.0,10,0.0848,-6.731,0,Masiwei,0.226,160.001,4,功成名就,chinese,spotify:track:287FnSgzwZv4cy0sr9qaV8,0.674
+555,0.128,0.852,178939,0.863,0.0,10,0.0989,-3.833,1,Masiwei,0.212,80.477,4,Don't Be Afraid,chinese,spotify:track:0ghb4Nx0cYJOFMUscB6BMB,0.807
+556,0.0992,0.909,128010,0.551,0.0,1,0.143,-8.356,0,Masiwei,0.376,139.937,3,Bathtub,chinese,spotify:track:73WcsrR89vZ6szVTvX0hEJ,0.752
+557,0.791,0.839,136957,0.567,0.0,11,0.382,-6.398,0,Masiwei,0.454,92.011,4,Day Dream,chinese,spotify:track:3ajd82axj0RnFixgN0cq4C,0.463
+558,0.617,0.823,182026,0.889,1.51e-05,0,0.0886,-4.672,0,Masiwei,0.151,117.073,4,Private Party (feat. KnowKnow),chinese,spotify:track:0X5ZfUToy3JlWmdwmnP1x4,0.35
+559,0.125,0.847,205754,0.64,0.0,8,0.109,-4.191,1,Masiwei,0.169,140.078,4,Chengdu,chinese,spotify:track:3gOBsiaxhFUcIEslobaNE1,0.66
+560,0.842,0.542,215497,0.485,0.0,2,0.0824,-7.718,1,Ryan.B,0.146,176.074,4,No Reason,chinese,spotify:track:7uwJwSKpmzZH7p7imm4f1P,0.345
+561,0.654,0.704,178720,0.576,0.0,8,0.0865,-4.962,1,Ryan.B,0.0967,206.072,4,放個大招給你看 (OPPO Reno 宣傳曲),chinese,spotify:track:6LAHkI7op52Y4NoK2PGMlH,0.921
+562,0.723,0.791,212541,0.282,0.0,0,0.0859,-5.792,1,Ryan.B,0.037,95.996,4,Never Again,chinese,spotify:track:4a2PeAoz9XFnYwRiFwv2t5,0.387
+563,0.0738,0.663,194453,0.635,0.0,9,0.0806,-5.113,1,Ryan.B,0.0402,105.074,4,像极了,chinese,spotify:track:0UpHEi794wCm1QMSLV6J4M,0.662
+564,0.563,0.808,228373,0.725,0.0,8,0.262,-5.063,1,Ryan.B,0.0409,119.997,4,為你瘋狂,chinese,spotify:track:5XglcdnqITKQH7F3bc0UQ3,0.908
+565,0.345,0.865,188766,0.793,0.0,8,0.359,-5.466,0,Ryan.B,0.066,134.039,4,小鹿乱撞,chinese,spotify:track:4Mdw361yPWmE5VY39WaIpN,0.911
+566,0.102,0.797,187636,0.669,3.86e-06,1,0.224,-4.158,0,Ryan.B,0.0409,99.997,4,All for You,chinese,spotify:track:2940LsyAsGSLm4QI1WhAYw,0.504
+567,0.398,0.805,210333,0.575,0.0,5,0.284,-4.162,1,Ryan.B,0.0408,106.989,4,告白前一秒,chinese,spotify:track:6XLDKwvVsXEzFDMAOrlGOZ,0.649
+568,0.0844,0.828,209878,0.668,0.0,8,0.103,-5.203,1,Ryan.B,0.0569,113.024,4,是你,chinese,spotify:track:5KZnJsAhvQcdBx7FZwgIIX,0.757
+569,0.176,0.776,200487,0.68,0.0,4,0.215,-5.028,1,Ryan.B,0.0723,165.952,4,圍繞,chinese,spotify:track:0fQ2dM8D0iTHp8yXZEVnze,0.735
+570,0.191,0.747,180229,0.679,0.0,10,0.0848,-6.731,0,Ty.,0.226,160.001,4,功成名就,chinese,spotify:track:287FnSgzwZv4cy0sr9qaV8,0.674
+571,0.548,0.843,196154,0.368,0.0,9,0.111,-15.239,1,Ty.,0.229,104.017,4,20 (feat. 王心凌),chinese,spotify:track:75SZkjePzOFL6VTCxtdbey,0.391
+572,0.267,0.811,188392,0.856,0.0,11,0.106,-7.223,1,Ty.,0.202,135.01,4,名牌包,chinese,spotify:track:1z3KPocyJO3WEOgJTKmajH,0.524
+573,0.184,0.812,180780,0.816,0.0,8,0.0809,-4.999,0,Ty.,0.115,101.99,4,带刺的玫瑰,chinese,spotify:track:31b6VUNI3lmtlHzu12J3IR,0.82
+574,0.181,0.781,141952,0.725,0.0,0,0.203,-5.505,1,Ty.,0.137,134.999,4,大陸仔,chinese,spotify:track:2iZAeMtOUZmXMj3Ceec4uO,0.511
+575,0.0112,0.795,179540,0.546,0.0,1,0.243,-8.562,1,Ty.,0.0694,101.949,4,勾肩搭背,chinese,spotify:track:6jFQX9EUCx07CaE3K16Um2,0.388
+576,0.454,0.738,210623,0.795,0.0,0,0.11,-5.389,0,Ty.,0.0427,119.998,4,誰的錯,chinese,spotify:track:3DxKlEJ2BmhatiXL2t7ixI,0.518
+577,0.379,0.854,202450,0.569,3.29e-06,11,0.161,-5.978,0,Ty.,0.0907,135.018,4,高級愛情故事,chinese,spotify:track:5T3EP0SWtFoQJR8IdUfoSr,0.53
+578,0.108,0.527,128905,0.796,0.0,0,0.0991,-5.45,1,Ty.,0.0493,199.866,4,對不起,chinese,spotify:track:7D5HgtLAQTQD6WioaWTrpE,0.441
+579,0.372,0.803,161033,0.817,0.0,2,0.0383,-4.703,1,Ty.,0.089,100.091,4,爸爸媽媽,chinese,spotify:track:4E8mTN6nNwQWBkriIX2pUn,0.738
+580,0.494,0.882,179886,0.613,0.0,11,0.294,-8.077,0,Al Rocco,0.296,134.013,4,Bruce Lee,chinese,spotify:track:4ZBnVJsSJO2LVgKpK68dHv,0.719
+581,0.0644,0.736,186641,0.617,0.00427,2,0.105,-7.319,0,Al Rocco,0.062,95.991,4,City Lights,chinese,spotify:track:6CF41bI6ANJFy5jEOEHgGP,0.299
+582,0.0583,0.685,183142,0.747,0.00745,6,0.239,-4.637,0,Al Rocco,0.256,139.986,4,C.H.I.G.G.A,chinese,spotify:track:3YkuurFZH6UHd5vfB1AraE,0.367
+583,0.0995,0.944,163620,0.876,0.00212,11,0.0824,-5.416,0,Al Rocco,0.278,130.005,4,Cray,chinese,spotify:track:0GI9pERfgO8SVRvjKPxo4A,0.662
+584,0.00233,0.819,177500,0.719,0.35,2,0.239,-8.055,1,Al Rocco,0.0528,140.653,4,Red Money,chinese,spotify:track:1pRRCN48E0t1c1Y26REWvU,0.177
+585,0.231,0.639,151488,0.793,1.76e-06,2,0.0752,-5.269,1,Al Rocco,0.0392,100.036,4,Fade Away,chinese,spotify:track:75I79AG0tCrvJQIfAogkuv,0.168
+586,0.0057,0.804,237205,0.923,0.0,0,0.361,-1.834,1,Al Rocco,0.113,139.982,4,All on Me (feat. Blow Fever),chinese,spotify:track:5MBajEjYe9L6Ki8kGKGLIh,0.454
+587,0.0596,0.322,204000,0.561,0.164,7,0.348,-6.938,1,Al Rocco,0.0556,144.553,4,Ying,chinese,spotify:track:2oi7H0A811nKrwIBhYyELt,0.148
+588,0.0707,0.86,157325,0.754,2.56e-06,7,0.182,-4.245,1,Al Rocco,0.117,134.991,4,Red 8,chinese,spotify:track:3rAw2vSttj89ylyixGGCp4,0.329
+589,0.327,0.73,145454,0.913,0.257,8,0.254,-3.722,1,Al Rocco,0.0716,172.019,4,Prayer Hands,chinese,spotify:track:4MYAIzMwiBMoEu6mHLL235,0.393
+590,0.591,0.918,316920,0.371,0.0,9,0.11,-10.493,1,Soft Lipa,0.104,92.983,4,關於小熊,chinese,spotify:track:13tJ9Mkj7cjXxrTjOh0LAN,0.769
+591,0.255,0.582,210000,0.883,0.0214,10,0.109,-7.635,0,Soft Lipa,0.0656,175.925,4,史詩,chinese,spotify:track:6i2oWpLh1Bt8F5BVaiyHmr,0.558
+592,0.183,0.851,237320,0.6,0.000989,1,0.104,-9.592,1,Soft Lipa,0.0334,91.979,4,收斂水,chinese,spotify:track:10EbcvamEVm3t32nUj8lX1,0.933
+593,0.541,0.658,285293,0.774,2.96e-05,6,0.242,-6.157,1,Soft Lipa,0.0509,94.925,4,過程,chinese,spotify:track:3dBd4ZCkpr1NPOaTXSZY3W,0.654
+594,0.135,0.79,308947,0.515,1.21e-05,1,0.0993,-7.776,0,Soft Lipa,0.0383,94.997,4,噓,chinese,spotify:track:6GmRxBfE68sxJBRcMsKvtU,0.8
+595,0.483,0.633,243529,0.755,0.000851,5,0.111,-6.101,0,Soft Lipa,0.0303,112.953,4,I Want You,chinese,spotify:track:7Mlo3IR7Vz6GDrC9733KRz,0.952
+596,0.567,0.937,248213,0.448,0.0,7,0.0801,-10.311,1,Soft Lipa,0.0794,97.971,4,偷偷,chinese,spotify:track:2PkWIxSiFjTiCUZrtDWqoz,0.762
+597,0.687,0.623,286176,0.526,0.000203,9,0.0889,-8.557,0,Soft Lipa,0.218,85.547,4,我們都有問題,chinese,spotify:track:66JjWkiwS9qHNpbGvcADux,0.574
+598,0.751,0.799,329840,0.518,0.000799,7,0.0959,-9.048,0,Soft Lipa,0.0667,95.009,4,少年維持著煩惱,chinese,spotify:track:300O5aB8IWTCGL2xIfx2xq,0.475
+599,0.619,0.6,254181,0.712,3.41e-06,0,0.117,-6.671,1,Soft Lipa,0.0355,119.949,4,偏執面,chinese,spotify:track:6p65VtyQYPJLEY6uJmCaAz,0.162
+600,0.25,0.737,207165,0.669,0.0,7,0.0982,-8.664,1,王以太,0.202,89.917,4,人間天堂,chinese,spotify:track:6ORztQyk2WUczAg4aBpkcH,0.71
+601,0.411,0.802,202059,0.689,0.0,0,0.153,-6.135,1,王以太,0.155,135.971,4,阿司匹林,chinese,spotify:track:0pQVtvG3YTqZ1cAvCtvIW4,0.302
+602,0.292,0.753,286957,0.45,0.0,9,0.0969,-11.55,0,王以太,0.325,91.962,4,Life Is Beautiful,chinese,spotify:track:35iWn3rxX8TvP3HzP5MOOD,0.0984
+603,0.462,0.699,300410,0.812,0.0,9,0.271,-5.784,0,王以太,0.312,171.964,4,三思而後行,chinese,spotify:track:0Ia4T1JHLReV2RPn7Nms66,0.748
+604,0.435,0.791,149656,0.756,0.0,11,0.0836,-7.695,0,王以太,0.336,89.959,4,山羊,chinese,spotify:track:001JP75ykjRoO6wL3o4tff,0.838
+605,0.245,0.747,203836,0.493,2.04e-05,4,0.194,-7.713,0,王以太,0.0921,146.043,4,戒驕戒躁,chinese,spotify:track:6psxOhNTvNdIO9F3s1sYhI,0.385
+606,0.241,0.869,290556,0.591,0.0,7,0.0476,-8.699,0,王以太,0.113,108.023,4,掛羊頭賣狗肉,chinese,spotify:track:2KYC7ayEAlzEnn1NOEiw53,0.836
+607,0.0122,0.773,201131,0.66,1.33e-05,11,0.132,-5.243,0,王以太,0.145,146.036,4,豔陽天,chinese,spotify:track:0t4XhuEA22BkVeVvfOYpQz,0.306
+608,0.0309,0.866,233192,0.562,5.1e-06,0,0.115,-7.662,0,王以太,0.0726,132.0,4,LA In The Snow,chinese,spotify:track:5uQVVnW6I5lOIDn6VCVwvW,0.0797
+609,0.249,0.934,233895,0.624,0.0,0,0.871,-7.133,1,王以太,0.187,117.019,4,還沒想好,chinese,spotify:track:0dyZOaCh4Fg5VcOmoJREgc,0.851
+610,0.342,0.504,315147,0.737,0.0,3,0.124,-5.618,0,Hua Chen Yu,0.0387,80.061,4,寒鴉少年,chinese,spotify:track:3e7VIjtx7W8sIbr7nAnstN,0.266
+611,0.694,0.439,363194,0.422,0.000113,6,0.163,-8.097,1,Hua Chen Yu,0.0286,80.027,4,你要相信這不是最後一天,chinese,spotify:track:5t8xMhpVAtRf0QGlCWKadL,0.195
+612,0.925,0.533,309538,0.124,0.000156,2,0.0935,-12.731,1,Hua Chen Yu,0.0347,119.485,4,與火星的孩子對話,chinese,spotify:track:1jhZnvlQl3520fYzlUJ07y,0.176
+613,0.517,0.411,258834,0.541,0.0,0,0.131,-7.633,1,Hua Chen Yu,0.0477,159.872,4,好想愛這個世界啊,chinese,spotify:track:4dCJwNoQG5Fx42pqIz99Vn,0.352
+614,0.111,0.424,243347,0.413,5.71e-05,4,0.0704,-7.695,1,Hua Chen Yu,0.0333,174.177,3,Why Nobody Fights,chinese,spotify:track:24o4WvCGmcmYL9GZPszaoE,0.079
+615,0.116,0.674,184327,0.823,0.0,8,0.131,-5.571,1,Hua Chen Yu,0.0281,146.712,4,夏之旅,chinese,spotify:track:7pfGKP3O6ysJprvdk9yMdA,0.924
+616,0.261,0.561,397314,0.644,0.00241,11,0.0882,-9.058,1,Hua Chen Yu,0.0644,146.007,4,瘋人院,chinese,spotify:track:3V3Bcs5mmw0aH9KTae3bdq,0.509
+617,0.246,0.635,385491,0.812,0.000372,8,0.149,-8.227,1,Hua Chen Yu,0.0626,104.996,4,鬥牛,chinese,spotify:track:38KdrsbRIUOpqdVF61pxqz,0.16
+618,0.173,0.566,394833,0.486,0.00022,11,0.122,-9.173,0,Hua Chen Yu,0.0385,134.943,3,七重人格,chinese,spotify:track:2MWvmrEE4IatIsdNy1WOhU,0.13
+619,0.197,0.533,351278,0.65,0.0,8,0.123,-7.303,1,Hua Chen Yu,0.0355,120.02,4,新世界,chinese,spotify:track:7Gz4tgdM1TJVQbCQxMRTR1,0.208
+620,0.00547,0.807,224000,0.733,0.0,8,0.144,-6.889,1,Melo,0.222,110.13,4,"Talk Less and Feel More (feat. AUGUST 08, Barney Bones & Psy.P)",chinese,spotify:track:4Fok6DNEzaVdinO94EuU8n,0.36
+621,0.00394,0.86,132727,0.755,1.84e-05,8,0.092,-5.352,0,Melo,0.226,132.028,4,Daili (feat. KnowKnow),chinese,spotify:track:0wHgEn55c1vsODnkAaMkE0,0.397
+622,0.275,0.843,173333,0.787,0.0,1,0.0708,-4.273,1,Melo,0.309,90.005,4,Born Like This,chinese,spotify:track:3ld7dW9HrRXGnIQyUpuRT7,0.371
+623,0.16,0.825,159529,0.903,0.0,11,0.151,-3.64,1,Melo,0.242,84.974,4,Xiangbalao,chinese,spotify:track:4ZyfSHgi9rielJDqVAc7h6,0.588
+624,0.267,0.811,188392,0.856,0.0,11,0.106,-7.223,1,Melo,0.202,135.01,4,名牌包,chinese,spotify:track:1z3KPocyJO3WEOgJTKmajH,0.524
+625,0.0176,0.617,174815,0.844,0.0,11,0.155,-3.839,1,Melo,0.193,81.077,4,Welcome To My World (feat. Psy.P),chinese,spotify:track:16GAZMelM2lhfpuOXAMrTB,0.236
+626,0.0043,0.883,169600,0.73,5.21e-05,1,0.101,-3.654,1,Melo,0.201,149.947,4,Yes Sir (feat. Lil Shin),chinese,spotify:track:41A2bX8CCxWacIrfNFYnJV,0.338
+627,0.425,0.808,168293,0.755,0.0,2,0.107,-3.447,0,Melo,0.339,82.046,4,Old Fashion (feat. Masiwei),chinese,spotify:track:4me9DnUb8juGZNilTj23Zv,0.289
+628,0.183,0.711,175909,0.689,0.0,6,0.125,-5.293,1,Melo,0.462,176.163,4,That Kid (feat. Mengzi),chinese,spotify:track:7tiUjFJqc7RG7Ekl90iUxZ,0.455
+629,0.063,0.798,149348,0.651,0.0,0,0.139,-5.009,1,Melo,0.143,91.971,4,Offside,chinese,spotify:track:5tLb8wwqifDJItPqJjOgnx,0.139
+630,0.307,0.345,182139,0.722,0.0,1,0.07,-6.71,1,NINEONE#,0.0674,77.577,4,風的顏色,chinese,spotify:track:5AD5VKI6dLo21W9sUO9eqH,0.217
+631,0.257,0.85,182955,0.589,0.0,5,0.102,-6.504,1,NINEONE#,0.0488,96.991,4,22,chinese,spotify:track:6WGWVSqNUz6ObCfBvt1lml,0.208
+632,0.265,0.654,227927,0.699,0.0,1,0.117,-5.892,0,NINEONE#,0.139,82.052,4,太多,chinese,spotify:track:3RCZM4ugrFr2EDFJb6xZwc,0.635
+633,0.0281,0.644,186572,0.553,0.00127,4,0.158,-7.706,1,NINEONE#,0.0439,90.035,4,Dear X,chinese,spotify:track:7vGgABPgfiWHROU5VWe0q7,0.302
+634,0.593,0.473,227378,0.581,0.000147,8,0.12,-7.469,1,NINEONE#,0.0935,109.417,5,Sunset,chinese,spotify:track:6bJjmixG75LF9VUUq8D2jO,0.274
+635,0.101,0.819,153966,0.626,0.0,2,0.0937,-7.681,1,NINEONE#,0.117,94.026,4,Lil137,chinese,spotify:track:2zdfEt3SjwPBnGQD43DyEL,0.682
+636,0.738,0.705,156812,0.654,1.4e-05,0,0.211,-6.228,1,NINEONE#,0.0888,75.03,4,It Hurts,chinese,spotify:track:6X0T9yMFRak2kUwcuqexCu,0.618
+637,0.00571,0.659,185796,0.844,5.83e-06,5,0.24,-3.391,1,NINEONE#,0.103,186.032,4,Sugar free,chinese,spotify:track:3jyKIvnm0edjjcXlpomqVn,0.64
+638,0.171,0.842,162000,0.603,0.00461,7,0.184,-8.832,1,NINEONE#,0.0947,144.974,4,SENBEI,chinese,spotify:track:1wWu949eTuvCGIjXWAedUg,0.763
+639,0.133,0.785,69413,0.593,0.0,5,0.122,-5.666,1,NINEONE#,0.109,143.979,4,Intro,chinese,spotify:track:0BFUqGMdsZrBvytXmIwtON,0.604
+640,0.484,0.873,243750,0.277,0.0,6,0.328,-10.906,1,Ice Paper,0.141,128.017,4,心如止水,chinese,spotify:track:3DHVIDFibApOrJ0DUaHj6C,0.666
+641,0.0535,0.955,166154,0.413,0.0,2,0.0875,-10.77,1,Ice Paper,0.393,129.942,4,止痛藥片,chinese,spotify:track:1KgqCOFDVeK9ItSTUguavl,0.339
+642,0.0235,0.841,262247,0.727,0.0,4,0.112,-6.238,0,Ice Paper,0.136,89.008,4,明爭暗鬥 (feat. 福克斯 & BigYear大年),chinese,spotify:track:6wNmlIhThgfwXDc1ntKkG5,0.411
+643,0.156,0.856,222391,0.456,0.0,8,0.0937,-11.675,0,Ice Paper,0.151,91.981,4,失眠,chinese,spotify:track:1IxcM1mRkYpb0JQI49XQ6n,0.817
+644,0.179,0.779,294194,0.76,0.0,4,0.0775,-5.486,0,Ice Paper,0.14,93.016,4,棕旨(feat. 福克斯),chinese,spotify:track:6gUvTupJrISzXiEqjlnJEl,0.361
+645,0.631,0.808,246102,0.668,0.0,11,0.105,-6.798,0,Ice Paper,0.0355,117.998,4,白媚生(feat. 孤矢),chinese,spotify:track:6U3Le3Ha7N4NJQPpXxJI85,0.892
+646,0.575,0.882,185391,0.303,0.0,6,0.194,-8.856,1,Ice Paper,0.192,128.014,4,心如止水,chinese,spotify:track:2ErM6AMwNXk9FJGS1B1g8o,0.601
+647,0.0789,0.866,212870,0.914,0.0,9,0.0612,-4.572,0,Ice Paper,0.0567,114.997,4,鴉雀無聲,chinese,spotify:track:1aLs0cj0F8N1b6Rgmuifon,0.965
+648,0.524,0.803,222857,0.721,0.0,9,0.114,-8.271,1,Ice Paper,0.257,87.497,4,容身之地,chinese,spotify:track:5wgJeSTjOAFCfDIL2SbbOs,0.845
+649,0.479,0.824,223378,0.434,0.0,10,0.115,-10.996,0,Ice Paper,0.129,148.017,4,超能力,chinese,spotify:track:37ArPTSUmTRpMmIvoyxx5l,0.763
+650,0.397,0.498,233158,0.536,0.0,9,0.107,-8.711,1,AIR,0.0446,114.036,4,星球墜落(FALLING),chinese,spotify:track:0FS9dl1Nr59CoXrN0n8TWX,0.386
+651,0.222,0.867,282712,0.648,0.0,10,0.243,-6.322,1,AIR,0.0795,118.012,4,你能看到我,chinese,spotify:track:2GcD88Ddo93lBAewk8VH7Z,0.663
+652,0.141,0.426,260364,0.612,0.126,6,0.383,-6.866,0,AIR,0.086,90.046,4,用音乐安慰你,chinese,spotify:track:3cLfeYSlDuoz5Ha5BThbg2,0.51
+653,0.486,0.777,245143,0.803,0.0,7,0.117,-8.445,1,AIR,0.0566,140.05,4,烏雲中,chinese,spotify:track:4dk97CLN5RZEHYlZPDMKVY,0.734
+654,0.223,0.748,135000,0.784,0.0,1,0.354,-6.942,1,AIR,0.129,92.019,4,都是小事兒,chinese,spotify:track:18aSLNqHyDTDXL0bPLaPmv,0.753
+655,0.781,0.685,140164,0.53,0.0,0,0.137,-10.541,1,AIR,0.0727,121.907,4,家走,chinese,spotify:track:1Yk7QlhJ9obJCtu7islr3w,0.235
+656,0.575,0.631,240690,0.669,2.69e-06,1,0.0759,-6.961,1,AIR,0.119,173.951,4,巨人,chinese,spotify:track:62bP1u2oFP08BOjVTDtx9n,0.671
+657,0.231,0.492,148667,0.768,0.0,10,0.376,-7.12,0,AIR,0.0873,179.897,4,往昔,chinese,spotify:track:7xktQUusaU3FFBfby9gtt5,0.257
+658,0.021,0.596,218000,0.604,1.57e-05,8,0.121,-7.346,0,AIR,0.133,180.0,4,小人物,chinese,spotify:track:5MLtbeBVkaES4RjTMk1TvB,0.516
+659,0.358,0.457,408832,0.636,1.23e-05,8,0.216,-7.437,1,AIR,0.182,88.324,4,故事,chinese,spotify:track:3HgWj0PK7a9p0o3ziSmUch,0.255
+660,0.179,0.85,241386,0.478,0.0,1,0.0787,-7.428,0,GAI,0.275,92.04,4,虎山行,chinese,spotify:track:4n5XIGoka0lxeuPIb4cLDp,0.413
+661,0.241,0.729,167392,0.726,0.0,2,0.19,-3.457,1,GAI,0.18,102.067,4,天乾物燥,chinese,spotify:track:0JJtUpjHBDpAAdTjOkDxD5,0.221
+662,0.0689,0.894,184992,0.694,0.0,10,0.885,-5.395,0,GAI,0.16,135.049,4,火鍋底料,chinese,spotify:track:0K2jrMVJlImtusU9RB8ZVQ,0.95
+663,0.519,0.667,297303,0.746,0.000149,10,0.1,-6.854,0,GAI,0.061,112.023,4,長河,chinese,spotify:track:38f8hn9bpsksYkOdw2huTx,0.599
+664,0.272,0.835,210216,0.795,0.0,11,0.111,-3.356,1,GAI,0.22,129.96,4,不勞不獲,chinese,spotify:track:74OBt2g1aS2rcZz1FdGRQV,0.449
+665,0.441,0.763,149184,0.95,0.0,11,0.518,-2.397,0,GAI,0.201,112.045,4,空城計(演唱會現場版),chinese,spotify:track:0JzqwPNIj8DqkVxaV14WoB,0.538
+666,0.371,0.733,166955,0.931,0.0,1,0.571,-3.8,1,GAI,0.346,119.927,4,重慶魂(演唱會現場版),chinese,spotify:track:7JD2EE0WzGlyVM20OD7Sex,0.602
+667,0.155,0.682,225805,0.702,0.0,9,0.266,-6.85,1,GAI,0.134,146.005,4,垃圾話,chinese,spotify:track:0U0oED5csEpqwX6YZpGYfd,0.909
+668,0.148,0.674,228258,0.729,0.00169,2,0.0927,-8.334,1,GAI,0.261,124.041,4,萬里長城,chinese,spotify:track:6UJcwAjkSUTUSXJLJP9JJC,0.258
+669,0.133,0.824,171429,0.776,1.54e-05,2,0.0584,-6.888,1,GAI,0.111,140.028,4,永不獨行,chinese,spotify:track:6yTcc13v7rR5QZe0EV5YTX,0.697
+670,0.56,0.779,239256,0.839,0.0,1,0.506,-7.974,0,寶石Gem,0.408,97.992,4,野狼Disco,chinese,spotify:track:2Zc5d8BN5DEwTcv9JpZqz9,0.693
+671,0.0766,0.572,196098,0.856,0.0,1,0.102,-7.72,1,寶石Gem,0.137,163.997,4,出征 (大風歌),chinese,spotify:track:2lRPZyqgc4uyfCZU7EKU1a,0.606
+672,0.222,0.551,205333,0.979,0.0,2,0.0818,-3.186,1,寶石Gem,0.187,89.956,4,升,chinese,spotify:track:5ZtqgSpga3ScRs4Y97rBSW,0.28
+673,0.259,0.756,281561,0.828,0.0,5,0.693,-5.528,0,寶石Gem,0.126,105.98,4,老鐵情歌,chinese,spotify:track:4w01lob7TI0ym2laUtK8nf,0.713
+674,0.105,0.561,187317,0.858,0.0,9,0.264,-4.259,1,寶石Gem,0.115,81.994,4,與愛同行 (捷·愛),chinese,spotify:track:1UaRU6PrUpCpL3lDpc2vxp,0.428
+675,0.222,0.867,282712,0.648,0.0,10,0.243,-6.322,1,黃旭,0.0795,118.012,4,你能看到我,chinese,spotify:track:2GcD88Ddo93lBAewk8VH7Z,0.663
+676,0.618,0.64,231857,0.584,0.0,6,0.0761,-8.653,0,黃旭,0.0392,139.866,4,說散就散(電影《前任3:再見前任》主題曲),chinese,spotify:track:62prkrY5iHADajNoZrFv3A,0.706
+677,0.455,0.695,176647,0.888,0.0,3,0.182,-3.276,1,黃旭,0.268,169.932,4,給媽媽的歌,chinese,spotify:track:4jqfHzhnh9EKLt0hY0dmLI,0.779
+678,0.0143,0.629,137036,0.749,2.32e-06,11,0.104,-8.986,0,黃旭,0.369,139.752,4,強你好幾倍,chinese,spotify:track:2Yudleb3gVyzlQC1fcgzSs,0.0501
+679,0.201,0.577,232941,0.92,0.0,10,0.44,-3.351,0,黃旭,0.291,170.051,4,低位,chinese,spotify:track:144CiLFyrkBRQvvj5mTKmX,0.676
+680,0.404,0.636,206842,0.923,0.0,8,0.123,-7.113,1,黃旭,0.166,94.859,4,天堂來信,chinese,spotify:track:0daNlsOKXzWvuL2MbB7XaV,0.255
+681,0.146,0.752,246818,0.631,0.0,11,0.0753,-13.06,1,黃旭,0.29,176.003,4,拿回來 - Remix,chinese,spotify:track:6UTcX8er6X5rZpdCyb5cY6,0.609
+682,0.0994,0.84,233649,0.814,0.0,11,0.59,-6.271,0,黃旭,0.31,139.994,4,I Got The Key,chinese,spotify:track:4Nylaw7aXU4Ad6uMRBvWP8,0.475
+683,0.417,0.657,284873,0.491,0.0,1,0.114,-6.437,0,黃旭,0.134,109.855,4,酒声,chinese,spotify:track:5piyZqkb7mWFo8RUaUln0U,0.101
+684,0.24,0.754,270668,0.563,0.0,1,0.117,-7.234,1,黃旭,0.0579,125.991,4,Know My Style (feat. 艾福傑尼 & 黃旭) - Gizzle Remix,chinese,spotify:track:14Md16XMZ4KVrwJ4quAiqf,0.161
+685,0.278,0.721,228000,0.434,1.38e-05,8,0.125,-12.664,1,Bohan Phoenix,0.0414,115.98,4,ORIENTATION,chinese,spotify:track:3WheoDJiJ5sIwE6mfKA5rV,0.814
+686,0.363,0.596,179282,0.611,5.47e-06,3,0.274,-9.521,1,Bohan Phoenix,0.181,79.858,4,Mazda Music,chinese,spotify:track:7bSNBwZ4sR3PDHDx1QmvXh,0.711
+687,0.161,0.479,214000,0.74,0.0,6,0.213,-3.393,0,Bohan Phoenix,0.314,177.023,4,NO HOOK,chinese,spotify:track:7arnKIhqd1UFPLKpTnqWSS,0.459
+688,0.0145,0.71,209247,0.705,2.01e-06,6,0.0979,-6.554,1,Bohan Phoenix,0.0586,132.064,4,FALLING 地球人,chinese,spotify:track:3bcOL0fWU6srIOnv3bkIr4,0.547
+689,0.405,0.628,311000,0.635,0.0,4,0.0902,-7.001,1,Bohan Phoenix,0.251,139.448,4,3 DAYS IN CHENGDU,chinese,spotify:track:3utuUQukdeD9GodJTq1uA7,0.377
+690,0.161,0.727,189465,0.704,2.31e-06,7,0.0987,-6.295,0,Bohan Phoenix,0.221,133.913,4,OVERSEAS 海外,chinese,spotify:track:5WEdhokZKavl1ed1ocL7fm,0.343
+691,0.285,0.617,152471,0.799,0.000711,6,0.799,-6.052,0,Bohan Phoenix,0.326,85.043,4,The Prince,chinese,spotify:track:6HFb5muUxsN3FpaBFbSlwT,0.537
+692,0.248,0.816,156610,0.714,0.0,7,0.103,-7.917,1,Bohan Phoenix,0.095,118.006,4,EGO,chinese,spotify:track:5rAijkn0ZaApcgwXrvwNxG,0.61
+693,0.299,0.771,130000,0.845,0.0,1,0.364,-4.566,1,Bohan Phoenix,0.352,128.104,4,JALA,chinese,spotify:track:4DiMN347VaCwX01ZKdXCXD,0.73
+694,0.00197,0.75,210339,0.522,0.0015,1,0.098,-11.85,1,Bohan Phoenix,0.15,140.039,4,#BBSSYYGG,chinese,spotify:track:1nLt3pATGVISJmE2nqIU09,0.498
+695,0.698,0.465,300225,0.338,0.0,7,0.0739,-11.138,1,DJ Didilong,0.0337,147.714,4,現在開始做朋友 (第二屆《愛之日常音樂節》主題曲),chinese,spotify:track:3ecMfhSwxQdVsCxWvpOo8i,0.305
+696,0.687,0.497,298413,0.501,0.278,7,0.0852,-9.614,1,DJ Didilong,0.0313,73.997,4,峇里島 (電影《誰先愛上他的》探尋情愛之歌),chinese,spotify:track:1NJm4hwQG2MVF5jgagPIgO,0.137
+697,0.0221,0.745,295652,0.872,0.000613,9,0.106,-6.654,0,DJ Didilong,0.0429,110.011,4,什麼時候她 feat. 蛋堡Soft Lipa,chinese,spotify:track:21rtnUfUA531PsCZHo9AUl,0.626
+698,0.0851,0.833,211174,0.615,0.0,5,0.145,-7.644,0,DJ Didilong,0.0555,101.995,4,水哥 ft. 蛋堡,chinese,spotify:track:3ho7TfQryjbWUH3t8e6ooy,0.953
+699,0.178,0.813,260100,0.742,1.44e-06,9,0.0783,-6.617,0,DJ Didilong,0.0601,99.994,4,台北直直撞,chinese,spotify:track:41sJNiLh96NJPH6OGfytyX,0.84
+700,0.0751,0.655,280600,0.42,0.858,11,0.202,-11.217,0,DJ Didilong,0.0503,172.016,4,為什麼,chinese,spotify:track:5xE8NASjfOwKW9Ol7oouBg,0.468
+701,0.383,0.708,221196,0.665,2.91e-05,0,0.102,-7.384,1,DJ Didilong,0.0401,99.001,4,我想和你瞎 ft. 馬念先,chinese,spotify:track:0voNLLkV5iRdGXNvzQDLmq,0.7
+702,0.177,0.723,299653,0.601,2.17e-05,1,0.132,-6.843,0,DJ Didilong,0.0272,119.965,4,愛上你 (緊扣《誰先愛上他的》電影歌曲),chinese,spotify:track:0pFuGifCRyp03hu0bcN3DQ,0.701
+703,0.0357,0.821,230256,0.75,0.0,6,0.174,-7.503,0,DJ Didilong,0.165,96.018,4,以黑擊黑 ft. Leo王,chinese,spotify:track:3q4AhdHJqnrMIx41jTZKmC,0.591
+704,0.178,0.743,310811,0.493,3.28e-05,2,0.102,-8.794,1,DJ Didilong,0.106,84.989,4,大不了就分手,chinese,spotify:track:4SAMIPAfSSiUpwnzBkyEtf,0.593
+705,0.272,0.801,200359,0.665,0.0,10,0.0703,-6.279,1,Tizzy T,0.0706,95.016,4,想把你留在这里,chinese,spotify:track:7M8IGiUn2M7l5INSN4Bo9O,0.609
+706,0.3,0.797,212000,0.884,0.0,7,0.238,-3.722,1,Tizzy T,0.301,90.013,4,贫民百万男孩,chinese,spotify:track:6W2fbfpXKWkEFF8QengT3G,0.751
+707,0.399,0.742,206871,0.721,0.0,0,0.0753,-8.04,1,Tizzy T,0.201,93.996,4,Going Go,chinese,spotify:track:6YWGHl6YPVTqkqDrjd9r9n,0.243
+708,0.368,0.707,201374,0.642,0.0,6,0.219,-6.259,1,Tizzy T,0.248,176.06,4,Relax,chinese,spotify:track:35JubBTGBJYtQhdITu6a7e,0.511
+709,0.316,0.56,233536,0.413,0.0297,11,0.143,-10.722,1,Tizzy T,0.0264,110.026,4,天顶一粒星,chinese,spotify:track:3NPFXI3iKFrt0DY9j8pdob,0.0687
+710,0.0534,0.782,243230,0.707,0.0,5,0.377,-7.441,1,Tizzy T,0.189,130.081,4,大一岁,chinese,spotify:track:20v6EnuaCkNc2ogewS3mdu,0.647
+711,0.286,0.769,186624,0.495,2.51e-05,4,0.0456,-8.276,0,Tizzy T,0.0656,98.032,4,Wanna Be with You,chinese,spotify:track:4ohTtDsLkauQA2B4t3i1We,0.215
+712,0.497,0.666,198357,0.566,6.74e-05,1,0.153,-7.458,0,Tizzy T,0.137,159.939,4,噩梦,chinese,spotify:track:1FUOl7aQuUvxfzzWUMg6ZV,0.667
+713,0.106,0.65,179668,0.611,0.0,8,0.22,-7.306,1,Tizzy T,0.397,200.054,4,中国姑娘,chinese,spotify:track:0RlUgG4h9x12YqWXj1GtSV,0.389
+714,0.533,0.636,210935,0.693,1.78e-05,0,0.547,-9.147,1,Tizzy T,0.327,169.99,4,几乎成名,chinese,spotify:track:2nNm1OogViX52QRhOFoP9X,0.568
+715,0.045,0.815,212158,0.526,0.0,4,0.0778,-7.873,0,Vinida,0.204,97.02,4,场上称霸,chinese,spotify:track:67Rp52YJgwEDO2zYfbxzGk,0.395
+716,0.34,0.663,196264,0.739,9.95e-06,11,0.372,-6.989,0,Vinida,0.0703,123.007,4,Stuck In The Club,chinese,spotify:track:331n5M01yOqhdgW06QN0E0,0.226
+717,0.148,0.854,255144,0.548,0.0,11,0.0795,-7.843,0,Vinida,0.176,116.05,4,Queendom,chinese,spotify:track:0stVuFiihkkSNsa0DAKr9Z,0.226
+718,0.093,0.857,191288,0.495,0.0,11,0.095,-8.829,1,Vinida,0.103,129.993,4,Solo,chinese,spotify:track:6kNjQ1UBQXKByhmI7r78O5,0.508
+719,0.653,0.743,220033,0.518,0.0,3,0.173,-8.27,1,Vinida,0.0692,102.033,4,心愿清单,chinese,spotify:track:0ap2RGwsQuVA0WiXXeyAd9,0.371
+720,0.407,0.72,196048,0.386,1.38e-05,4,0.09,-8.132,0,Vinida,0.133,89.973,4,4U,chinese,spotify:track:1HDTwLg8tIgbGjCExJXR9c,0.225
+721,0.286,0.769,186624,0.495,2.51e-05,4,0.0456,-8.276,0,Vinida,0.0656,98.032,4,Wanna Be with You,chinese,spotify:track:4ohTtDsLkauQA2B4t3i1We,0.215
+722,0.405,0.799,228440,0.65,0.0,6,0.0798,-8.144,0,Vinida,0.0639,139.235,4,Angel Said,chinese,spotify:track:4D053wMXtH2mTa6Z7nPqgp,0.419
+723,0.0362,0.864,184044,0.759,0.0,7,0.0784,-5.978,1,Vinida,0.239,161.978,4,带你,chinese,spotify:track:0QGNwU22PAaAV7ydEG2s1b,0.707
+724,0.0386,0.751,154667,0.657,0.000977,7,0.311,-6.9,1,Vinida,0.115,90.014,4,Shake,chinese,spotify:track:5uNJnJ08qqJBnG7wzr4jWP,0.366
+725,0.00331,0.736,315053,0.679,0.0274,1,0.0871,-5.9,1,DJ Noodles,0.0388,127.983,4,Time of Our Lives - DJ Noodles Remix,chinese,spotify:track:3cnebH2H5PMcdBNFok0VcK,0.558
+726,0.000595,0.652,251952,0.8,0.129,9,0.091,-4.926,1,DJ Noodles,0.04,146.105,4,Options (feat. Stephen Marley) - DJ Noodles Remix,chinese,spotify:track:44xuXwm9w9qvZEE7sumnvu,0.397
+727,0.00946,0.808,295027,0.782,0.822,2,0.0485,-3.738,1,DJ Noodles,0.0515,127.992,4,Coke Diet,chinese,spotify:track:3BtHYHjiTASYvRTtdQ1dsx,0.698
+728,0.00322,0.678,209149,0.906,0.247,2,0.0494,-4.429,1,DJ Noodles,0.0397,139.988,4,愛妳無目地 - DJ Noodles Remix,chinese,spotify:track:5g3p2nmSLS17vi7KhggiwD,0.769
+729,0.0168,0.639,193001,0.946,0.55,2,0.171,-5.412,1,DJ Noodles,0.128,139.995,4,Threnody - DJ Noodles Remix,chinese,spotify:track:6MxfXDHHewixdFkBoK3xY1,0.197
+730,0.0222,0.689,251000,0.918,0.0103,11,0.0985,-4.946,0,DJ Noodles,0.0406,127.968,4,Mr. Put It Down (feat. Pitbull) - Noodles Remix,chinese,spotify:track:2mOaFxiDsXiQYWMvHGnjLm,0.817
+731,0.00476,0.669,244000,0.913,0.661,11,0.103,-5.309,0,DJ Noodles,0.04,127.965,4,Mr. Put It Down (feat. Pitbull) - (Noodles Remix)[Dub Mix],chinese,spotify:track:57vYUZKgaNEwMtGEgLDAsK,0.776
+732,0.0137,0.509,328000,0.763,0.0,11,0.424,-3.652,0,DJ Noodles,0.402,81.586,4,"Can't U Tell (feat. Red Cafe, Hot Rod, Trazz, Murphy Lee, Jay Rock)",chinese,spotify:track:6seEvf94M7dGudS3529zJL,0.664
+733,0.0317,0.757,222648,0.766,0.0,7,0.336,-8.444,1,DJ Noodles,0.222,104.06,4,"Hands High (feat. Jermaine Dupri, Ace Hood, Brisco, 2 Pistols & Tom G)",chinese,spotify:track:4ehw4XEeDpzosz4JForJmk,0.664
+734,0.00303,0.694,234933,0.811,0.0,9,0.092,-3.98,1,DJ Noodles,0.289,122.299,5,"Can't U Tell Remix (feat. Pitbull, Red Cafe, Trazz & Jay Rock)",chinese,spotify:track:4PaZQlmUSNzs8EsjtBJps3,0.611
+735,0.179,0.85,241386,0.478,0.0,1,0.0787,-7.428,0,艾福杰尼,0.275,92.04,4,虎山行,chinese,spotify:track:4n5XIGoka0lxeuPIb4cLDp,0.413
+736,0.287,0.836,305235,0.511,0.0,6,0.204,-8.733,0,艾福杰尼,0.076,127.0,4,SORRY,chinese,spotify:track:3259KMEOluAyNW3PHIhBcU,0.133
+737,0.618,0.64,231857,0.584,0.0,6,0.0761,-8.653,0,艾福杰尼,0.0392,139.866,4,說散就散(電影《前任3:再見前任》主題曲),chinese,spotify:track:62prkrY5iHADajNoZrFv3A,0.706
+738,0.377,0.73,217981,0.809,0.0,4,0.0821,-5.55,0,艾福杰尼,0.169,108.957,4,通過驗證,chinese,spotify:track:0WJpalwbEFRO28V3JeC9RO,0.516
+739,0.132,0.785,223139,0.814,4.51e-06,8,0.316,-6.509,1,艾福杰尼,0.0635,124.047,4,Yellow Skin Flow,chinese,spotify:track:3wwzGUD4sdFh56rw4H8I2t,0.663
+740,0.386,0.715,245999,0.39,5.69e-05,1,0.108,-11.602,0,艾福杰尼,0.0423,119.99,4,Ti Amo,chinese,spotify:track:2ICO1B0f8rFnBMXznUjI0V,0.327
+741,0.757,0.872,183547,0.59,0.0,7,0.125,-10.517,1,艾福杰尼,0.0701,127.988,4,PURE,chinese,spotify:track:5grVIQNs3g8IBjfRhOP0Wb,0.758
+742,0.0884,0.707,213673,0.61,1.17e-06,11,0.142,-9.818,0,艾福杰尼,0.0451,146.017,4,西域公主,chinese,spotify:track:2eWgeJMkMBuixU8X8TuEl5,0.61
+743,0.665,0.569,177777,0.641,0.0,1,0.083,-8.513,1,艾福杰尼,0.396,134.279,4,Thanks For Waiting,chinese,spotify:track:6HiACXBXQCU3nC5jxWeoJC,0.625
+744,0.14,0.842,208320,0.608,1.59e-06,1,0.0934,-6.981,1,艾福杰尼,0.0471,120.001,4,哎呦喂,chinese,spotify:track:2XFUXL2p2W8MvjgqoCNn8d,0.232
+745,0.302,0.835,197000,0.501,0.0,0,0.174,-9.437,0,Leo王,0.336,86.062,4,陪妳過假日,chinese,spotify:track:4w99eXGKJ64oxJSNF9tPNs,0.5
+746,0.0729,0.654,157770,0.813,0.0,11,0.126,-6.222,1,Leo王,0.318,74.971,4,快樂的甘蔗人,chinese,spotify:track:0TgWgW2UYFctTDdN4GC6B7,0.745
+747,0.112,0.893,160000,0.607,0.0,5,0.0808,-5.239,0,Leo王,0.319,86.972,4,長大十八歲,chinese,spotify:track:3NYy88OXh6mv6hpiYCk3XU,0.817
+748,0.361,0.75,211304,0.599,0.00219,4,0.109,-8.894,0,Leo王,0.273,92.026,4,無病呻吟,chinese,spotify:track:78ZhoeLttWbXAk4GMokp8W,0.752
+749,0.288,0.486,243000,0.614,0.0,1,0.114,-7.829,1,Leo王,0.256,87.529,4,藝術家脾氣,chinese,spotify:track:4Y5FIk5YaLmkCI3TjtBVC1,0.735
+750,0.624,0.579,248747,0.571,0.000115,7,0.139,-10.419,0,Leo王,0.0706,85.001,4,雞腿便當,chinese,spotify:track:5KzMazHaevRJI3swenZ8p5,0.48
+751,0.102,0.58,202448,0.841,0.0,4,0.393,-4.512,0,Leo王,0.125,145.89,4,拖油瓶,chinese,spotify:track:0fIeWXPUU7Z61sS9L6TduW,0.849
+752,0.499,0.68,106000,0.809,0.0,6,0.158,-6.652,1,Leo王,0.311,99.647,4,飯太冷先生,chinese,spotify:track:2SAb3eTjVz0f5jzkyTuQTh,0.674
+753,0.578,0.715,185513,0.872,0.000319,11,0.106,-5.554,0,Leo王,0.311,93.151,4,五千塊,chinese,spotify:track:6cUz4BunENKlWBIrue0ZE0,0.71
+754,0.359,0.71,208722,0.762,1.05e-05,1,0.0697,-5.165,0,Leo王,0.1,75.016,4,嘿 Morrison,chinese,spotify:track:3SLe9d9gWYnpavdEsMHKKU,0.817
+755,0.102,0.797,187636,0.669,3.86e-06,1,0.224,-4.158,0,Cloud Wang,0.0409,99.997,4,All for You,chinese,spotify:track:2940LsyAsGSLm4QI1WhAYw,0.504
+756,0.0861,0.866,214689,0.651,0.0,2,0.0692,-5.621,1,Cloud Wang,0.0938,103.965,4,WANT IT,chinese,spotify:track:1iAHIW1ViU9eK8b0JrLkvl,0.662
+757,0.0693,0.81,202325,0.873,2.29e-05,9,0.186,-3.169,0,Cloud Wang,0.0723,107.985,4,Take It Easy - 男生版,chinese,spotify:track:1BJQrL1UOusmo0L1yKYF5O,0.61
+758,0.0961,0.724,231724,0.769,0.0,7,0.114,-6.833,0,Cloud Wang,0.14,144.853,4,對DUI,chinese,spotify:track:4c66lcOQTSGxIHA76X0nna,0.897
+759,0.0786,0.772,214500,0.528,0.0,9,0.29,-7.867,0,Cloud Wang,0.0688,100.05,4,Don't - feat. Cloud Wang,chinese,spotify:track:0zpyn4d4w3HuZZVryRId5j,0.499
+760,0.611,0.803,205000,0.615,0.0,8,0.174,-6.386,1,Cloud Wang,0.0483,96.03,4,Think of You,chinese,spotify:track:77IwYEt4N9K8507l4jc6Kv,0.622
+761,0.0498,0.725,173846,0.59,0.0,9,0.111,-9.597,1,Cloud Wang,0.299,155.916,4,你的remix(feat.Cloud Wang),chinese,spotify:track:0RBVnVRCZ6LdnR26C3uLw1,0.947
+762,0.151,0.959,178364,0.81,0.0,10,0.103,-4.297,0,Cloud Wang,0.155,126.005,4,PSYCHO,chinese,spotify:track:18R1IJA67C7twAU3Yo816b,0.579
+763,0.198,0.74,210418,0.733,0.0,0,0.55,-6.046,0,Cloud Wang,0.17,150.044,4,What You Need,chinese,spotify:track:5MapFHLRnAzyfWhcxYnezw,0.696
+764,0.117,0.828,169077,0.806,0.0,7,0.299,-5.499,1,Cloud Wang,0.219,100.0,4,REPO,chinese,spotify:track:6NYzF8KVGBBhL5OnwWqINi,0.681
+765,0.685,0.733,204800,0.789,0.0,8,0.113,-4.672,0,肖恩恩,0.112,95.295,4,薔薇,chinese,spotify:track:2JvQCuTcOxsbd7ky89fkTG,0.259
+766,0.146,0.752,246818,0.631,0.0,11,0.0753,-13.06,1,肖恩恩,0.29,176.003,4,拿回來 - Remix,chinese,spotify:track:6UTcX8er6X5rZpdCyb5cY6,0.609
+767,0.166,0.804,212000,0.895,0.0,4,0.0731,-2.725,1,肖恩恩,0.292,163.021,4,塌陷,chinese,spotify:track:1cdyOBEOsiOrTyPZRrGKwK,0.716
+768,0.011,0.636,304966,0.799,0.0,8,0.128,-2.663,0,Barry Chen,0.0878,148.055,4,走到飛 - 完整版,chinese,spotify:track:00KVz6PXOl8T68W8PTwJJE,0.19
+769,0.632,0.66,217500,0.399,0.0,5,0.0957,-9.413,1,Barry Chen,0.0859,144.174,4,台北灰市 (feat. 王嘉儀),chinese,spotify:track:6Wd7irEG9k2IzO0GPj96j9,0.465
+770,0.0092,0.624,276182,0.797,0.0,8,0.14,-2.72,0,Barry Chen,0.0611,148.062,4,走到飛,chinese,spotify:track:2aMEPYGuhBH6dG7rvT9Taf,0.196
+771,0.219,0.756,178907,0.738,0.0,1,0.0918,-5.915,1,Barry Chen,0.262,163.048,4,古馳鴨舌帽 (feat. Ken-G),chinese,spotify:track:7lbv1BCSTK36Al4okmUWzI,0.763
+772,0.183,0.649,291111,0.571,0.00176,1,0.146,-10.297,0,Barry Chen,0.0645,135.028,4,保持聯絡,chinese,spotify:track:5U7CNRPlinaf1dtUMN2qtl,0.392
+773,0.242,0.862,196286,0.617,1.9e-06,5,0.11,-7.671,0,Barry Chen,0.133,139.976,4,黑色西裝,chinese,spotify:track:1dkNKOpaXZ7y2ITP5fLnXP,0.566
+774,0.247,0.804,169846,0.895,1.43e-06,7,0.102,-4.846,1,Barry Chen,0.155,129.974,4,冠軍,chinese,spotify:track:0IappDEsSgivqvMXGr9GFt,0.719
+775,0.349,0.702,238554,0.554,0.0,2,0.118,-9.154,0,Barry Chen,0.184,165.99,4,每一天,chinese,spotify:track:4ElI3I41MF7HrL6gElVugm,0.776
+776,0.832,0.64,165114,0.264,0.0,8,0.0906,-16.98,1,Barry Chen,0.11,131.723,4,少年仔,chinese,spotify:track:2XG7fzRvIuRp4HyPbmGvc5,0.452
+777,0.125,0.69,267750,0.829,0.0,6,0.178,-4.511,1,Barry Chen,0.149,160.074,4,隻手遮天,chinese,spotify:track:19g8nUsGJzK1YU6HdOhejy,0.592
+778,0.368,0.707,201374,0.642,0.0,6,0.219,-6.259,1,满舒克,0.248,176.06,4,Relax,chinese,spotify:track:35JubBTGBJYtQhdITu6a7e,0.511
+779,0.0304,0.813,241232,0.597,2.03e-05,9,0.048,-6.93,1,满舒克,0.0469,108.037,4,做我的猫,chinese,spotify:track:6ovYjYHAUgelJdU2BuIua5,0.375
+780,0.462,0.717,208777,0.864,0.0,0,0.0948,-3.016,0,满舒克,0.219,167.928,4,FEEL GOOD,chinese,spotify:track:2uIrtYj0BBemEnF1BxZ37Z,0.692
+781,0.245,0.615,216000,0.666,0.0,5,0.2,-9.17,0,满舒克,0.061,80.001,4,眠冬,chinese,spotify:track:63kFWBDk2w4koP50IxndHO,0.422
+782,0.289,0.711,222066,0.639,0.0,5,0.106,-6.392,1,满舒克,0.143,79.971,4,Fall in Love,chinese,spotify:track:5YjvQziD25V7VhDwcoFmeB,0.531
+783,0.196,0.605,208571,0.717,0.0,7,0.0878,-5.384,0,满舒克,0.181,167.932,4,VVS,chinese,spotify:track:4Ad8GIJOMRQAOilHNAgI8n,0.315
+784,0.101,0.746,237110,0.502,0.0,2,0.0973,-9.057,1,满舒克,0.0409,108.02,4,做我的猫 - 圣诞特别版,chinese,spotify:track:4C3X98d65Rz4tMSXNmXtga,0.464
+785,0.47,0.802,242000,0.724,0.0,5,0.0676,-5.873,0,满舒克,0.195,144.04,4,LOGO,chinese,spotify:track:1rsQVxyGE706uLmU1eB8gj,0.484
+786,0.0783,0.825,306224,0.571,2.14e-05,0,0.0888,-7.575,1,满舒克,0.0372,114.991,4,FALLIN,chinese,spotify:track:0ZYi5wOWEkSh1RCRH3oiL7,0.244
+787,0.281,0.597,218667,0.816,0.0,6,0.349,-5.411,1,满舒克,0.222,179.998,4,Relax - M3SSIAH Remix,chinese,spotify:track:5PQdcDYM7yGxG2foGtEGTR,0.775
+788,0.0857,0.693,289091,0.625,6.83e-06,8,0.0914,-7.588,0,C-BLOCK,0.211,176.137,4,江湖流,chinese,spotify:track:6w45ivdD1hdFq42qJaigGw,0.399
+789,0.0339,0.736,243237,0.735,0.0,10,0.3,-10.044,0,C-BLOCK,0.273,93.975,4,以下範上,chinese,spotify:track:5QbCMg8zw2ZLdw8zLCqS1h,0.575
+790,0.0457,0.824,239556,0.692,0.0,2,0.0686,-8.092,1,C-BLOCK,0.169,91.998,4,殺死忍者,chinese,spotify:track:4dtsC0XYHmcPvINvVPFvRR,0.593
+791,0.0283,0.719,284830,0.903,0.0,1,0.465,-4.33,1,C-BLOCK,0.335,162.015,4,野家拳,chinese,spotify:track:0YlbbUBfiGGZOkNXbNHp08,0.66
+792,0.114,0.643,344516,0.454,0.000136,5,0.137,-9.819,0,C-BLOCK,0.0952,123.838,4,停電夜,chinese,spotify:track:6mHb4e4uJEdGX64G4mDiVH,0.182
+793,0.46,0.579,251200,0.628,0.0,8,0.239,-7.43,1,C-BLOCK,0.228,150.056,4,女人花,chinese,spotify:track:1RdN5OL1DHlCiAG8omcxQN,0.412
+794,0.0854,0.6,274417,0.797,0.0,2,0.373,-9.437,1,C-BLOCK,0.323,89.762,4,兵臨城下,chinese,spotify:track:7yHIuiOt4VvFcp8tsRW5wV,0.412
+795,0.0905,0.645,268387,0.536,6.49e-05,4,0.13,-9.042,1,C-BLOCK,0.0514,93.005,4,火苗,chinese,spotify:track:3WbZcG7qswGldnfdo4lrlA,0.133
+796,0.0301,0.519,269531,0.804,9.29e-06,1,0.362,-7.343,0,C-BLOCK,0.349,127.989,4,大鬧天宮,chinese,spotify:track:2JagOrvAplWS8ImkEu2RuU,0.503
+797,0.381,0.751,217083,0.777,0.0,9,0.309,-5.554,0,C-BLOCK,0.285,143.937,4,英雄鋼筆,chinese,spotify:track:5NXndcF9fxC4p51BtPMIOs,0.648
+798,0.397,0.598,256000,0.71,0.0,6,0.109,-6.754,0,龍胆紫,0.33,85.908,4,立交桥,chinese,spotify:track:4QoE73ALNUZrL6iOw4bMhB,0.407
+799,0.133,0.701,268000,0.711,0.0,1,0.117,-8.498,1,龍胆紫,0.232,86.037,4,龍胆紫,chinese,spotify:track:1rcyeJYQJ9ABCpo66ue2Sb,0.338
+800,0.253,0.692,258000,0.856,7.28e-05,1,0.103,-4.72,1,龍胆紫,0.254,87.318,4,Goldie,chinese,spotify:track:5BUbzMW6bC3VAvTzNIT7fE,0.826
+801,0.317,0.732,235000,0.746,0.0,1,0.341,-6.594,1,龍胆紫,0.224,80.488,4,地下通道,chinese,spotify:track:1EV4U1SBRk8mtL3VwRPHbY,0.953
+802,0.394,0.5,202000,0.811,0.0,4,0.11,-6.637,0,龍胆紫,0.432,173.758,4,Beijing Zoo,chinese,spotify:track:5qGoa4XCV6LuvHCKFaHGmh,0.575
+803,0.475,0.78,168000,0.775,0.0,4,0.213,-4.871,0,龍胆紫,0.257,93.085,4,我不相信,chinese,spotify:track:5rkhsIIoOdDbU13LwJqyMe,0.651
+804,0.491,0.547,268827,0.639,0.0,10,0.328,-8.97,0,龍胆紫,0.395,183.768,4,穷孩子,chinese,spotify:track:7ejBok9m45m6DZ4mNL2KO2,0.773
+805,0.421,0.539,217000,0.861,0.0,6,0.629,-5.658,1,龍胆紫,0.273,90.128,4,轮回,chinese,spotify:track:7se5NaBwUjlLDDKz3E7Ado,0.896
+806,0.609,0.634,205000,0.866,0.0,6,0.17,-6.758,0,龍胆紫,0.517,82.508,4,怪塔儿哥,chinese,spotify:track:6xQuDDmvOkEMRsCOAKCBZm,0.592
+807,0.317,0.746,182000,0.853,0.0,2,0.37,-4.799,1,龍胆紫,0.274,88.642,4,路灯,chinese,spotify:track:2sF4AOpXnoKt1Qa12CZISA,0.75
+808,0.049,0.714,192414,0.835,0.0,9,0.143,-3.381,1,李杰明 W.M.L,0.123,86.969,4,炙愛,chinese,spotify:track:2CmVcG517aBH7fmuZKP1mc,0.336
+809,0.503,0.613,207529,0.771,0.0,6,0.131,-4.532,0,李杰明 W.M.L,0.0417,85.03,4,I Need You,chinese,spotify:track:6ndjvBk1xOp9dQkF44pUAD,0.506
+810,0.729,0.509,231333,0.656,0.0,3,0.22,-4.922,1,李杰明 W.M.L,0.0746,180.054,4,不存在,chinese,spotify:track:1A1T5fto6NgxXOIrZFZBLv,0.532
+811,0.193,0.643,219333,0.787,0.0,8,0.159,-4.117,1,李杰明 W.M.L,0.0385,90.014,4,沒有回頭路,chinese,spotify:track:0ZyDsMH9BgqFTcLGU43MHI,0.227
+812,0.255,0.592,185455,0.755,0.0,9,0.115,-7.703,1,李杰明 W.M.L,0.0487,131.985,4,灰燼,chinese,spotify:track:2mjiAZNPvvCjQL94ZGvl2z,0.407
+813,0.033,0.625,175500,0.819,0.0,1,0.054,-4.72,0,李杰明 W.M.L,0.0317,95.001,4,去你的快樂,chinese,spotify:track:4aS7rgiVAfpiGZ3twxeTRF,0.33
+814,0.0818,0.643,200270,0.864,0.0,5,0.141,-4.179,0,李杰明 W.M.L,0.0343,147.895,4,我會害怕,chinese,spotify:track:6RTLxH2mnLumGEcuSG5KMk,0.358
+815,0.329,0.597,251538,0.847,0.0,7,0.0874,-5.46,1,李杰明 W.M.L,0.0366,155.993,4,很孤單,chinese,spotify:track:0roRjIc7K1rjjy788X2kko,0.705
+816,0.349,0.572,226821,0.692,0.0,5,0.258,-5.298,1,李杰明 W.M.L,0.107,173.017,4,他是個孩子,chinese,spotify:track:2jL0pe4KiwgKhfx4r0Bsbo,0.346
+817,0.0149,0.782,152769,0.887,0.0,6,0.138,-2.838,0,李杰明 W.M.L,0.0373,129.983,4,我到底是誰,chinese,spotify:track:1HGAQplciZYFOq20ofVc1t,0.486
+818,0.102,0.442,186353,0.58,0.0,6,0.099,-9.641,0,Ak Benjamin,0.0975,170.033,4,Nancy,chinese,spotify:track:0Tt4oakm29NpjAucWW91gD,0.19
+819,0.328,0.642,158407,0.719,0.0,5,0.19,-8.7,0,Ak Benjamin,0.0892,170.104,4,Dawg,chinese,spotify:track:1X3mPhTacQf42KgHSd3Q6k,0.59
+820,0.181,0.722,164719,0.682,0.0,1,0.124,-8.34,1,Ak Benjamin,0.0716,79.981,4,Summer Night,chinese,spotify:track:1Ov95klNGTGIB2aJuAMzrU,0.527
+821,0.109,0.7,125100,0.676,8.71e-05,1,0.127,-9.966,1,Ak Benjamin,0.0625,100.029,4,Coronavirus,chinese,spotify:track:355DaRrWlTW488aPvOv6bL,0.0421
+822,0.205,0.679,171670,0.573,0.0,1,0.0975,-9.839,0,Ak Benjamin,0.161,82.559,4,Friend of a Friend,chinese,spotify:track:5nAZ8cKu0B2x4vRjp1NB6K,0.364
+823,0.0235,0.841,262247,0.727,0.0,4,0.112,-6.238,0,福克斯,0.136,89.008,4,明爭暗鬥 (feat. 福克斯 & BigYear大年),chinese,spotify:track:6wNmlIhThgfwXDc1ntKkG5,0.411
+824,0.179,0.779,294194,0.76,0.0,4,0.0775,-5.486,0,福克斯,0.14,93.016,4,棕旨(feat. 福克斯),chinese,spotify:track:6gUvTupJrISzXiEqjlnJEl,0.361
+825,0.408,0.634,232236,0.86,0.0,10,0.0846,-4.609,0,福克斯,0.341,79.871,4,侠,chinese,spotify:track:3YCjLvbqiYfjkYPWuQmylW,0.921
+826,0.421,0.665,216000,0.898,0.0,4,0.231,-4.176,0,福克斯,0.346,82.025,4,Why We Fight,chinese,spotify:track:24m6dWu261SNbdF3gs96Mp,0.627
+827,0.174,0.757,294400,0.895,1.04e-06,11,0.32,-6.938,0,福克斯,0.18,119.964,4,HorseKing Cypher 2019,chinese,spotify:track:6OVx11T2a0uH9ycSkVLKL2,0.524
+828,0.301,0.582,156041,0.671,0.0,5,0.144,-7.854,0,福克斯,0.163,159.926,4,生来如此,chinese,spotify:track:7iYcgX70pgwbJrIMh6lZgC,0.362
+829,0.421,0.624,208000,0.544,0.00207,9,0.333,-9.112,0,福克斯,0.111,132.006,4,I'm Not A Killer,chinese,spotify:track:10KVONda40lZ47W0MQgQdt,0.439
+830,0.411,0.658,214593,0.784,0.0,11,0.0536,-5.264,0,福克斯,0.0956,81.99,4,宿命,chinese,spotify:track:6vr2bFQtH3MTdqONFa0gKZ,0.206
+831,0.337,0.544,232236,0.864,0.0,10,0.136,-5.891,0,福克斯,0.337,80.019,4,侠,chinese,spotify:track:3DDUin16U9cXNUHzLa9n6L,0.878
+832,0.024,0.677,67606,0.846,3.38e-06,8,0.0812,-7.506,1,福克斯,0.182,142.123,4,谢你不屑,chinese,spotify:track:16B0DjcgF9T9OHg9Zp3ANM,0.0549
+833,0.0268,0.783,191693,0.613,0.0,4,0.117,-6.711,1,Lu1,0.151,97.018,4,Follow (feat. Dizkar),chinese,spotify:track:28VyIQdJDOueQUxxd5p73K,0.711
+834,0.248,0.642,289037,0.573,0.306,1,0.114,-6.988,1,Lu1,0.0861,83.998,4,自己做决定 (feat. 陳綺貞),chinese,spotify:track:0yDx42o29sJ8BlOLV4Cevj,0.408
+835,0.873,0.48,248874,0.392,0.0,8,0.11,-8.29,0,Lu1,0.0703,143.69,4,Just Say So(feat. 蔡健雅),chinese,spotify:track:4xbXuT2SU21j1SdVbeLtQj,0.226
+836,0.79,0.631,327826,0.496,1.73e-06,4,0.0606,-9.569,1,Lu1,0.0392,84.948,4,Bonjour & Goodnight,chinese,spotify:track:6OOymiof4dcjmXodFyuMXR,0.135
+837,0.628,0.735,260500,0.835,0.0,1,0.051,-4.491,1,Lu1,0.0488,91.97,4,Highlight,chinese,spotify:track:1yUNX2cJwGxxcGkvPumZrz,0.951
+838,0.785,0.703,218000,0.768,1.17e-06,4,0.101,-5.782,0,Lu1,0.197,87.986,4,那段,chinese,spotify:track:0IRQYESrrHliMnIeV5Gdwq,0.408
+839,0.7,0.688,202000,0.721,0.000529,6,0.117,-4.873,0,Lu1,0.172,170.035,4,不能帶你去,chinese,spotify:track:6QYaaSQN0VMDTK1vf5eJ1S,0.753
+840,0.825,0.553,265983,0.658,0.0,2,0.11,-6.001,1,Lu1,0.204,176.032,4,男孩,chinese,spotify:track:4Jn0NfBpzUjw4tqrOveTaH,0.649
+841,0.23,0.741,272277,0.581,5.15e-06,9,0.124,-7.89,0,Lu1,0.0633,89.99,4,2020 (feat. Lu1),chinese,spotify:track:6T8bvkZecTzMCbCrpUUv2K,0.621
+842,0.527,0.756,294376,0.836,0.0,7,0.118,-3.812,1,Lu1,0.0374,125.0,4,很可愛的歌,chinese,spotify:track:47mT9OtiDZUnOa8YCztOqC,0.88
+843,0.279,0.729,145262,0.961,0.0,10,0.132,-2.936,0,那吾克熱-NW,0.29,151.964,4,ㄦ子娃娃,chinese,spotify:track:6hzyP6wjMsMPBzF7jMZgEF,0.523
+844,0.253,0.655,203190,0.968,0.0,4,0.108,-5.403,0,那吾克熱-NW,0.557,162.985,4,水滴石穿,chinese,spotify:track:5kSMTbZkkKqSeiH1IThEGk,0.493
+845,0.201,0.778,160632,0.926,0.0,0,0.113,-3.89,1,那吾克熱-NW,0.253,158.037,4,漂 Part II,chinese,spotify:track:6AM8Gy2tr1OEfMIixVIDXj,0.549
+846,0.229,0.743,206400,0.774,0.0,5,0.366,-5.816,0,那吾克熱-NW,0.101,149.954,4,放空,chinese,spotify:track:70xuC7vFZnCBpl8T37rhhN,0.581
+847,0.572,0.696,246856,0.842,0.0,7,0.119,-3.227,1,那吾克熱-NW,0.136,155.975,4,何等人物,chinese,spotify:track:4bE56zMtp7ndShbziwEfVx,0.443
+848,0.486,0.703,158664,0.757,0.0,1,0.662,-8.734,0,那吾克熱-NW,0.268,157.951,4,漂 - Live,chinese,spotify:track:4zbOMo7EtJxISWxUtIbbiA,0.691
+849,0.272,0.62,197696,0.895,0.0,1,0.3,-4.063,0,那吾克熱-NW,0.362,169.997,4,Real Man,chinese,spotify:track:3HR8WqXvI1TgWU3XuJHZ3I,0.613
+850,0.0884,0.795,201943,0.765,0.0,8,0.305,-7.604,1,那吾克熱-NW,0.234,95.955,4,征途,chinese,spotify:track:2boX2ToqixdPPPjPLzoUOt,0.571
+851,0.256,0.767,165133,0.862,0.0,1,0.0737,-2.994,1,那吾克熱-NW,0.249,182.009,4,萬眾矚目,chinese,spotify:track:13PxZkw6Vyn2gDYZh35eQX,0.379
+852,0.42,0.899,189494,0.872,0.0,6,0.108,-3.882,1,那吾克熱-NW,0.262,151.982,4,Diss LIL-EM,chinese,spotify:track:7DQJA6seMG4n8cZgNSAeQq,0.899
+853,0.355,0.691,168000,0.608,0.0,6,0.0382,-7.751,0,T.I.G,0.0378,120.034,4,AIRPLANE (feat. T.I.G) - Prod. Alan from SUGARCAT,chinese,spotify:track:2nEDyf4hJY0zQXo2HodHg9,0.388
+854,0.0667,0.662,144000,0.733,0.139,7,0.278,-10.898,1,T.I.G,0.268,174.116,4,Vice City,chinese,spotify:track:1OzZnL8FWHGzy60OiPvSNx,0.539
+855,0.192,0.715,239474,0.478,0.0,0,0.089,-5.888,1,T.I.G,0.0303,113.909,4,Night View (feat. T.I.G 鐵巨人) - Remix,chinese,spotify:track:2zGvBlCdo9YyIhc1TRfGjo,0.0465
+856,0.0499,0.798,205366,0.522,0.0158,1,0.221,-10.58,1,T.I.G,0.0455,119.033,4,年少輕狂,chinese,spotify:track:2bIMnsGdKbkruh9gHAE0MF,0.0799
+857,0.0874,0.782,222293,0.716,0.0,0,0.15,-7.224,1,T.I.G,0.145,105.018,4,WE'RE JUST FRIENDS,chinese,spotify:track:1wA2PDq49nYVW80WwgkP8J,0.799
+858,0.753,0.754,233609,0.656,0.0,4,0.107,-8.34,0,T.I.G,0.13,77.502,4,十五歲,chinese,spotify:track:1LchumSAoUov2puwH9kI5k,0.664
+859,0.107,0.633,162493,0.757,7.44e-05,0,0.352,-3.972,1,T.I.G,0.0975,132.971,4,MONSTER,chinese,spotify:track:6ZurJ1ySOOn94mGnPcheTB,0.272
+860,0.464,0.705,236175,0.418,0.0,2,0.108,-12.44,1,T.I.G,0.442,66.584,5,All eyes on me,chinese,spotify:track:2rTRwSEdusuNpZ7tulqtZh,0.293
+861,0.663,0.573,172973,0.45,0.0,6,0.11,-9.726,0,刘炫廷,0.0747,203.901,3,美美的,chinese,spotify:track:2N9SMEVllYC8nk65xVqBOe,0.506
+862,0.0157,0.728,178591,0.658,0.0,7,0.396,-6.972,0,刘炫廷,0.0815,143.943,4,她不说,chinese,spotify:track:5VlTT7SE2BW0u5MuANtCOE,0.508
+863,0.597,0.629,178400,0.669,0.0,7,0.106,-6.234,1,刘炫廷,0.0706,163.902,4,LOWKEY,chinese,spotify:track:6R9b5cykVwyt1OSl5IAZLz,0.838
+864,0.174,0.757,294400,0.895,1.04e-06,11,0.32,-6.938,0,刘炫廷,0.18,119.964,4,HorseKing Cypher 2019,chinese,spotify:track:6OVx11T2a0uH9ycSkVLKL2,0.524
+865,0.23,0.742,153720,0.55,0.000484,8,0.0924,-8.246,1,刘炫廷,0.0524,99.996,4,By My Side,chinese,spotify:track:0KLg6mMEHb9zbKyZBf9Jfj,0.442
+866,0.0176,0.725,292000,0.374,0.7,6,0.349,-20.306,0,刘炫廷,0.0698,120.003,4,HorseKing Cypher 2019 - 伴奏,chinese,spotify:track:3Tkxc6Dy5gyt9gshU03xL1,0.683
+867,0.748,0.551,281552,0.716,0.0,6,0.15,-9.036,1,Pharaoh,0.608,185.006,4,我想part2,chinese,spotify:track:3EpfY7S9mO4YEvbSxgUBNe,0.662
+868,0.421,0.624,208000,0.544,0.00207,9,0.333,-9.112,0,Pharaoh,0.111,132.006,4,I'm Not A Killer,chinese,spotify:track:10KVONda40lZ47W0MQgQdt,0.439
+869,0.123,0.859,226447,0.916,0.0,6,0.0474,-5.64,0,Pharaoh,0.122,138.041,4,公敌,chinese,spotify:track:5Iz26B7h57tQx4xhEgXTnU,0.634
+870,0.224,0.7,260691,0.65,0.0,6,0.302,-6.154,0,Pharaoh,0.276,83.051,4,Afk,chinese,spotify:track:4z3yPNaMnZL3Kha12zSZo6,0.664
+871,0.304,0.756,200834,0.824,0.0,0,0.309,-4.612,1,Pharaoh,0.198,128.012,4,未来,chinese,spotify:track:1tpkWuu2dEbWGwhexBYXUg,0.603
+872,0.132,0.587,337981,0.787,0.0,8,0.099,-5.247,1,Pharaoh,0.433,151.849,4,睡前故事,chinese,spotify:track:4uJLfpG17hjC4QUheDMF0T,0.517
+873,0.378,0.771,214056,0.789,0.0,7,0.323,-6.481,1,Pharaoh,0.27,129.958,4,Ip Man,chinese,spotify:track:51ttX897bEr4HYdLFURTAg,0.508
+874,0.322,0.712,215185,0.813,0.0,7,0.103,-5.19,1,Pharaoh,0.447,91.117,4,改变,chinese,spotify:track:4DzG7y22NlAObC7NgBm58n,0.427
+875,0.483,0.529,223166,0.799,0.0,6,0.208,-8.558,0,Pharaoh,0.879,177.88,4,爱是什么,chinese,spotify:track:26kcvDmvJWguPHN4E7WGeN,0.182
+876,0.239,0.832,187435,0.853,0.0,2,0.163,-2.083,1,Pharaoh,0.307,76.465,4,独行侠,chinese,spotify:track:6iRx8l3AbWU9tfNR2GZpsC,0.73
+877,0.183,0.788,246573,0.881,0.0,0,0.0422,-5.649,0,Starr Chen,0.0786,109.989,4,噹噹噹 Feat. SoftLipa 蛋堡,chinese,spotify:track:68TD9gEEtdXBXqU5kQzYeH,0.748
+878,0.271,0.68,189869,0.848,0.0445,10,0.124,-4.535,0,Starr Chen,0.0335,110.009,4,EGO-HOLIC戀我癖,chinese,spotify:track:1o1r3FCDXAoQEofBF1Ve8d,0.645
+879,0.00256,0.394,368885,0.851,0.00706,9,0.137,-3.423,0,Starr Chen,0.0701,149.59,4,Fireflies,chinese,spotify:track:4qS6Jqm7LC5gWKcUeoGXEA,0.296
+880,0.00738,0.766,178387,0.869,0.0,11,0.159,-3.203,1,Starr Chen,0.0313,104.999,4,早上PaPaPa Feat. J.Sheon,chinese,spotify:track:4F9bL5ST0bjFvhkblgybpE,0.548
+881,0.0244,0.558,249813,0.933,0.0174,10,0.123,-4.302,0,Starr Chen,0.0814,174.047,4,Welcome to the Next Level Feat. Teminite,chinese,spotify:track:1GNxtL4eSsD0JW2VkNA0aF,0.474
+882,0.101,0.66,252140,0.646,3.81e-06,6,0.0629,-9.884,0,Starr Chen,0.0384,126.971,4,宇宙至尊,chinese,spotify:track:39nZ82Nu0IFlXeinKJVtQ2,0.26
+883,0.0251,0.626,283165,0.871,0.000115,9,0.12,-4.326,0,Starr Chen,0.0326,124.022,4,Fireflies,chinese,spotify:track:4FHFv35Giw7aemYv5cFrZ4,0.49
+884,0.00731,0.669,171120,0.951,0.0,3,0.354,-3.87,0,Starr Chen,0.253,159.922,4,讚讚讚 Feat. SmashRegz 違法  TroutFresh 呂士軒,chinese,spotify:track:3rZSnHgeeZftnIvzv5YRg6,0.611
+885,0.0199,0.587,245467,0.897,0.000803,5,0.597,-4.071,1,Starr Chen,0.0489,127.994,4,落夜 Feat. Morrison 馬仕釗,chinese,spotify:track:3UIQFxLEatvduqBl6arTbj,0.614
+886,0.0756,0.596,226427,0.861,4.14e-06,9,0.672,-4.302,0,Starr Chen,0.0451,140.131,4,後天 Feat. Jane Zhang 張靚穎,chinese,spotify:track:6cXrFOJ7gpVjMvOKip6UcA,0.65
+887,0.841,0.772,164250,0.5,1.95e-05,9,0.108,-7.977,1,Juice Boy,0.0372,99.973,4,Paradise,chinese,spotify:track:12Uec5lW50bs4fScjU2q0m,0.318
+888,0.139,0.776,181195,0.484,0.0,9,0.128,-8.821,1,Juice Boy,0.0452,99.98,4,Paradise - SUI Sessions,chinese,spotify:track:0JbE0GKlZzErCiVlBxZXKX,0.352
+889,0.333,0.682,240010,0.786,0.0,6,0.248,-8.563,1,派克特,0.119,103.982,4,再見Hip-Hop,chinese,spotify:track:25jdJvW7aez2PMnRHdnrLO,0.231
+890,0.398,0.753,490667,0.8,0.0,10,0.0499,-4.039,0,派克特,0.222,89.912,4,刺猬兄弟2019cypher《挑战challenge》,chinese,spotify:track:55HcgqtTflnZkzdaZlkxnI,0.478
+891,0.0795,0.864,215510,0.728,1.04e-05,11,0.112,-8.857,0,派克特,0.15,98.018,4,SAD MAN,chinese,spotify:track:0x68J68ChGusGt4ro2N5lg,0.251
+892,0.122,0.712,228000,0.542,0.0,8,0.0544,-9.392,0,派克特,0.075,99.999,4,Yokimiya,chinese,spotify:track:3nrP1iH0E7dpLY1Y7aRxdl,0.226
+893,0.346,0.73,184865,0.868,0.0,0,0.126,-3.989,0,派克特,0.242,148.01,4,喚醒熱愛·NBA喚醒季主題曲,chinese,spotify:track:2RZulKjboovSNIxbxpELa7,0.65
+894,0.0308,0.596,143106,0.71,0.0,8,0.234,-10.041,1,派克特,0.0906,161.215,4,CEO,chinese,spotify:track:6uwacSKjpWPcCugz9bD6M8,0.64
+895,0.692,0.647,234894,0.631,8.11e-06,10,0.226,-9.121,0,派克特,0.0838,93.974,4,離開才知道有多離不開,chinese,spotify:track:5PgYPt83GZrrHnsyudaq5T,0.321
+896,0.188,0.745,230270,0.655,0.0,2,0.183,-10.556,1,派克特,0.185,148.029,4,野外求生手冊,chinese,spotify:track:6Xul2RD4GzO3sbmIz0vKKH,0.538
+897,0.497,0.816,139826,0.574,0.00217,1,0.12,-7.594,0,派克特,0.0884,115.012,4,Tell Me,chinese,spotify:track:2D6YXbfkoeDUVTZsn3XnfT,0.538
+898,0.54,0.69,241500,0.715,0.0,6,0.506,-8.958,1,派克特,0.263,160.066,4,叢林探險指南,chinese,spotify:track:6AHjmyg6akyitQosEDI5wF,0.877
+899,0.312,0.526,218500,0.407,0.0,9,0.0542,-5.641,1,CREAM D,0.0449,179.846,3,Berry (Cream D Remix),chinese,spotify:track:2QhKOQPFYdTRkhS4E89efD,0.405
+900,0.148,0.86,208000,0.785,1.18e-06,8,0.125,-4.964,0,CREAM D,0.317,130.085,4,Hallo,chinese,spotify:track:6jXkU8ZQU5yPvn4r5avcrk,0.558
+901,0.325,0.5,171724,0.659,0.0,0,0.254,-8.411,1,CREAM D,0.502,173.969,3,The Message,chinese,spotify:track:1RUM6PJOdpL70avK1fiGxm,0.384
+902,0.0359,0.795,194000,0.691,0.0,2,0.122,-3.687,1,CREAM D,0.409,151.818,4,LIT,chinese,spotify:track:1aDEa9Vlw6duM2m4xI8A25,0.182
+903,0.53,0.702,174000,0.756,0.0,11,0.0945,-7.404,0,CREAM D,0.426,116.272,4,Broken,chinese,spotify:track:1WMtdLIsfBx8Hjt2qVIBGh,0.0773
+904,0.0786,0.909,208500,0.77,0.0,0,0.122,-3.171,0,CREAM D,0.14,132.031,4,UPUP,chinese,spotify:track:1H6fbZwD1FS3R85GiHig6b,0.382
+905,0.657,0.809,226955,0.467,0.0,5,0.157,-8.394,1,PO8,0.204,128.062,4,诗人说梦,chinese,spotify:track:1X2X11DpuvKK4btU7xzhEo,0.413
+906,0.123,0.657,256544,0.746,0.0,5,0.213,-5.857,1,PO8,0.102,120.939,4,慢慢升空,chinese,spotify:track:5tl1C3pk66xu1t0bRigKPI,0.269
+907,0.836,0.759,204586,0.657,0.0,10,0.102,-7.04,0,PO8,0.421,141.948,4,Chillin’,chinese,spotify:track:3dlVrvooIAt0J4Qj6OQQXD,0.4
+908,0.646,0.839,208870,0.456,5.87e-06,7,0.106,-9.81,0,PO8,0.319,87.972,4,Poet with a Pistol,chinese,spotify:track:2qeE0zFpdIDBB8liHtUfmA,0.219
+909,0.317,0.813,276414,0.541,1.24e-06,7,0.135,-7.898,1,PO8,0.0973,132.956,4,INSTAGRAM.,chinese,spotify:track:5g8cy1KKCVyYXtZheK78aC,0.335
+910,0.129,0.661,222502,0.663,0.00336,10,0.0926,-6.592,1,PO8,0.0383,155.947,4,"I know, U know",chinese,spotify:track:7EGN8rX2eFSGOlKkAVjfQg,0.766
+911,0.00482,0.429,191700,0.678,0.0,9,0.0834,-7.211,1,PO8,0.324,166.052,4,三州巡抚,chinese,spotify:track:0uSXKAXoSATRL6taOJulYZ,0.549
+912,0.278,0.86,165677,0.758,0.0,8,0.107,-5.261,1,PO8,0.201,123.885,4,黄金屋,chinese,spotify:track:3kjRGtdQ62nHpdI0GcQv6n,0.481
+913,0.369,0.761,200726,0.551,0.000159,6,0.127,-7.857,1,PO8,0.265,67.46,4,丢失,chinese,spotify:track:6F3W0FdIwMN7Xnt14vEqup,0.692
+914,0.637,0.782,158118,0.579,0.0,7,0.108,-6.95,1,PO8,0.108,84.941,4,降落伞,chinese,spotify:track:7aBDCcmFiqq1EIB9KD6ESQ,0.599
+915,0.285,0.753,160000,0.702,0.0,1,0.119,-6.465,1,老莫 ILL MO,0.168,93.025,4,女士優先 (feat. ?te),chinese,spotify:track:3hQggci1I7XAq5tUYH3sMp,0.545
+916,0.336,0.801,254879,0.815,0.0,6,0.0497,-5.622,0,老莫 ILL MO,0.299,87.985,4,Boom Bap With Conscious,chinese,spotify:track:6hFEA3NEo7B7NsfSyGqAep,0.533
+917,0.306,0.847,278117,0.616,3.69e-06,2,0.276,-8.153,1,老莫 ILL MO,0.341,88.976,4,Home,chinese,spotify:track:3GrAdVpiEJ7NYb6Vnk4FEG,0.515
+918,0.307,0.801,172044,0.891,0.0,4,0.154,-5.64,0,老莫 ILL MO,0.261,89.999,4,我教你,chinese,spotify:track:3ptTHsciLImB7nzIOec8d7,0.64
+919,0.184,0.812,180780,0.816,0.0,8,0.0809,-4.999,0,李爾新,0.115,101.99,4,带刺的玫瑰,chinese,spotify:track:31b6VUNI3lmtlHzu12J3IR,0.82
+920,0.256,0.824,191985,0.585,0.0,9,0.107,-8.11,1,李爾新,0.151,101.041,4,帥哥,chinese,spotify:track:2NIQjAJdcUQE4yBrlCaYeo,0.356
+921,0.0112,0.795,179540,0.546,0.0,1,0.243,-8.562,1,李爾新,0.0694,101.949,4,勾肩搭背,chinese,spotify:track:6jFQX9EUCx07CaE3K16Um2,0.388
+922,0.372,0.803,161033,0.817,0.0,2,0.0383,-4.703,1,李爾新,0.089,100.091,4,爸爸媽媽,chinese,spotify:track:4E8mTN6nNwQWBkriIX2pUn,0.738
+923,0.197,0.729,145715,0.689,0.0,5,0.102,-4.847,1,李爾新,0.308,176.07,4,何必呢,chinese,spotify:track:6iB4sZ22TgbLtJue99ZdR6,0.276
+924,0.00857,0.826,182161,0.892,8.82e-05,1,0.107,-6.75,1,李爾新,0.28,179.969,4,高興就好,chinese,spotify:track:6nVRzB0o55BkL29lBXRGYs,0.855
+925,0.00103,0.781,111216,0.91,0.0,1,0.2,-2.284,1,李爾新,0.178,139.985,4,Slaughter freestyle,chinese,spotify:track:7fmusVRUPI2VyadziZcg9m,0.686
+926,0.00385,0.77,199000,0.88,0.0,1,0.207,-5.626,1,李爾新,0.113,155.085,4,V.V.S,chinese,spotify:track:2RUfe8X5HdgdwDtliABADC,0.461
+927,0.192,0.757,283307,0.585,0.0,6,0.104,-7.664,0,李爾新,0.197,137.039,4,Phone6,chinese,spotify:track:7LytGNfdzokxB9CxSTpu78,0.379
+928,0.179,0.818,199917,0.499,0.0,1,0.126,-7.975,0,李爾新,0.0914,135.011,4,武裝羅密歐,chinese,spotify:track:7iJv0tqsBPT2eNPTqPbVme,0.549
+929,0.081,0.607,170400,0.967,0.0,1,0.143,-2.28,1,KING CHAIN,0.241,75.288,4,MONSTER,chinese,spotify:track:6bLUqYvxZxBI3khFURpbmy,0.228
+930,0.00599,0.724,215295,0.889,0.00221,8,0.34,-3.379,1,KING CHAIN,0.0535,140.004,4,Losing Soul,chinese,spotify:track:5lKB8a5xDih5o6STwOOTdH,0.135
+931,0.00446,0.49,244000,0.944,0.846,7,0.465,-2.906,0,KING CHAIN,0.0775,149.945,4,Mystic,chinese,spotify:track:0ULFSTGxVrtPjVbpxpBxCo,0.415
+932,0.0317,0.669,192000,0.951,5.39e-05,6,0.0751,-2.171,1,KING CHAIN,0.137,149.98,4,你請客,chinese,spotify:track:5tvztEp9eFEKhg2AkMlNBC,0.407
+933,0.00388,0.655,181600,0.92,0.389,5,0.0782,-2.514,1,KING CHAIN,0.0499,150.109,4,Heart N Soul,chinese,spotify:track:2bahDNRh9xdptRETOW5lzl,0.384
+934,0.0257,0.715,283812,0.938,0.051,2,0.154,-8.367,1,KING CHAIN,0.0717,109.995,4,L3an,chinese,spotify:track:03I0UF2zdIJG8aK04tt9sk,0.213
+935,0.162,0.727,171429,0.887,0.0,9,0.0836,-3.908,1,KING CHAIN,0.371,140.049,4,Apology,chinese,spotify:track:7FqPMTqBkFni1f6unIParn,0.384
+936,0.00807,0.654,296907,0.93,1.13e-05,0,0.54,-1.268,1,KING CHAIN,0.129,97.048,4,Abracadabra,chinese,spotify:track:5XLveCQN6Ckaiz19MFNY4k,0.273
+937,0.0193,0.512,210000,0.911,9.17e-05,2,0.506,-3.577,0,KING CHAIN,0.0939,160.182,4,Wall Of Sound (Feat. Lucas Decae),chinese,spotify:track:1mFcUvJTSvBDA6kaBgb7sC,0.348
+938,0.0197,0.731,288000,0.973,0.0707,2,0.0769,-4.104,1,KING CHAIN,0.0901,110.025,4,L.E.A.N,chinese,spotify:track:0283unydGSlsv6bIg4T1zo,0.212
+939,0.399,0.609,288101,0.74,2.53e-05,7,0.309,-3.947,0,Outlander,0.104,95.923,4,SWAG午覺,chinese,spotify:track:3rGMUcRkIRBO9dggY7bTYw,0.555
+940,0.542,0.852,205826,0.322,0.0,1,0.112,-10.441,0,Outlander,0.155,112.022,4,這樣的你,chinese,spotify:track:1x5Gs10DLLGALeZjpDCRjN,0.622
+941,0.248,0.642,289037,0.573,0.306,1,0.114,-6.988,1,Cee,0.0861,83.998,4,自己做决定 (feat. 陳綺貞),chinese,spotify:track:0yDx42o29sJ8BlOLV4Cevj,0.408
+942,0.0119,0.847,166714,0.664,2.07e-05,1,0.103,-6.698,1,Cee,0.251,140.012,4,King of Underground,chinese,spotify:track:0DsyuRWTtTAVwIfyrRZWjd,0.301
+943,0.628,0.735,260500,0.835,0.0,1,0.051,-4.491,1,Cee,0.0488,91.97,4,Highlight,chinese,spotify:track:1yUNX2cJwGxxcGkvPumZrz,0.951
+944,0.24,0.754,270668,0.563,0.0,1,0.117,-7.234,1,Cee,0.0579,125.991,4,Know My Style (feat. 艾福傑尼 & 黃旭) - Gizzle Remix,chinese,spotify:track:14Md16XMZ4KVrwJ4quAiqf,0.161
+945,0.284,0.784,200290,0.801,0.0,8,0.271,-5.289,0,Cee,0.228,125.92,4,Know My Style (feat. Jony J) - Peach‭ ‬K Remix,chinese,spotify:track:4XJN2gUl85ShtCPwAGhL3p,0.504
+946,0.785,0.703,218000,0.768,1.17e-06,4,0.101,-5.782,0,Cee,0.197,87.986,4,那段,chinese,spotify:track:0IRQYESrrHliMnIeV5Gdwq,0.408
+947,0.7,0.688,202000,0.721,0.000529,6,0.117,-4.873,0,Cee,0.172,170.035,4,不能帶你去,chinese,spotify:track:6QYaaSQN0VMDTK1vf5eJ1S,0.753
+948,0.62,0.639,242240,0.823,0.0,1,0.319,-4.293,1,Cee,0.279,154.189,4,對號入座 (feat. AR),chinese,spotify:track:7h4gNSm4gXVUfZeOPK8VOy,0.547
+949,0.573,0.714,233267,0.602,1.08e-05,2,0.093,-7.76,0,Cee,0.0416,138.03,4,木,chinese,spotify:track:5cZPSzBuHpjXa7dMxRQ4nq,0.332
+950,0.686,0.646,316500,0.624,0.000335,2,0.0938,-5.513,0,Cee,0.0817,92.067,4,Nod To It,chinese,spotify:track:72CuWsyNLNofY5kNieyeML,0.347
