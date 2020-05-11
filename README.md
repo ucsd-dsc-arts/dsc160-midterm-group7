@@ -105,8 +105,13 @@ I had the task of setting up the Spotify API to work with python and to create t
 Any implementation details or notes we need to repeat your work. 
 - Additional libraries you are using for this project
   - Spotipy
+  - urllib
+  - pandas  
 
 - Does this code require other pip packages, software, etc?
+
+To run the code you need to obatin a credentials to use the spotify API from there developers website.
+
 - Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
