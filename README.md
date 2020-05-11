@@ -48,6 +48,7 @@ This section will link to the various code for your project (stored within this 
 - data acquisition/scraping
 
 `API.py - Conatains library code for the data extraction process`
+
 `Data-extraction.ipynb - Conatins code to extarct audio features and dowload songs of each artist.`
 
 To collect the data for the Bay area hip hop artists and Chinese Hip hop artists we made use of the spotipy library, a lightweight python API for Spotify. The spotipy library contained a search features that allowed us to query from their  database based on Genre, location and type. Making use of the feature we were able to extract 86 artists that represented Bay area Hip hop and 110 artists that represented Chinese Hip hop.
