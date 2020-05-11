@@ -47,9 +47,9 @@ This section will link to the various code for your project (stored within this 
 
 ### Data acquisition/scraping
 
-`API.py - Conatains library code for the data extraction process`
+`code/API.py - Conatains library code for the data extraction process`
 
-`Data-extraction.ipynb - Conatins code to extarct artists, tracks, audio features and dowload songs of each artist.`
+`code/Data-extraction.ipynb - Conatins code to extarct artists, tracks, audio features and dowload songs of each artist.`
 
 To run the notebook on datahub, make sure to install the spotipy library and get a CID and secret ID from the spotify developers website
 
@@ -104,6 +104,8 @@ I had the task of setting up the Spotify API to work with python and to create t
 
 Any implementation details or notes we need to repeat your work. 
 - Additional libraries you are using for this project
+  - Spotipy
+
 - Does this code require other pip packages, software, etc?
 - Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
 
