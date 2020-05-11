@@ -49,17 +49,18 @@ This section will link to the various code for your project (stored within this 
 
 `API.py - Conatains library code for the data extraction process`
 
-`Data-extraction.ipynb - Conatins code to extarct audio features and dowload songs of each artist.`
+`Data-extraction.ipynb - Conatins code to extarct artists, tracks, audio features and dowload songs of each artist.`
+
+To run the notebook on datahub, make sure to install the spotipy library and get a CID and secret ID from the spotify developers website
 
 To collect the data for the Bay area hip hop artists and Chinese Hip hop artists we made use of the spotipy library, a lightweight python API for Spotify. The spotipy library contained a search features that allowed us to query from their  database based on Genre, location and type. Making use of the feature we were able to extract 86 artists that represented Bay area Hip hop and 110 artists that represented Chinese Hip hop.
 
-Once we created a list of artists we were using for our analysis, we queried the Top 10 tracks for each of these artists using Spoiipy's top_tracks_artists function. Each track accompanied some meta data such as data released, duration etc., a preview URL 30 seconds long and URI which was a unique indicator for the track. The preview URL of each of these tracks was downloaded and saved to a directory based on genre (bay area hip hop or chinese hip hop) and artist name. 
+Once we created a list of artists we were using for our analysis, we queried the Top 10 tracks for each of these artists using Spotipy's top_tracks_artists function. Each track accompanied some meta data such as data released, duration etc., a preview URL 30 seconds long and URI which was a unique indicator for the track. The preview URL of each of these tracks was downloaded and saved to a directory based on genre (bay area hip hop or chinese hip hop) and artist name. 
 
 The URI was then used to extract features for each track. The spotipy library contained a function that returned broad features of each song such as speechiness, danceability, energy, acousticness and 13 other features. All these features and some other meta data extracted from each track were saved in a dataframe with the artist's name, song URI and type of artist. 
 
 Output dataframe columns  -  type	name, track_name.	uri,	release_date,	danceability,	energy,	key, loudness,	mode,	speechiness,	acousticness,	instrumentalness,	liveness,	valence,	tempo	duration_ms,	time_signature,	year
 
-To run the notebook on datahub, make sure to install the spotipy library and get a CID and secret ID from the spotify developers website
 
 - cleaning
 
