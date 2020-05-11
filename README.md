@@ -45,7 +45,7 @@ This section will describe your data and its origins. Each item should contain a
 
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
 
-- data acquisition/scraping
+### Data acquisition/scraping
 
 `API.py - Conatains library code for the data extraction process`
 
