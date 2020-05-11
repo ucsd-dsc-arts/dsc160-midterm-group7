@@ -110,7 +110,7 @@ Any implementation details or notes we need to repeat your work.
 
 - Does this code require other pip packages, software, etc?
 
-To run the code you need to obatin a credentials to use the spotify API from there developers website.
+To run the code you need to obatin a credentials to use the spotify API from their developers website.
 
 - Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
 
