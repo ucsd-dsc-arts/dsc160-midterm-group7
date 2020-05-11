@@ -50,8 +50,6 @@ This section will link to the various code for your project (stored within this 
 
 [Data-extraction](https://github.com/ucsd-dsc-arts/dsc160-midterm-group7/blob/master/code/Data-extraction.ipynb)- `Conatins code to extarct artists, tracks, audio features and dowload songs of each artist.`
 
-To run the notebook on datahub, make sure to install the spotipy library and get a CID and secret ID from the spotify developers website
-
 To collect the data for the Bay area hip hop artists and Chinese Hip hop artists we made use of the spotipy library, a lightweight python API for Spotify. The spotipy library contained a search features that allowed us to query from their  database based on Genre, location and type. Making use of the feature we were able to extract 86 artists that represented Bay area Hip hop and 110 artists that represented Chinese Hip hop.
 
 Once we created a list of artists we were using for our analysis, we queried the Top 10 tracks for each of these artists using Spotipy's top_tracks_artists function. Each track accompanied some meta data such as data released, duration etc., a preview URL 30 seconds long and URI which was a unique indicator for the track. The preview URL of each of these tracks was downloaded and saved to a directory based on genre (bay area hip hop or chinese hip hop) and artist name. 
