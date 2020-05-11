@@ -95,6 +95,10 @@ The subsequent paragraphs could address questions including:
 
 Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
 
+- Umang Saraf
+
+I had the task of setting up the Spotify API to work with python and to create the dataset. I wrote the code to extract all artists representing the 2 different Genres in study, get the songs for each artis and then download the preview of the song and extract audio features for it.
+
 ## Technical Notes and Dependencies
 
 Any implementation details or notes we need to repeat your work. 
