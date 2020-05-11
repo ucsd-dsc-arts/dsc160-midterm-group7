@@ -46,10 +46,9 @@ This section will describe your data and its origins. Each item should contain a
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
 
 ### Data acquisition/scraping
+[ELT](https://github.com/ucsd-dsc-arts/dsc160-midterm-group7/blob/master/code/ELT.py)- `Conatains library code for the data extraction process`
 
-`code/API.py - Conatains library code for the data extraction process`
-
-`code/Data-extraction.ipynb - Conatins code to extarct artists, tracks, audio features and dowload songs of each artist.`
+[Data-extraction](https://github.com/ucsd-dsc-arts/dsc160-midterm-group7/blob/master/code/Data-extraction.ipynb)- `Conatins code to extarct artists, tracks, audio features and dowload songs of each artist.`
 
 To run the notebook on datahub, make sure to install the spotipy library and get a CID and secret ID from the spotify developers website
 
@@ -58,9 +57,6 @@ To collect the data for the Bay area hip hop artists and Chinese Hip hop artists
 Once we created a list of artists we were using for our analysis, we queried the Top 10 tracks for each of these artists using Spotipy's top_tracks_artists function. Each track accompanied some meta data such as data released, duration etc., a preview URL 30 seconds long and URI which was a unique indicator for the track. The preview URL of each of these tracks was downloaded and saved to a directory based on genre (bay area hip hop or chinese hip hop) and artist name. 
 
 The URI was then used to extract features for each track. The spotipy library contained a function that returned broad features of each song such as speechiness, danceability, energy, acousticness and 13 other features. All these features and some other meta data extracted from each track were saved in a dataframe with the artist's name, song URI and type of artist. 
-
-Output dataframe columns  -  type	name, track_name.	uri,	release_date,	danceability,	energy,	key, loudness,	mode,	speechiness,	acousticness,	instrumentalness,	liveness,	valence,	tempo	duration_ms,	time_signature,	year
-
 
 - cleaning
 
