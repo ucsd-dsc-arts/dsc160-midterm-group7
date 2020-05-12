@@ -31,14 +31,6 @@ As the world’s rate of information exchange increased dramatically and we edge
 
 ## Data
 
-(10 points) 
-
-This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
-- What is your cultural data source? 
-- When was it made? 
-- Who created the works? 
-- Is it digital native, or is it some kind of scan, recording, photo, etc., of an analog form? 
-
 Our dataset was collected using the Spotify API. The data set was generated based on two different Genres, Chinese Hip Hop artists and Bay Area Hip Hop artists. Artists from Bay Area included Young A.Z., Jon Nash, Big Cholo etc. and artists from China included Straight Fire Gang, 謝帝, Lil Ghost小鬼, Machi DIDI etc. 
 
 We collected the top songs for each of the artists based on spotify's algorithm for top songs. The songs in our dataset were created between 1999-2020 but a majority of the songs were created in the past 3 years. 88% of all the songs in our dataset were created between 2017-2020. The songs in our dataset were created by either hip hop artists from China or Bay Area, California.  We created two different datasets, one was in native form and the other was in .mp3 format. Spotify had a feature which enabled us to query the features of each song which was saved in [Spotify_data.csv](https://github.com/ucsd-dsc-arts/dsc160-midterm-group7/blob/master/data/Spotify_data.csv). In addition to this, we also downloaded the preview URL of each of these songs. The file containing all the downloaded songs was too big in size for github so instead we added songs from 2 different artists in the test-music-data directory for testing purposes. 
