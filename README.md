@@ -104,6 +104,13 @@ Provide an account of individual members and their efforts/contributions to the 
 
 I had the task of setting up the Spotify API to work with python and to create the dataset. I wrote the scrpits to extract all artists representing the 2 different Genres in study, get the songs for each artis and then download the preview of the song and extract audio features for each of the song.
 
+- Kevin Elkin
+- Liam McCarthy
+
+- Charul Sharma
+- Karan Sunil
+
+
 ## Technical Notes and Dependencies
 
 Any implementation details or notes we need to repeat your work. 
