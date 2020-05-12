@@ -123,7 +123,7 @@ To run the code you need to obatin a credentials to use the spotify API from the
 References to any papers, techniques, repositories you used:
 - Papers
 - Repositories
-  - https://spotipy.readthedocs.io/en/2.12.0/
+  - https://github.com/plamere/spotipy
   
 - Blog posts
   - https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b
