@@ -53,13 +53,31 @@ This section will link to the various code for your project (stored within this 
 
 To collect the data for the Bay area hip hop artists and Chinese Hip hop artists we made use of the spotipy library, a lightweight python API for Spotify. The spotipy library contained a search features that allowed us to query from their  database based on Genre, location and type. Once we created a list of artists we were using for our analysis, we queried the Top 10 tracks for each of these artists using Spotipy's top_tracks_artists function. Each track accompanied some meta data such as data released, duration etc., a preview URL 30 seconds long and URI which was a unique indicator for the track. The preview URL of each of these tracks was downloaded and saved to a directory based on genre (bay area hip hop or chinese hip hop) and artist name. The URI was then used to extract features for each track. The spotipy library contained a function that returned broad features of each song such as speechiness, danceability, energy, acousticness and 13 other features. All these features and some other meta data extracted from each track were saved in a dataframe with the artist's name, song URI and type of artist. 
 
-### cleaning
+### Preprocessing and Analysis
+[Spotify Preprocessing & Spotify Analysis](https://github.com/ucsd-dsc-arts/dsc160-midterm-group7/blob/master/code/Coarse_EDA.ipynb) - `Contains code to preprocess, analyze and generate results based on the coarse track features found by the Spotify API.`
 
-### analysis
+After the Spotify data was collected, we began to clean and preprocess the data. The data was first quickly examined by creating a joint plot matrix that allowed us to see the differences and similarities of different coarse audio features acquired by the Spotify API. Upon closer inspection we were able to understand the similarities and differences between Chinese and Bay Area Rap. Additionally, we could see what features were correlated with one another; this led us to further investigate the differences between Chinese and Bay Area Rap. 
 
-### generating results. 
+The data was preprocessed by eliminating the features that we saw as "useless" to our analysis for coarse audio features. These columns included the id, URI, and analysis_url. We labeled each song (509 songs per category) as bay_area or china and kept the name of the song and artist to later go back and identify songs of interest. 
 
-Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
+The most interesting features that had differences between Chinese and Bay Area Rap included acousticness, tempo, and speechiness. These features were later analyzed using bivariate KDE plots (explained in results and discussion) as well as density plots to represent the similarities and differences between the two styles of rap. 
+
+[Audio Preprocessing & Audio Analysis](https://github.com/ucsd-dsc-arts/dsc160-midterm-group7/blob/master/code/Audio_EDA.ipynb) - `Contains code to preprocess, analyze and generate results based on the audio features of the 30 second preview tracks found by the Spotify API.`
+
+This notebook aimed to analyze the Spotify preview audio for each song (30 seconds per song). This notebook was intended to generalize each category’s key audio styles and sounds by providing an in depth look into features and graphs such as Waveforms, MFCC, Mel-frequency Spectrograms, Spectral Centroid, and Chroma Frequencies. 
+
+We decided to choose 3 songs from each category to further analyze; these songs were chosen based on variation presented from taking the mean of each MFCC. To further explain this, we computed the MFCC for each song (1018 songs total) and then obtained the mean of each coefficient. Next we computed the variance among all 12 MFCC and sorted the list. We chose the 95th Percentile, 50th Percentile (Median), and 5th Percentile to represent High, Medium, and Low variations respectively. 
+
+We then closely analyzed the Waveforms, MFCC, Mel-frequency Spectrograms, Spectral Centroid, and Chroma Frequencies among all six of these songs. In addition to this, we also analyzed the average pitch energy present in each song from each of the semitones (Chroma Frequencies). This was intended to provide insight as to what semitones each category of songs (China/Bay Area) incorporate. 
+
+General notes: For both notebooks you will need to make use of the DSMLP server and have roughly 40-50 GB of RAM (I ran my notebooks using 55 GB of memory, 4 CPU, and 0 GPU). Much of the data cleaning can take up to 2 hours to complete across the entirety of the dataset. These files will then be exported to a csv, npy, json, etc. so they will not need to be completed later. Additionally, some of the models (especially the model using keras) will need to create the MFCC's for each of the 1018 songs which can take anywhere form 30-45 minutes to complete. Many (if not most) of the dataframes, dictionaries, and matrices were exported to another file and then read in later on to avoid having to rerun code that was computationally expensive to run. These files will be found in our GitHub and in the notebooks. To make viewing and grading our code easier, all cells have been run with appropriate output prior to being added to GitHub. 
+
+### Generating Results and Model Classification
+
+In both notebooks we decided to examine how well our features would perform on a variety of models. For the course audio features, we used SVM, Logistic Regression, Random Forest Classifier, and MLP classifier to asses model performance on all the useful features and the three features with the largest variation (acousticness, tempo, speechiness). 
+
+For the Audio features we used the MFCC's of all the song previews and feed that into a neural network in keras to try and classify the songs based on the MFCC's alone. The notebooks show the effectiveness of various models and features at the end titled "Model Creation". We can see the advantages and disadvantages of using solely coarse audio features (quicker runtime, slightly less accuracy) and using MFCC (longer runtime, better accuracy). 
+
 
 ## Results
 
