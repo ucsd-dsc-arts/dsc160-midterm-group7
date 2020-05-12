@@ -106,6 +106,8 @@ This section will contain links to documentation of your results. This can inclu
 
 
 ### Tracks with High, Medium, and low Variation of China and Bay Area Rap
+
+<br />
  
 [Goon.mp4 - Bay Area High Variation 95th Percentile](Song_Variation_MFCC/Goon.mp4)
 
@@ -118,6 +120,9 @@ This section will contain links to documentation of your results. This can inclu
 [Know My Style (feat. 艾福傑尼 & 黃旭) - Gizzle Remix.mp4 - China Median Variation 50th Percentile](Song_Variation_MFCC/Know_My_Style_Gizzle_Remix.mp4)
 
 [Life Is Beautiful.mp4 - China Low Variation 5th Percentile](Song_Variation_MFCC/Life_Is_Beautiful.mp4)
+
+<br />
+<br />
  
  <img src="results/mel_bay_high.png"/>
  <img src="results/mel_china_high.png"/>
