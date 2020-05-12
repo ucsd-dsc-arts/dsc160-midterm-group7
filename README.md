@@ -199,10 +199,14 @@ Provide an account of individual members and their efforts/contributions to the 
 I had the task of setting up the Spotify API to work with python and to create the dataset. I wrote the scrpits to extract all artists representing the 2 different Genres in study, get the songs for each artis and then download the preview of the song and extract audio features for each of the song.
 
 - Kevin Elkin
+
+I completed the entirety of what’s found in both the notebooks for `Coarse_EDA` and `Audio_EDA`. This includes everything from loading in the data, conducting all the EDA on both the features obtained from the Spotify API and audio files, creating all graphical representations for both Audio and Coarse Spotify features found inside the notebooks (Mel-frequency Spectrograms, Spectral Centroid, Chroma Frequencies, Waveforms, Density/Histogram Plots, and Bivariate KDE plots), conducting separate analysis on songs from both categories that had 5%, 50% (median), and 95% variation across the MFCC's, and building classification models for both Spotify's features as well as the audio features (2 separate models) using keras, SVM, Logistic Regression, Random Forest Classifier, and MLPClassifier.
+
 - Liam McCarthy
 
 I was in charge of flushing out our basic idea and creating a roadmap as to how we would acquire and analyze the data as well as interpretting results from the EDA work done by Kevin and compiling it into a cohesive story. This encompassed writing the explanations for the results and curating the discussion on the results in addition to some tying together of the final discussion sections.
 - Charul Sharma
+
 - Karan Sunil
 
 
