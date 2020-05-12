@@ -99,6 +99,10 @@ This section will contain links to documentation of your results. This can inclu
  <img src="results/All_Spotify_model.png"/>
  
  <img src="results/3_Spotify_model.png"/>
+
+
+
+
  
  ### Tracks with High, Medium, and low Variation of China and Bay Area Rap
  
