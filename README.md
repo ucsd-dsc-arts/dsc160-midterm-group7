@@ -131,3 +131,6 @@ References to any papers, techniques, repositories you used:
   
 - Blog posts
   - https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b
+  
+  
+  <div style="text-align:center"><img src="results/year_dist.png" /></div>
