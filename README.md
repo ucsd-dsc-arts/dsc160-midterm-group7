@@ -200,6 +200,7 @@ I had the task of setting up the Spotify API to work with python and to create t
 - Kevin Elkin
 - Liam McCarthy
 
+I was in charge of flushing out our basic idea and creating a roadmap as to how we would acquire and analyze the data as well as interpretting results from the EDA work done by Kevin and compiling it into a cohesive story. This encompassed writing the explanations for the results and curating the discussion on the results in addition to some tying together of the final discussion sections.
 - Charul Sharma
 - Karan Sunil
 
