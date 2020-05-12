@@ -186,10 +186,15 @@ Any implementation details or notes we need to repeat your work.
 
 References to any papers, techniques, repositories you used:
 - Papers
+
 - Repositories
   - https://github.com/plamere/spotipy
-  
+  - https://musicinformationretrieval.com/index.html
+
 - Blog posts
   - https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b
   
-  
+- Other
+  - https://librosa.github.io/librosa/generated/librosa.feature.chroma_stft.html
+  - https://en.wikipedia.org/wiki/Chroma_feature
+  - https://keras.io/guides/sequential_model/
