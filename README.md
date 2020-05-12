@@ -201,7 +201,11 @@ I had the task of setting up the Spotify API to work with python and to create t
 - Liam McCarthy
 
 I was in charge of flushing out our basic idea and creating a roadmap as to how we would acquire and analyze the data as well as interpretting results from the EDA work done by Kevin and compiling it into a cohesive story. This encompassed writing the explanations for the results and curating the discussion on the results in addition to some tying together of the final discussion sections.
+
 - Charul Sharma
+
+I assisted in setting the direction for our analysis, as well as lending a helping hand as needed. I set the tone for cultural analysis as well, highlighting what we were setting out to do and what it could teach us. I wrote a chunk of the abstract, as well as the majority of the discussion section.
+
 - Karan Sunil
 
 
