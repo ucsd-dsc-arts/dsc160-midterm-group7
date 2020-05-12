@@ -82,6 +82,8 @@ This section will contain links to documentation of your results. This can inclu
 - audio files (`.wav`, `.mp3`)
 - written text as `.pdf`
 
+## Coarse Features (Spotify API)
+
  <img src="results/speechiness_density.png"/>
  
  <img src="results/tempo_density.png"/>
@@ -104,6 +106,7 @@ This section will contain links to documentation of your results. This can inclu
 <br />
 <br />
 
+## Audio Features 
 
 ### Tracks with High, Medium, and low Variation of China and Bay Area Rap
 
