@@ -73,6 +73,38 @@ This section will contain links to documentation of your results. This can inclu
 
  <img src="results/speechiness_density.png"/>
  
+ <img src="results/tempo_density.png"/>
+ 
+ <img src="results/valence_density.png"/>
+ 
+ <img src="results/acousticness_density.png"/>
+ 
+ <img src="results/speechiness_v_acousticness.png"/>
+ 
+ <img src="results/speechiness_v_tempo.png"/>
+ 
+ <img src="results/speechiness_v_valence.png"/>
+ 
+ <img src="results/mel_bay_high.png"/>
+ <img src="results/mel_china_high.png"/>
+ 
+ <img src="results/mel_bay_mid.png"/>
+ <img src="results/mel_china_mid.png"/>
+ 
+ <img src="results/mel_bay_low.png"/>
+ <img src="results/mel_china_low.png"/>
+ 
+ <img src="results/chroma_bay_high.png"/>
+ <img src="results/chroma_china_high.png"/>
+ 
+ <img src="results/chroma_bay_mid.png"/>
+ <img src="results/chroma_china_mid.png"/>
+ 
+ <img src="results/chroma_bay_low.png"/>
+ <img src="results/chroma_china_low.png"/>
+ 
+ <img src="results/chroma_both.png"/>
+ 
 [Goon.mp4 - Bay Area High Variation 95th Percentile](Song_Variation_MFCC/Goon.mp4)
 
 [In My Hood.mp4 - Bay Area Median Variation 50th Percentile](Song_Variation_MFCC/In_My_Hood.mp4)
