@@ -112,7 +112,7 @@ This figure is a bivariate plot examining Bay Area and Chinese rap on the metric
  
  <img src="results/All_Spotify_model.png"/>
  
-
+The above images show how effective coarse features found from the Spotify API were in predicting the type of Rap music (China/Bay Area). We decided to complete the experiment using all the relative features and the three features that showed the most differences between the two. As shown, Random Forest Classifier preformed the best out of all the models when given all features. Despite this, using just the features of 'acousticness', 'tempo', 'speechiness' improved the classification results for MLPClassifier and Logistic Regression.
  
  <img src="results/3_Spotify_model.png"/>
 
