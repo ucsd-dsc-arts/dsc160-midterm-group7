@@ -75,42 +75,54 @@ For the Audio features we used the MFCC's of all the song previews and feed that
 
 ## Results
 
+For our results for this project we explored 2 different sets of features. The first set are the coarse audio features extracted by Spotify for the dataset. The second set is the more granular audio features extracted manually using different techniques. This was in an effort to determine where the differences lie between the two regions of music on a thorough number of metrics and what follows are the interesting points we found.
 
-This section will contain links to documentation of your results. This can include figures, sound files, videos, bitmaps, as appropriate to your domain of analysis. Each result should include a brief textual description, and all should be listed below: 
-
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- audio files (`.wav`, `.mp3`)
-- written text as `.pdf`
-
-## Coarse Features, EDA, and Model (Spotify API)
+# Coarse Audio Features:
 
  <img src="results/speechiness_density.png"/>
  
+This figure examines the difference in density for the “speechiness” feature for both Bay Area and Chinese rap. Speechiness is defined by Spotify as “the presence of spoken words in a track. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music.” As can be seen from the plot, Bay Area rap is in general more “speechy” than Chinese rap.
+
  <img src="results/tempo_density.png"/>
  
+This figure examines the difference in density for the “tempo” feature for both Bay Area and Chinese rap. Tempo is defined by Spotify as “overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.” As can be seen from the plot, Bay Area rap has a bimodal distribution centered on low and midrange tempos while Chinese rap has a bimodal distribution with more songs at the low end of BPM and more density at the high end and low density in the midrange.
+
  <img src="results/valence_density.png"/>
  
+This figure examines the difference in density for the “valence” feature for both Bay Area and Chinese rap. Valence is defined by Spotify as “a measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).” As can be seen from the plot, both regions of rap have a more normal distribution centered around the midpoint of the valence feature with Chinese rap having a higher density on the low end of valence meaning it is more sad or depressed in nature potentially.
+ 
  <img src="results/acousticness_density.png"/>
+
+This figure examines the difference in density for the “acousticness” feature for both Bay Area and Chinese rap. Acousticness is defined by Spotify as “a confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic (not having electrical amplification).” As can be seen from the plot, these plots are skewed right with Bay Area rap having extremely low acousticness meaning it contains a lot of electrical amplification.
+
+The bimodal nature of the speechiness and the densities we saw of the other carse Spotify features lead us to investigate further to compare speechiness to these other features. Therefore, what follows is a series of bivariate plots comparing speechiness to these other features across both regions.
+
  
  <img src="results/speechiness_v_acousticness.png"/>
  
+This figure is a bivariate plot examining Bay Area and Chinese rap on the metrics of speechinees and acousticness. As can be seen from the plot, Chinese rap has more variation in acousticness with little variation in speechiness while Bay Area rap has very little in acousticness and more variation in speechiness than Chinese rap.
+ 
  <img src="results/speechiness_v_tempo.png"/>
+ 
+This figure is a bivariate plot examining Bay Area and Chinese rap on the metrics of speechinees and tempo. As can be seen from the plot, though Chinese rap is not as “speechy” it does vary more across tempos as opposed to Bay Area rap. Bay Area rap is focused more on low tempos, there are some high tempo songs but they are still the same speechiness.
  
  <img src="results/speechiness_v_valence.png"/>
  
+This figure is a bivariate plot examining Bay Area and Chinese rap on the metrics of speechinees and valence. As can be seen from the plot, the less “speechy” Chinese rap has a wide range of valence meaning it could be more happy or more sad but is swayed more towards the lower valence meaning it’s generally more melancholy. Bay Area rap hovers around the middle with some lower valence density focused at a lower speechiness.
+ 
  <img src="results/All_Spotify_model.png"/>
+ 
+
  
  <img src="results/3_Spotify_model.png"/>
 
-<br />
-<br />
-<br />
 
-## Audio Features, EDA, and Model
 
-### Tracks with High, Medium, and low Variation of China and Bay Area Rap
+# Granular Audio Features:
 
-<br />
+After looking at the Spotify features, we wanted to get a more fine grain view into the differences and similarities between the rap music from the two regions. As discussed in the code section, we separated our dataset into different percentiles of investigation based on the MFCC coefficients. We noticed a distinct difference in how the songs sounded and used that as the basis of our analysis. Here are some tracks from the different percentiles to see for yourself:
+ 
+# Tracks with High, Medium, and low Variation of China and Bay Area Rap
  
 [Goon.mp4 - Bay Area High Variation 95th Percentile](Song_Variation_MFCC/Goon.mp4)
 
@@ -123,29 +135,40 @@ This section will contain links to documentation of your results. This can inclu
 [Know My Style (feat. 艾福傑尼 & 黃旭) - Gizzle Remix.mp4 - China Median Variation 50th Percentile](Song_Variation_MFCC/Know_My_Style_Gizzle_Remix.mp4)
 
 [Life Is Beautiful.mp4 - China Low Variation 5th Percentile](Song_Variation_MFCC/Life_Is_Beautiful.mp4)
-
-<br />
-<br />
  
  <img src="results/mel_bay_high.png"/>
  <img src="results/mel_china_high.png"/>
  
+These figures show a comparison between Chinese and Bay Area rap songs that had high variation in their MFCCs and their Mel-Frequency Spectrograms for the duration of the 30 second clips. As can be seen in the plots, they look relatively similar with only the slight difference of the Chinese rap having slightly more distribution it’s frequency over time.
+ 
  <img src="results/mel_bay_mid.png"/>
  <img src="results/mel_china_mid.png"/>
+ 
+These figures show a comparison between Chinese and Bay Area rap songs that had medium variation in their MFCCs and their Mel-Frequency Spectrograms for the duration of the 30 second clips. As can be seen in the plots, there are distinctly louder low frequency sounds in the Bay Area rap as opposed to the Chinese rap, but the Chinese rap has more consistency in it’s frequencies.
  
  <img src="results/mel_bay_low.png"/>
  <img src="results/mel_china_low.png"/>
  
+These figures show a comparison between Chinese and Bay Area rap songs that had low variation in their MFCCs and their Mel-Frequency Spectrograms for the duration of the 30 second clips. As can be seen in the plots, we can see a sort of inverse relationship as above with the Chinese rap having louder low frequencies throughout and Bay Area rap being slightly more consistent.
+ 
  <img src="results/chroma_bay_high.png"/>
  <img src="results/chroma_china_high.png"/>
+ 
+These figures show a comparison between Chinese and Bay Area rap songs that had high variation in their MFCCs and their Chroma Frequencies (i.e. the energy of a certain pitch at a given time) for the duration of the 30 second clips. As can be seen from the plots, the Bay Area rap had slightly more energy in the A to C range as opposed to the Chinese rap where Chinese rap saw the highest energy around the A#/Bflat pitch.
  
  <img src="results/chroma_bay_mid.png"/>
  <img src="results/chroma_china_mid.png"/>
  
+These figures show a comparison between Chinese and Bay Area rap songs that had medium variation in their MFCCs and their Chroma Frequencies (i.e. the energy of a certain pitch at a given time) for the duration of the 30 second clips. As can be seen from the plots, the Bay Area rap has a lot of energy in the G to E pitch range while the Chinese rap has a lot of inconsistencies; however, this might be because the graph is split by beat and there are more beats in the songs analyzed making the plot seem more noisy.
+ 
  <img src="results/chroma_bay_low.png"/>
  <img src="results/chroma_china_low.png"/>
  
+These figures show a comparison between Chinese and Bay Area rap songs that had low variation in their MFCCs and their Chroma Frequencies (i.e. the energy of a certain pitch at a given time) for the duration of the 30 second clips. As can be seen from the plots, the Bay Area songs have high energy around the D pitch with some more variation in pitches towards the end of the clip while the Chinese rap songs seem to have more energy in the A-A#/Bflat along with the E/F range.
+ 
  <img src="results/chroma_both.png"/>
+ 
+This figure shows the average energy of a certain pitch across the duration of the songs for both Chinese and Bay Area rap. This plot has a few key points in that they both follow a similar distribution line with more energy given to the E-G range of pitches and less energy on either side of the scale. Also, Bay Area songs on average have more energy in their pitches as opposed to Chinese rap with the exception of the D# pitch which is an interesting outlier.
  
  <img src="results/Keras.png"/>
  <img src="results/Keras2.png"/>
