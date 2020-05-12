@@ -70,6 +70,19 @@ This section will contain links to documentation of your results. This can inclu
 - audio files (`.wav`, `.mp3`)
 - written text as `.pdf`
 
+
+Goon.mp4 - Bay Area High Variation 95th Percentile](Song_Variation_MFCC/Goon.mp4)
+
+[In My Hood.mp4 - Bay Area Median Variation 50th Percentile](Song_Variation_MFCC/In My Hood.mp4)
+
+[Goon.mp4 - Bay Area Low Variation 5th Percentile](Song_Variation_MFCC/I'm a Gunner.mp4)
+
+[Goon.mp4 - China High Variation 95th Percentile](Song_Variation_MFCC/隻手遮天.mp4)
+
+[Goon.mp4 - China Median Variation 50th Percentile](Song_Variation_MFCC/Know My Style (feat. 艾福傑尼 & 黃旭) - Gizzle Remix.mp4)
+
+[Goon.mp4 - China Low Variation 5th Percentile](Song_Variation_MFCC/Life Is Beautiful.mp4)
+
 ## Discussion
 
 (30 points, three to five paragraphs)
