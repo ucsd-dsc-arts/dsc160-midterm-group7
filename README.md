@@ -1,4 +1,4 @@
-# Project Title
+# Cultural Analytics of Chinese and Bay Area Rap
 
 DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
@@ -115,6 +115,13 @@ This section will contain links to documentation of your results. This can inclu
  <img src="results/chroma_china_low.png"/>
  
  <img src="results/chroma_both.png"/>
+ 
+ <img src="results/All_Spotify_model.png"/>
+ 
+ <img src="results/3_Spotify_model.png"/>
+ 
+ <img src="results/Keras.png"/>
+ <img src="results/Keras2.png"/>
  
 [Goon.mp4 - Bay Area High Variation 95th Percentile](Song_Variation_MFCC/Goon.mp4)
 
