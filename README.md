@@ -120,7 +120,7 @@ This figure is a bivariate plot examining Bay Area and Chinese rap on the metric
 
 # Granular Audio Features:
 
-After looking at the Spotify features, we wanted to get a more fine grain view into the differences and similarities between the rap music from the two regions. As discussed in the code section, we separated our dataset into different percentiles of investigation based on the MFCC coefficients. We noticed a distinct difference in how the songs sounded and used that as the basis of our analysis. Here are some tracks from the different percentiles to see for yourself:
+After looking at the Spotify features, we wanted to get a more fine grain view into the differences and similarities between the rap music from the two regions. As discussed in the code section, we separated our dataset into different percentiles of investigation based on the MFCC coefficients. We examined the tracks that had high, medium, and low variation between the average MFCC coefficients and then found the variation within their respected class (China, Bay Area). The songs corresponding to a variation of tbe 95th percentile, 50th percentile (median), and 5th percentile was used for in depth analysis. We noticed a distinct difference in how the songs sounded and used that as the basis of our analysis. Here are some tracks from the different percentiles to see for yourself:
  
 # Tracks with High, Medium, and low Variation of China and Bay Area Rap
  
