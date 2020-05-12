@@ -96,6 +96,24 @@ This section will contain links to documentation of your results. This can inclu
  
  <img src="results/speechiness_v_valence.png"/>
  
+ <img src="results/All_Spotify_model.png"/>
+ 
+ <img src="results/3_Spotify_model.png"/>
+ 
+ ### Tracks with High, Medium, and low Variation of China and Bay Area Rap
+ 
+[Goon.mp4 - Bay Area High Variation 95th Percentile](Song_Variation_MFCC/Goon.mp4)
+
+[In My Hood.mp4 - Bay Area Median Variation 50th Percentile](Song_Variation_MFCC/In_My_Hood.mp4)
+
+[I'm a Gunner.mp4 - Bay Area Low Variation 5th Percentile](Song_Variation_MFCC/I'm_a_Gunner.mp4)
+
+[隻手遮天.mp4 - China High Variation 95th Percentile](Song_Variation_MFCC/隻手遮天.mp4)
+
+[Know My Style (feat. 艾福傑尼 & 黃旭) - Gizzle Remix.mp4 - China Median Variation 50th Percentile](Song_Variation_MFCC/Know_My_Style_Gizzle_Remix.mp4)
+
+[Life Is Beautiful.mp4 - China Low Variation 5th Percentile](Song_Variation_MFCC/Life_Is_Beautiful.mp4)
+ 
  <img src="results/mel_bay_high.png"/>
  <img src="results/mel_china_high.png"/>
  
@@ -116,24 +134,9 @@ This section will contain links to documentation of your results. This can inclu
  
  <img src="results/chroma_both.png"/>
  
- <img src="results/All_Spotify_model.png"/>
- 
- <img src="results/3_Spotify_model.png"/>
- 
  <img src="results/Keras.png"/>
  <img src="results/Keras2.png"/>
  
-[Goon.mp4 - Bay Area High Variation 95th Percentile](Song_Variation_MFCC/Goon.mp4)
-
-[In My Hood.mp4 - Bay Area Median Variation 50th Percentile](Song_Variation_MFCC/In_My_Hood.mp4)
-
-[I'm a Gunner.mp4 - Bay Area Low Variation 5th Percentile](Song_Variation_MFCC/I'm_a_Gunner.mp4)
-
-[隻手遮天.mp4 - China High Variation 95th Percentile](Song_Variation_MFCC/隻手遮天.mp4)
-
-[Know My Style (feat. 艾福傑尼 & 黃旭) - Gizzle Remix.mp4 - China Median Variation 50th Percentile](Song_Variation_MFCC/Know_My_Style_Gizzle_Remix.mp4)
-
-[Life Is Beautiful.mp4 - China Low Variation 5th Percentile](Song_Variation_MFCC/Life_Is_Beautiful.mp4)
 
 ## Discussion
 
