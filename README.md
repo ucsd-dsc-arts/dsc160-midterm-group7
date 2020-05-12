@@ -82,7 +82,7 @@ This section will contain links to documentation of your results. This can inclu
 - audio files (`.wav`, `.mp3`)
 - written text as `.pdf`
 
-## Coarse Features (Spotify API)
+## Coarse Features, EDA, and Model (Spotify API)
 
  <img src="results/speechiness_density.png"/>
  
@@ -106,7 +106,7 @@ This section will contain links to documentation of your results. This can inclu
 <br />
 <br />
 
-## Audio Features 
+## Audio Features, EDA, and Model
 
 ### Tracks with High, Medium, and low Variation of China and Bay Area Rap
 
