@@ -147,6 +147,8 @@ The subsequent paragraphs could address questions including:
 - How do you think the original artists/musicians would respond to this type of analysis? Would it change/inform their practice in some way?
 - How do your results relate to broader social, cultural, economic political, etc., issues? 
 - In what future directions could you expand this work?
+Right now our audio features are calculated on a 30 second preview of the song. This clip of the song is not completely repetitive of the entire song. More often than not this just includes the catchiest part of the song and is not representative of the full song. Using the full song to calculate audio features would help in improving our classification. 
+Further, it would be interesting to analyse the lyrics of these songs. Using natural language processing we could understand the similarities and differences between these two different genres of music. It would be interesting to see if they sing about similar topics. This would require us to translate the chinese lyrics to English or vice versa, which can be quite a tricky task. 
 
 ## Team Roles
 
