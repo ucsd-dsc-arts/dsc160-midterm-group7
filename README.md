@@ -211,6 +211,8 @@ I assisted in setting the direction for our analysis, as well as lending a helpi
 
 - Karan Sunil
 
+I performed research on the cultural similarities and differences between western and eastern hemisphere rap and relayed this information to the team. I helped interpret the meaning of the EDA and the cultural importance. I also helped in writing the code section for audio pre processing and audio analysis. I also wrote the description of the models in the results along with the future work and edited the abstract. 
+
 
 ## Technical Notes and Dependencies
 
