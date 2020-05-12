@@ -100,12 +100,11 @@ This section will contain links to documentation of your results. This can inclu
  
  <img src="results/3_Spotify_model.png"/>
 
-<br />
-<br />
-<br />
 
 
-### Tracks with High, Medium, and low Variation of China and Bay Area Rap
+
+ 
+ ### Tracks with High, Medium, and low Variation of China and Bay Area Rap
  
 [Goon.mp4 - Bay Area High Variation 95th Percentile](Song_Variation_MFCC/Goon.mp4)
 
@@ -149,15 +148,14 @@ This section will contain links to documentation of your results. This can inclu
 
 The first paragraph should be a short summary describing your results.
 
-The subsequent paragraphs could address questions including:
-- Why is this culturally relevant?
-- How does your computational approach differ from the traditional art historical, musicological, manuel/subjective approach to analyzing your cultural subject? 
-- How do you think the original artists/musicians would respond to this type of analysis? Would it change/inform their practice in some way?
-- How do your results relate to broader social, cultural, economic political, etc., issues? 
-- In what future directions could you expand this work?
+As eastern and western cultures blend, it is interesting to see how they retain differences while growing together. Globalization has been a huge factor in culture for the last few decades, and music is no exception; styles like rap and hip hop continue to permeate cultures in countries big and small. However, countries remain influenced by their own factors, and even as genres enter new countries, they are influenced by the countries’ own individual cultural norms.
 
-Right now our audio features are calculated on a 30 second preview of the song. This clip of the song is not completely repetitive of the entire song. More often than not this just includes the catchiest part of the song and is not representative of the full song. Using the full song to calculate audio features would help in improving our classification. 
-Further, it would be interesting to analyse the lyrics of these songs. Using natural language processing we could understand the similarities and differences between these two different genres of music. It would be interesting to see if they sing about similar topics. This would require us to translate the chinese lyrics to English or vice versa, which can be quite a tricky task. 
+Thus, studying music as it evolves in different countries is a key to understanding the countries’ evolutions themselves; music is a key signifier of culture, and countries with similar music will have similar cultures. The correlation of music to culture can be seen at a smaller scale in the rural southern United States: the region is unified by country music, and these regions share a more similar culture to each other than to more metropolitan areas. Ancient cultures each developed their own unique music, indicative of unique cultures; it then follows that as cultures become more similar, their music follows.
+
+Our current audio features are calculated on a 30 second preview of the song. This clip of the song is not completely representative of the entire song, more often than not this just including the song’s catchiest part. Using the full song to calculate audio features would help in improving our classification, and remove any bias created. Further, it would be interesting to analyse the lyrics of these songs. Using natural language processing we could understand the similarities and differences between these two different genres of music. It would be interesting to see if they sing about similar topics. This would require us to translate the chinese lyrics to English or vice versa, which can be quite a tricky task.
+
+It would be interesting, as well, to track these similarities and differences over time. As we track how they evolve in tandem to the cultures of the countries where they are evolving, finding merit in or disproving the theory that a culture’s evolution can be tracked by its music.
+
 
 ## Team Roles
 
