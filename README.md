@@ -173,6 +173,7 @@ This figure shows the average energy of a certain pitch across the duration of t
  <img src="results/Keras.png"/>
  <img src="results/Keras2.png"/>
  
+The above shows our model which uses the MFCC's of all songs to classify whether a song is from the East (China) or West (Bay Area). We used a training set which included 80% of our 1018 songs and a testing set that included 20% of the total songs In addition to this, we used some of the training data to make a validation set to tune the hyperparameters of our model. As shown, MFCC's are very strong features that can produce relatively strong results even on two culturally similar genres. This is because instead of just examining coarse features we are gathering information about the shape of a spectral envelope (the song).
 
 ## Discussion
 
